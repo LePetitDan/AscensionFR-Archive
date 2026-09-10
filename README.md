@@ -9,7 +9,7 @@ plus maintenu et ne recevra pas de correctifs.
 
 ## Ce qu'il y a dedans
 
-- **`traductions/`** — **639 474 textes français** (soit près de **1 375 000 champs** une
+- **`traductions/`** — **642 964 textes français** (soit près de **1 375 000 champs** une
   fois servis en jeu, une fiche de sort en comptant quatre) : quêtes, objets, sorts,
   dialogues, pages de livres lisibles en jeu, messages système et d'interface. Plus le
   glossaire des arbitrages de vocabulaire, dans
@@ -38,11 +38,13 @@ Les rapports des joueurs, les pseudonymes et toute donnée personnelle collecté
 projet ont été supprimés et ne sont pas archivés. Les fichiers extraits du client de jeu
 non plus — polices comprises.
 
-Concrètement, avant publication : les annonces d'événements et les journaux de jeu où le
-client avait inséré des noms de personnages ont été retirés en bloc (5 093 entrées), les
-textes de quête où un prénom s'était figé à la place de la variable `$n` ont été réparés,
-et les pseudonymes cités dans le code ou les documents ont été masqués. Les formes propres,
-celles qui portent `$n`, sont conservées : elles valent pour n'importe quel serveur.
+Concrètement, avant publication : les annonces d'événements, classements et journaux de jeu
+où le client avait inséré un nom de personnage ont été retirés (1 603 entrées), les textes
+de quête où un prénom s'était figé à la place de la variable `$n` ont été réparés, et les
+pseudonymes cités dans le code ou les documents ont été masqués. Le critère retenu est
+structurel : dans « *première place : X* », la position est réservée à un joueur — si elle
+ne porte pas une variable du jeu, elle porte un nom. **Les gabarits qui portent une
+variable sont conservés** : ils valent pour n'importe quel serveur.
 
 Une réserve, parce qu'elle est honnête : dans un texte narratif, un prénom de personnage
 inséré par le client est *typographiquement identique* à un nom de personnage non joueur.
