@@ -1,0 +1,943 @@
+{
+ "1005008": {
+  "D": "Permet à un menuisier de fabriquer des armes de base et d'autres objets artisanaux en bois jusqu'à une compétence potentielle maximale de 75. Nécessite du bois collecté avec la compétence Coupe de bois.",
+  "N": "Apprenti menuisier"
+ },
+ "105307": {
+  "D": "Vous possédez cet article de vanité",
+  "N": "Livre de conquête"
+ },
+ "107": {
+  "D": "Donne une chance de bloquer les attaques ennemies au corps à corps et à distance.",
+  "N": "Bloc"
+ },
+ "109498": {
+  "D": "Les arbres à proximité apparaissent sur la mini-carte. Une seule forme de suivi peut être active à la fois.",
+  "N": "Trouver des arbres"
+ },
+ "1120594": {
+  "D": "Supprime instantanément tous les effets de poison, de saignement et de maladie. De plus, votre armure a augmenté de 10% pendant 8 sec.",
+  "N": "Forme de pierre"
+ },
+ "118411": {
+  "D": "Niveau : |cffff1a1a22|r",
+  "N": "Glyphe d'hémorragie"
+ },
+ "118511": {
+  "D": "Niveau : |cff1aff1a11|r",
+  "N": "Glyphe de frappe héroïque"
+ },
+ "118818": {
+  "D": "Niveau : |cff1aff1a18|r",
+  "N": "Glyphe de fléau impie"
+ },
+ "129243": {
+  "D": "Niveau : |cff1aff1a1|r",
+  "N": "Chemin de la dualité"
+ },
+ "13977860": {
+  "D": "Permet au bûcheron de transformer des bûches en planches.  Cette compétence nécessite une scierie.",
+  "N": "Coupe du bois"
+ },
+ "2018": {
+  "D": "Permet à un forgeron de fabriquer des armes et armures de base jusqu'à une compétence potentielle maximale de 75. Nécessite de la pierre et du métal trouvés avec la compétence minière.",
+  "N": "Forge"
+ },
+ "20595": {
+  "D": "Vos chances de infliger un coup critique avec des armes à feu sont augmentées de 1 %.",
+  "N": "Spécialisation des armes à feu"
+ },
+ "20596": {
+  "D": "Réduit les dégâts subis par les sorts de Givre de 2%.",
+  "N": "Résistance au gel"
+ },
+ "23335": {
+  "D": "Vous tenez le drapeau Silverwing.",
+  "N": "Drapeau de l'Alliance"
+ },
+ "2481": {
+  "D": "Permet au nain de détecter un trésor à proximité et de le faire apparaître sur la mini-carte.  Dure jusqu’à annulation.",
+  "N": "Trouver un trésor"
+ },
+ "2550": {
+  "D": "Permet à un cuisinier de préparer des recettes de base jusqu'à une compétence potentielle maximale de 75. Nécessite de la viande de bête et du feu pour préparer la nourriture.",
+  "N": "Cuisson"
+ },
+ "257209": {
+  "D": "Vous ne pouvez pas lancer de sorts en participant à un mini-jeu Azzar Faire.",
+  "N": "Mini-jeu Azzar Faire"
+ },
+ "257217": {
+  "D": "Déclenche un son de klaxon fort pendant la course.",
+  "N": "Klaxon"
+ },
+ "2580": {
+  "D": "Les veines minérales à proximité apparaissent sur la mini-carte. Une seule forme de suivi peut être active à la fois.",
+  "N": "Trouver des minéraux"
+ },
+ "2584": {
+  "D": "Restez à portée du guide spirituel pour pouvoir ressusciter.",
+  "N": "En attendant de ressusciter"
+ },
+ "2656": {
+  "D": "Permet au mineur de transformer le minerai en barres de métal.  Cette compétence nécessite une forge.",
+  "N": "Fonte"
+ },
+ "270704": {
+  "D": "Niveau : |cff1aff1a10|r",
+  "N": "Ferveur de combat"
+ },
+ "272255": {
+  "D": "Niveau : |cffff1a1a35|r",
+  "N": "Éclipse totale de Lune"
+ },
+ "273453": {
+  "D": "Niveau : |cff1aff1a10|r",
+  "N": "Ombre pure"
+ },
+ "273458": {
+  "D": "Niveau : |cffff1a1a36|r",
+  "N": "Crash de l'ombre"
+ },
+ "275090": {
+  "D": "Niveau : |cff1aff1a10|r",
+  "N": "Coordination agile"
+ },
+ "275093": {
+  "D": "Niveau : |cffff1a1a20|r",
+  "N": "Griffes Pourpres"
+ },
+ "275965": {
+  "D": "Niveau : |cff1aff1a14|r",
+  "N": "Bouclier à viande de maître"
+ },
+ "276890": {
+  "D": "Niveau : |cff1aff1a10|r",
+  "N": "Ranger du bosquet"
+ },
+ "276896": {
+  "D": "Niveau : |cff1aff1a10|r",
+  "N": "Agilité du Grove Ranger"
+ },
+ "277401": {
+  "D": "Niveau : |cff1aff1a10|r",
+  "N": "Défense sauvage"
+ },
+ "283541": {
+  "D": "Niveau : |cff1aff1a10|r",
+  "N": "Frénésie primordiale"
+ },
+ "284026": {
+  "D": "Niveau : |cffff1a1a25|r",
+  "N": "Tactiques de guérilla"
+ },
+ "284711": {
+  "D": "Niveau : |cffff1a1a20|r",
+  "N": "Protection de l'abjurateur : Arcane"
+ },
+ "288821": {
+  "D": "Niveau : |cffff1a1a40|r",
+  "N": "Maelström runique"
+ },
+ "291060": {
+  "D": "Niveau : |cffff1a1a40|r",
+  "N": "Premier au combat"
+ },
+ "300501": {
+  "D": "Réduit le temps de recharge de |cffffffffTestament de foi|r de 60 s et la durée de |cffffffffContrainte sacrée|r de 30 s.",
+  "N": "Bougie sacrée"
+ },
+ "300512": {
+  "D": "Augmente les dégâts infligés par |cffffffffRighteous Tempest|r et |cffffffffCondamn|r de 30 %.\r\n\r\nDe plus, |cffffffffRighteous Tempest|r réduit désormais tous les dégâts subis de 20 % lorsqu'il est actif.",
+  "N": "Chevalier d'argent"
+ },
+ "300514": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\Spell_Holy_SealOfFury:20:20:0:0|t |cffFFFFFFContrainte sacrée|r\nNe peut pas être ciblé par |cFFFFFFFFTestaments|R.",
+  "N": "Testament de force"
+ },
+ "300607": {
+  "D": "Votre |cffffffffTitanstrike|r vous soigne désormais de deux fois les dégâts infligés.",
+  "N": "Chute des Titans"
+ },
+ "301059": {
+  "D": "Réduit le coût en énergie de |cffffffffFente vertueuse|r de 5 et de |cffffffffBalance sacrée|r de 10.",
+  "N": "Grâce d'Aman'thul"
+ },
+ "301253": {
+  "D": "Les dégâts périodiques infligés ont désormais 10 % de chances de générer 5 énergies.",
+  "N": "Guerrier de Tyr"
+ },
+ "301302": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\inv_shield_draenorraid_d_02:20:20:0:0|t |cffFFFFFFBoucliergore|r\n|cffff9933Génère 2 feux démoniaques|r\r\nEntailler la cible avec votre bouclier à pointes, causant 48 dégâts de feu de menace élevée, évolutifs en fonction de votre valeur de blocage.",
+  "N": "Boucliergore"
+ },
+ "301339": {
+  "D": "Les dégâts infligés par |cffffffffRighteous Tempest|r se propagent désormais |cffffffffCondamn|r sur les ennemis affectés à un ennemi proche.",
+  "N": "Sainte Tempête"
+ },
+ "3018": {
+  "D": "Exiger une arme à distance",
+  "N": "Tirer"
+ },
+ "302053": {
+  "D": "Embarquez pour une aventure.\nLe monde est plus dangereux.\nAugmente l'expérience des quêtes de 100%.\nRéduit l'expérience des monstres tués de 50%.\nAugmente les dégâts physiques subis de 49%.\nAugmente les dégâts magiques subis de 50%.\nRéduit les dégâts infligés de 26%.\nRéduit les soins prodigués de 15%.\n\nVous n'obtiendrez pas d'expérience avec des quêtes sans objectifs.",
+  "N": "Mode Aventure !"
+ },
+ "302548": {
+  "D": "Les dégâts périodiques infligés ont désormais 19 % de chances de réduire le temps de recharge de |cffffffffMalédiction de Xoroth|r de 3 secondes.\r\n\r\nLes chances de déclenchement sont augmentées de 2 % pour chaque pile de |cffff9933Demonfire|r active.",
+  "N": "Une malédiction venue de l'enfer"
+ },
+ "302581": {
+  "D": "Chaque pile de |cffffffffDemon's Blood|r augmente également votre armure de 1 %.",
+  "N": "Peau de démon"
+ },
+ "32512": {
+  "D": "Niveau : |cffff1a1a24|r",
+  "N": "Coup brutal"
+ },
+ "3273": {
+  "D": "Permet de créer et d'utiliser des bandages jusqu'à une compétence potentielle de 75. Les tissus utilisés pour fabriquer ces bandages se retrouvent sur les humanoïdes du monde entier.",
+  "N": "PREMIERS SECOURS"
+ },
+ "3274": {
+  "D": "Permet la création et l'utilisation de bandages jusqu'à une compétence potentielle de 150. Les tissus utilisés pour fabriquer ces bandages se trouvent sur les humanoïdes du monde entier.",
+  "N": "PREMIERS SECOURS"
+ },
+ "365083": {
+  "N": "Poison ralentissant"
+ },
+ "3908": {
+  "D": "Permet à un tailleur de confectionner des armures en tissu de base jusqu'à une compétence potentielle maximale de 75. Nécessite du tissu trouvé sur les humanoïdes.",
+  "N": "Adaptation"
+ },
+ "500008": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\custom_Paladinskill_24_Border:20:20:0:0|t |cffFFFFFFZalotisme|r\nInflige 40 % des dégâts des armes à main sous forme de dégâts sacrés.",
+  "N": "Fanatisme"
+ },
+ "500678": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\Spell_Holy_SealOfFury:20:20:0:0|t |cffFFFFFFContrainte sacrée|r\nNe peut pas être ciblé par |cFFFFFFFFTestaments|R.",
+  "N": "Testament de courage"
+ },
+ "500904": {
+  "D": "Frappez un ennemi avec une puissance démoniaque, infligeant 100 % des dégâts de l'arme plus 3 et générant 20 de rage.",
+  "N": "Rompre"
+ },
+ "500906": {
+  "D": "Consommé pour renforcer les capacités. Se cumule jusqu'à 6 fois.",
+  "N": "Feu démoniaque"
+ },
+ "501570": {
+  "D": "Poignardez un ennemi avec une ferveur sacrée, infligeant 90 % des dégâts de l'arme plus 16 et conférant un |cffffffffSerment|r.\r\n\r\n|cffffffff Serment : |r Vos capacités infligent des dégâts ou soignent 10 % de plus.",
+  "N": "Fente vertueuse"
+ },
+ "501601": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\Spell_Holy_SealOfFury:20:20:0:0|t |cffFFFFFFContrainte sacrée|r\nNe peut pas être ciblé par |cFFFFFFFFTestaments|R.",
+  "N": "Testament de foi"
+ },
+ "503135": {
+  "D": "Libérez un |cffffffffOath Breaker|r, infligeant 32 dégâts sacrés à un ennemi.\r\n\r\nConsomme vos |cffffffffSerments|r, infligeant des dégâts supplémentaires pour chacun d'entre eux consommé.",
+  "N": "Punir"
+ },
+ "520007": {
+  "D": "Les dégâts directs infligés ont désormais 20 % de chances de frapper un ennemi avec |cffffffffScourgebane|r, infligeant 21 dégâts de Flamme sacrée supplémentaires.",
+  "N": "Fléau du Fléau"
+ },
+ "520009": {
+  "D": "Augmente les dégâts de |cffffffffFente vertueuse|r et |cFFFFFFFFLame d'argent|r de 20 %.",
+  "N": "Formation Paladin"
+ },
+ "520017": {
+  "D": "|cffffffffLame d'Argent|r a désormais 10 % de chances de frapper une fois supplémentaire.",
+  "N": "L'écho de la lumière"
+ },
+ "520032": {
+  "D": "Votre |cffffffffSerment : Condamner|r offre désormais 5 % de chances de coup critique supplémentaires.",
+  "N": "Enseignements de la Cathédrale"
+ },
+ "520406": {
+  "D": "Après 10 cumuls, la prochaine étoile dispersée déclenchée appellera une comète.",
+  "N": "Deuxième Lune"
+ },
+ "520534": {
+  "D": "Les dégâts infligés par |cFFFFFFFFRighteous Tempest|r infligent désormais 39 dégâts sacrés supplémentaires, et lorsque vous infligez des dégâts, vous attirez les ennemis à moins de 15 mètres vers vous.\n\n|cff00DDFFMaintenez SHIFT pour plus d'informations|r",
+  "N": "Rituels des Templiers"
+ },
+ "520608": {
+  "D": "|cffffffffGuerrier de l'aube|r augmente désormais également les dégâts et les chances de coup critique de votre prochaine |cffffffffLame d'argent|r de 20 %.",
+  "N": "Formation à la défense contre le Fléau"
+ },
+ "520812": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\Ability_Paladin_ArtofWar:20:20:0:0|t |cffFFFFFFSerment : Châtiment|r\nDégâts critiques augmentés de 5%.",
+  "N": "Secrets écarlates"
+ },
+ "524620": {
+  "D": "Les dégâts infligés par |cffffffffCondamnation|r ont désormais 15 % de chances de consacrer la terre autour de vous avec une ferveur sacrée, infligeant 19 dégâts sacrés aux ennemis proches.",
+  "N": "Pulvérisation"
+ },
+ "524747": {
+  "D": "Réduit le temps de recharge de |cffffffffForce divine|r de 30 secondes.",
+  "N": "Saint croisé"
+ },
+ "524767": {
+  "D": "Augmente les chances de coup critique de |cffffffffTitanstrike|r de 50 %.",
+  "N": "Jugement des dieux"
+ },
+ "524822": {
+  "D": "Augmente l'efficacité de |cffffffffSerment : Fente vertueuse|r de 25 %.",
+  "N": "Lame radiante"
+ },
+ "524922": {
+  "D": "Générer des cumuls de |cffffffffSang de démon|r génère désormais 1 rage supplémentaire.",
+  "N": "Rage démoniaque"
+ },
+ "525024": {
+  "D": "Votre |cffffffffForce divine|r frappe désormais 2 ennemis supplémentaires à proximité de la cible principale.",
+  "N": "Judicateur écarlate"
+ },
+ "525045": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\_Whirlwind_Yellow:20:20:0:0|t |cffFFFFFFTempête juste|r\nLibérez un |cffffffffOath Breaker|r tourbillonnant, infligeant des dégâts d'arme plus $ de dégâts aux ennemis proches, en fonction de la puissance des sorts, toutes les 1 s pendant 3 s.\r\n\r\nConsomme vos |cffffffffSerments|r, infligeant des dégâts supplémentaires pour chacun d'entre eux consommé.",
+  "N": "Tempête juste"
+ },
+ "55078": {
+  "N": "Peste de sang"
+ },
+ "552011": {
+  "D": "Les dégâts subis par les autres joueurs sont réduits. Les dégâts critiques subis par les joueurs sont réduits de 20 % supplémentaires.",
+  "N": "Une Constitution résiliente"
+ },
+ "560648": {
+  "D": "Les dégâts de mêlée infligés ont désormais 10 % de chances de réinitialiser le temps de recharge et de réduire le coût en énergie de votre prochaine |cFFFFFFFFLame d'argent|r de 50 %.",
+  "N": "Guerrier de l'aube"
+ },
+ "560649": {
+  "D": "|cffffffffTestament d'espoir|r invoque désormais une copie supplémentaire de vous-même.",
+  "N": "Garde de Tyr"
+ },
+ "560650": {
+  "D": "Augmente vos chances de coup critique sacré de 3 % et votre expertise de 5.",
+  "N": "La rage d'Aggramar"
+ },
+ "560653": {
+  "D": "Vous rayonnez une disposition harmonieuse aux membres du groupe et du raid à proximité, réduisant ainsi les dégâts de chute et accordant la possibilité de marcher sur l'eau.",
+  "N": "Disposition harmonique"
+ },
+ "560655": {
+  "D": "Augmente la valeur de votre bloc de 20 %.",
+  "N": "Maître forgeron des Flammes infernales"
+ },
+ "560828": {
+  "D": "Double l'absorption de |cffffffffBouclier noir|r tant que votre santé est inférieure à 35 %.",
+  "N": "Siège des Flammes Infernales"
+ },
+ "560833": {
+  "D": "Augmente votre régénération d'énergie de 20%.",
+  "N": "Spirituel"
+ },
+ "6021": {
+  "D": "Vous gagnez la maîtrise de la frappe du guerrier lorsque vous apprenez un sort de frappe du guerrier. \r\n\r\nCette maîtrise débloque automatiquement les sorts de frappe du guerrier lorsque vous atteignez leurs exigences en points de classe, sans coût d'essence de capacité supplémentaire.\r\n|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\Ability_Rogue_Ambush:20:20:0:0|t |cffFFFFFFFrappe héroïque|r\n|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\Ability_Warrior_Cleave:20:20:0:0|t |cffFFFFFFCliver|r\n\n|cff00DDFFMaintenez SHIFT pour plus d'informations|r",
+  "N": "Maîtrise de la frappe du guerrier"
+ },
+ "61758": {
+  "D": "Niveau : |cffff1a1a16|r",
+  "N": "Concentration runique"
+ },
+ "61951": {
+  "N": "Peste de sang"
+ },
+ "64057": {
+  "N": "Bien nourri"
+ },
+ "6603": {
+  "D": "Attaque automatiquement une cible au corps à corps avec une arme équipée jusqu'à son annulation.",
+  "N": "Attaque automatique"
+ },
+ "674": {
+  "D": "Niveau : |cffff1a1a20|r",
+  "N": "Double usage"
+ },
+ "680216": {
+  "D": "Lancer |cffffffffDéchaînement de la peste|r supprime désormais tous les effets actifs affectant le mouvement.",
+  "N": "Brise-enfer"
+ },
+ "680891": {
+  "D": "Votre |cffffffffChastise|r déclenche désormais toujours |cffffffffScourgebane|r sur votre cible.",
+  "N": "Droiture"
+ },
+ "681009": {
+  "D": "Augmente votre santé et votre énergie maximales de 5%.",
+  "N": "Robuste"
+ },
+ "6898": {
+  "D": "Invoque et renvoie un bélier blanc pouvant être monté.",
+  "N": "Bélier blanc"
+ },
+ "704180": {
+  "D": "Réduit le coût en énergie de vos |cffffffffOath Breakers|r de 10.",
+  "N": "Frappes bénies"
+ },
+ "704182": {
+  "D": "Augmente l'efficacité de vos |cffffffffPestilences|r de 50 %.",
+  "N": "Présage de la peste"
+ },
+ "704185": {
+  "D": "Réduit le temps de recharge de |cffffffffChaînes de malice|r et |cffffffffChaînes de Xoroth|r de 30 secondes, et permet à |cffffffffFlesh Hook|r et |cffffffffChainwhip|r de frapper jusqu'à 2 ennemis supplémentaires proches de votre cible principale.",
+  "N": "Gardien de la chaîne"
+ },
+ "705253": {
+  "D": "Augmente les chances de déclencher |cffffffffScourgebane|r de 5 % et vos chances de toucher de 2 %.",
+  "N": "Concentration pure"
+ },
+ "705256": {
+  "D": "Votre |cffffffffTemple Guardian|r rend désormais votre prochaine capacité gratuite dans les 5 secondes.",
+  "N": "Déterminé"
+ },
+ "705263": {
+  "D": "Augmente la durée de vos |cffffffffLibrams|r et |cffffffffTestaments|r de 10 secondes.",
+  "N": "Secrets profonds"
+ },
+ "705272": {
+  "D": "Augmente vos dégâts critiques avec les sorts et capacités sacrés de 15%.",
+  "N": "Chevaleresque"
+ },
+ "705285": {
+  "N": "La bénédiction de Tyr"
+ },
+ "705291": {
+  "D": "Vos |cffffffffFente vertueuse|r et |cffffffffChâtiment|r utilisés sur les ennemis affectés par votre |cffffffffCondamnation|r infligent désormais 6 % de dégâts supplémentaires par cumul.",
+  "N": "La puissance des Templiers"
+ },
+ "705293": {
+  "D": "Balancez-vous sur les ennemis devant vous, infligeant 125 % des dégâts des armes à menace élevée plus 9, ralentissant leur vitesse d'attaque et de déplacement de 20 % pendant 10 s.\r\n\r\nUtilisable uniquement après avoir évité une attaque.",
+  "N": "Balançoire sacrée"
+ },
+ "706295": {
+  "D": "Votre |cffffffffDestrier de guerre Xorothian|r est désormais lancé instantanément et empêche les immobilisations et ralentit pendant 2 secondes lorsqu'il est lancé, mais a désormais un temps de recharge de 10 secondes.",
+  "N": "Champion monté"
+ },
+ "706312": {
+  "D": "Les dégâts infligés par |cFFFFFFFFScourgebane|r et |cffffffffScarlet Hammer|r frappent désormais 1 ennemi proche supplémentaire.",
+  "N": "Bord sacré"
+ },
+ "706431": {
+  "D": "Augmente tous les attributs principaux de 5%.",
+  "N": "Pieux"
+ },
+ "706502": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\mace_2h_blacksmithing_d_04_icon:20:20:0:0|t |cffFFFFFFAnnihilation|r\nAnéantissez jusqu'à 10 ennemis dans un cône frontal, infligeant 150 % des dégâts de l'arme plus 353 dégâts de Shadowflame et générant 4 |cffff9933Demonfire|r.\r\n\r\nInflige 20 % de dégâts supplémentaires si votre santé est supérieure à 75 % ou inférieure à 35 %. Échelle avec les modificateurs de |cffffffff Frappe infernale |r.",
+  "N": "Redouter"
+ },
+ "706569": {
+  "D": "Chaque |cffffffffHellfire Imp|r actif augmente désormais vos chances de bloquer de 1 %.",
+  "N": "Armure fondante de l'enfer"
+ },
+ "706589": {
+  "D": "Marquez un allié avec le pouvoir de Korth’azz, augmentant la force de 3 et la résistance au feu de 5 pendant 30 min.",
+  "N": "Marque de Korth'azz"
+ },
+ "706634": {
+  "D": "Place un |cffffffffCadeau|r sur une cible amie, augmentant l'Agilité de 3 pendant 30 min.",
+  "N": "Don de zèle"
+ },
+ "706754": {
+  "D": "Votre |cffffffffAppel : Hellfire Diablotin|r invoque désormais 2 diablotins supplémentaires.",
+  "N": "Chef de gang de diablotins"
+ },
+ "706758": {
+  "D": "|cffffffffCercle sacrificiel|r vous accorde désormais un bouclier d'absorption des dégâts égal à 15 % de la santé totale de chaque diablotin détruit pendant 10 secondes.",
+  "N": "Fournaise d'âme"
+ },
+ "707028": {
+  "D": "Réduit le temps de recharge de |cffffffffImplosion|r de 10 s et son coût en Rage de 5.",
+  "N": "Commandement du feu démoniaque"
+ },
+ "707232": {
+  "D": "Votre |cffffffffSuffuse|r augmente désormais votre vitesse de déplacement de 20 %.",
+  "N": "Démon de vitesse"
+ },
+ "707385": {
+  "D": "Lancer |cffffffffLibram of Tenacity|r vous soigne désormais également de 20 % de votre santé maximale.",
+  "N": "Défenseur tenace"
+ },
+ "707391": {
+  "D": "Les dégâts de mêlée infligés ont désormais 20 % de chances de frapper 2 fois supplémentaires pour 30 % des dégâts infligés sous forme de dégâts sacrés.",
+  "N": "Châtiment"
+ },
+ "707754": {
+  "D": "Augmente votre vitesse de déplacement et réduit la durée des effets de ralentissement des mouvements sur vous de 10 %.",
+  "N": "Courage"
+ },
+ "707835": {
+  "D": "Réduit le temps de recharge de toutes les capacités |cffffffffCombat à cheval|r de 20 %.",
+  "N": "Saccageur monté"
+ },
+ "750750": {
+  "D": "Vous ne possédez pas cet objet de vanité",
+  "N": "Livre des artisans"
+ },
+ "777000": {
+  "D": "Vous ne possédez pas cet objet de vanité",
+  "N": "Pierre de retraite : Orgrimmar"
+ },
+ "777003": {
+  "D": "Vous ne possédez pas cet objet de vanité",
+  "N": "Pierre de retraite : Hurlevent"
+ },
+ "800168": {
+  "D": "Taillade vicieusement un ennemi, lui infligeant 80 % des dégâts de l'arme plus 5.\r\n\r\nInflige des dégâts accrus par |cffff9933Demonfire|r consommé.",
+  "N": "Preneur de crâne"
+ },
+ "801002": {
+  "D": "Poussez un hurlement terrifiant et libérez votre |cffffffffPestilence|r active sur les ennemis proches pour déclencher un effet puissant.",
+  "N": "Libérez la peste"
+ },
+ "801016": {
+  "D": "|cffff9933Génère 2 feux démoniaques|r\r\nFrappez un ennemi pour 55 % des dégâts de l'arme plus 3 dégâts de feu.",
+  "N": "Frappe infernale"
+ },
+ "801205": {
+  "D": "Placez un cercle sacré sur le sol à l'emplacement cible pendant 4 secondes, ralentissant la vitesse de déplacement de l'ennemi de 50 %.\r\n\r\nToutes les 2 secondes, les ennemis dans le rayon entrent dans un état tranquille et s'endorment pendant 40 secondes (8 secondes contre les joueurs).",
+  "N": "Cercle tranquille"
+ },
+ "8014": {
+  "D": "20 minutes restantes",
+  "N": "Tétanos"
+ },
+ "801441": {
+  "D": "Lisez votre |cffffffffLibram de Consécration|r, ce qui permet aux capacités de dégâts d'infliger 20 dégâts du Sacré supplémentaires à votre cible pendant 20 secondes.\n\n|cff00DDFFMaintenez SHIFT pour plus d'informations|r",
+  "N": "Libram de Consécration"
+ },
+ "801443": {
+  "D": "Poignardez un ennemi avec une ferveur sacrée, infligeant 80 % des dégâts de l'arme plus 9 et conférant un |cffffffffSerment|r.\r\n\r\n|cffffffff Serment : |r Vos capacités infligent des dégâts ou soignent 10 % de plus.",
+  "N": "Fente vertueuse"
+ },
+ "801446": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\custom_Paladinskill_24_Border:20:20:0:0|t |cffFFFFFFZalotisme|r\nInflige 40 % des dégâts des armes à main sous forme de dégâts sacrés.",
+  "N": "Justification"
+ },
+ "801448": {
+  "D": "Déclenchez un |cffffffffOath Breaker|r de guérison, restaurant 15 points de vie à un allié, en fonction de l'endurance.\r\n\r\nConsomme vos |cffffffffSerments|r, infligeant des soins supplémentaires pour chaque consommation.",
+  "N": "Bénédiction"
+ },
+ "801478": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\Icons\\Spell_Holy_SealOfFury:20:20:0:0|t |cffFFFFFFContrainte sacrée|r\nNe peut pas être ciblé par |cFFFFFFFFTestaments|R.",
+  "N": "Testament de foi"
+ },
+ "802344": {
+  "D": "Émane une peste réduisant la vitesse de déplacement de 25% et la vitesse d'attaque des ennemis proches de 10%.\n\n|cffffffffDéchaînement|r : réduit la vitesse de déplacement des ennemis à moins de 10 mètres de 50 % pendant 8 secondes.",
+  "N": "Peste de famine"
+ },
+ "802345": {
+  "D": "Émane une peste, permettant à chaque |cffff9933Feu démoniaque|r dépensé de soigner 1 % de votre maximum de points de vie.\r\n\r\n|cffffffff Libérez |r : Sangsue 22 points de vie des ennemis proches et restaure 5 % de votre santé maximale.",
+  "N": "Peste de guerre"
+ },
+ "803102": {
+  "D": "Certains sorts nécessitent l'utilisation de |cffcc99ffStatique|r.\r\n\r\nEn dehors du combat, votre |cffcc99ffStatique|r commencera à s'essouffler.",
+  "N": "Statique"
+ },
+ "803149": {
+  "D": "Vous retardez désormais 40% des dégâts directs subis, au lieu de les subir pendant 8 secondes.\r\n\r\nDe plus, vous ne consommez plus vos |cFFFFFFFFSerments|r avec les |cFFFFFFFFOath Breakers|r.",
+  "N": "Tenir le serment"
+ },
+ "803157": {
+  "D": "Libérez un |cffffffffOath Breaker|r, infligeant 25 points de dégâts sacrés à un ennemi.\r\n\r\nConsomme vos |cffffffffSerments|r, infligeant des dégâts supplémentaires pour chacun d'entre eux consommé.",
+  "N": "Punir"
+ },
+ "803373": {
+  "D": "Déclenchez un |cffffffffOath Breaker|r de guérison, restaurant 26 points de vie à un allié, en fonction de l'endurance.\r\n\r\nConsomme vos |cffffffffSerments|r, infligeant des soins supplémentaires pour chaque consommation.",
+  "N": "Bénédiction"
+ },
+ "803872": {
+  "D": "Déclenchez un |cffffffffOath Breaker|r dévastateur sur un ennemi, infligeant 148 points de dégâts du Sacré en 21 s. Cette capacité peut infliger un coup critique.\r\n\r\nConsomme vos |cffffffffSerments|r, infligeant des dégâts supplémentaires pour chacun d'entre eux consommé.",
+  "N": "Lame de foi"
+ },
+ "804216": {
+  "D": "|cff32cd32Consomme Gangrefurie|r\r\nLibérez votre démon intérieur, augmentant les dégâts infligés de 10 % et activant les effets |cff32cd32Inner Demon|r.\r\n\r\nDure 5 secondes pour chaque |cff32cd32Felfury|r consommée.",
+  "N": "Démon intérieur"
+ },
+ "804284": {
+  "D": "Double les dégâts de base des armes infligés par |cffffffff Frappe infernale |r et augmente tous les dégâts critiques infligés de 100 %.",
+  "N": "Broyeur"
+ },
+ "804906": {
+  "D": "Condamnez un ennemi, infligeant 63 points de dégâts du Sacré en 15 s, cumulables 3 fois et conférant un |cffffffffSerment|r.\r\n\r\n|cffffffffSerment :|r Augmente vos chances de coup critique de 5 %.",
+  "N": "Condamner"
+ },
+ "804929": {
+  "D": "Écrasez un ennemi avec une ferveur d'argent, infligeant 160 % des dégâts de l'arme plus 30, vous soignant autant que les dégâts infligés et prolongeant la durée de votre |cffffffffChaîne de serment|r de 3 secondes.",
+  "N": "Lame d'argent"
+ },
+ "805011": {
+  "D": "Vous pouvez |cffffffffressusciter|r des serviteurs d'entre les morts avec la |cFFFFFFFFforce vitale|r.",
+  "N": "Force vitale"
+ },
+ "805016": {
+  "D": "Un guerrier squelettique inférieur occupe actuellement 1 force vitale.",
+  "N": "Guerrier squelette inférieur"
+ },
+ "805409": {
+  "D": "Libérez un |cffffffffOath Breaker|r tourbillonnant, infligeant des dégâts d'arme plus $ de dégâts aux ennemis proches, en fonction de la puissance des sorts, toutes les 1 s pendant 3 s.\r\n\r\nConsomme vos |cffffffffSerments|r, infligeant des dégâts supplémentaires pour chacun d'entre eux consommé.",
+  "N": "Tempête juste"
+ },
+ "805916": {
+  "D": "Un Hellfire Diablotin vous assiste.",
+  "N": "Diablotin des Flammes infernales"
+ },
+ "806153": {
+  "D": "Bondissez sur un ennemi avec une force divine, l'étourdissant pendant 6 s, lui infligeant 43 points de dégâts du Sacré et interrompant le lancement de sorts pour les non-joueurs pendant 3 s.",
+  "N": "Force divine"
+ },
+ "807144": {
+  "D": "Les dégâts infligés par |CffffffffAttiser les flammes|r réduisent désormais le temps de recharge de |cffffffffSever|R et |cffffffffJuggernaut|r de 4 secondes.",
+  "N": "Attaquant de soufre"
+ },
+ "807336": {
+  "D": "Lancer |cffffffffFlesh Hook|r ou |cffffffffChainwhip|r provoque désormais la cible pendant 2 s et réduit les dégâts physiques subis de 5 % pendant 10 s.",
+  "N": "Démolisseur"
+ },
+ "807389": {
+  "D": "On chauffe ! À 100 |cFFFFFFFFHeat|r, vous générerez une |cFFFFFFFFEmber|r et viderez votre barre |cFFFFFFFFHeat|r.",
+  "N": "Chaleur"
+ },
+ "807440": {
+  "D": "19 secondes restantes",
+  "N": "Aube"
+ },
+ "807587": {
+  "D": "|TInterface\\Common\\ui-tooltipdivider:12:180:0:0|t\n|TInterface\\icons\\nhi_corruptionfire_Border:20:20:0:0|t |cffFFFFFFSoufflets de feu infernal|r\nTirez sur tous les ennemis dans un cône de 6 mètres devant et derrière vous, infligeant 39 dégâts de Feu et réduisant le temps de recharge de |cffffffffChaînes de Xoroth|r de 4 secondes par ennemi touché.\r\n\r\nLe temps de recharge est réduit de 3 secondes pour chaque |cffff9933Demonfire|r consommé.",
+  "N": "Soufflet des Flammes Infernales"
+ },
+ "8115": {
+  "D": "3 minutes restantes",
+  "N": "Agilité"
+ },
+ "813715": {
+  "D": "Niveau : |cff1aff1a10|r",
+  "N": "Maîtrise à double usage"
+ },
+ "816516": {
+  "N": "Saigner"
+ },
+ "817808": {
+  "D": "Impossible d'utiliser la potion d'expérience !\r\nImpossible d'utiliser Aura d'expérience !\r\nImpossible d'acquérir de l'expérience bonus en parrainant un ami.\r\nImpossible d'acquérir de l'expérience bonus grâce aux héritages.",
+  "N": "Aucune expérience bonus"
+ },
+ "818": {
+  "D": "Construit un feu de camp qui augmente le moral des personnes à proximité de 4 et permet de cuisiner.",
+  "N": "Feu de camp de base"
+ },
+ "822": {
+  "D": "Réduit les dégâts subis par les sorts de 1%.",
+  "N": "Résistance magique"
+ },
+ "84423": {
+  "D": "Utiliser cette capacité alors que vous êtes mort vous téléportera dans la ville la plus proche de votre faction.\nUtilisable uniquement en étant mort.",
+  "N": "Ressusciter dans la ville la plus proche"
+ },
+ "84433": {
+  "D": "Utiliser cette capacité alors que vous êtes mort vous téléportera dans la capitale de votre faction la plus proche.\nUtilisable uniquement en étant mort.",
+  "N": "Ressusciter dans la capitale"
+ },
+ "84865": {
+  "D": "Niveau : |cff1aff1a1|r",
+  "N": "Chemin de l'agilité"
+ },
+ "84866": {
+  "D": "Niveau : |cff1aff1a1|r",
+  "N": "Voie de l'intelligence"
+ },
+ "84867": {
+  "D": "Niveau : |cff1aff1a1|r",
+  "N": "Chemin de guérison"
+ },
+ "857866": {
+  "D": "Niveau : |cff1aff1a10|r",
+  "N": "La splendeur de la nature"
+ },
+ "900925": {
+  "D": "Échangez vos poumons contre une paire de branchies. Vie de célibataire.",
+  "N": "Hardcore - Feelin' Fishy"
+ },
+ "900926": {
+  "D": "Échangez vos poumons contre une paire de branchies. Vie de célibataire. Les dégâts physiques subis ont été augmentés de 300%. Les dégâts magiques subis ont été augmentés de 500%.",
+  "N": "Cauchemar - Cauchemar en haute mer"
+ },
+ "900927": {
+  "D": "Prouvez que vous avez ce qu'il faut pour devenir un chasseur de gros gibier.",
+  "N": "Ironman - Chasseur de gros gibier"
+ },
+ "900930": {
+  "D": "Battez la Venture Co. dans cette épreuve cauchemardesque ! Vie de célibataire. Les dégâts physiques subis ont été augmentés de 300%. Les dégâts magiques subis ont été augmentés de 500%.",
+  "N": "Cauchemar - D.E.H.T.A"
+ },
+ "900931": {
+  "D": "Devenez un maître dans la gestion de l’espace des sacs. Les dégâts physiques subis ont été augmentés de 300%. Les dégâts magiques subis ont été augmentés de 500%.",
+  "N": "Cauchemar - Encombré"
+ },
+ "900935": {
+  "D": "L’une de vos compétences pourrait signifier votre perte à tout moment !",
+  "N": "Hardcore - MÉGA Spellbind Roulette"
+ },
+ "900936": {
+  "D": "Cet aventurier inébranlable se lance en solo et doit terminer tous les donjons vanille avant d'atteindre le niveau maximum.",
+  "N": "Ironman - Sondeur de donjon"
+ },
+ "900943": {
+  "D": "Lancez-vous dans une quête pour devenir un Trollbane !",
+  "N": "Hardcore-Trollbane"
+ },
+ "91769": {
+  "D": "44 minutes restantes",
+  "N": "Parchemin du gardien : Inébranlable"
+ },
+ "91944": {
+  "D": "Invoque une monture aléatoire !",
+  "N": "Monture générique"
+ },
+ "92111": {
+  "D": "Niveau : |cff1aff1a1|r",
+  "N": "Fléau du Fléau"
+ },
+ "92838": {
+  "N": "Expérience sur le champ de bataille"
+ },
+ "92984": {
+  "D": "Cet aventurier inébranlable se lance en solo et n'a qu'une seule vie.",
+  "N": "Homme de fer"
+ },
+ "92986": {
+  "D": "Devenez le roi de la jungle ! Tuez le roi Bangalash dans le centre de la vallée de Strangleronce avant le niveau 40 avec une seule vie et atteignez le niveau maximum.",
+  "N": "Ironman - Roi de la jungle"
+ },
+ "92987": {
+  "D": "Un défi pour les courageux : Ironman, entièrement en solo, une seule vie, aux taux d'expérience classiques x1.",
+  "N": "Ironman - Résolu"
+ },
+ "92989": {
+  "D": "Devenez un aventurier inconditionnel ! Une vie, un objectif : atteindre le niveau maximum.",
+  "N": "Inconditionnel"
+ },
+ "92990": {
+  "D": "Tu es une personne plutôt sympa ! Aidez les habitants d’Azeroth et n’acquérez de l’expérience que grâce aux quêtes.",
+  "N": "Hardcore - Champion du peuple"
+ },
+ "92991": {
+  "D": "Vous préférez créer plutôt que détruire ? Rejoignez la guilde des artisans et acquérez de l'expérience grâce à l'artisanat et à la collecte.",
+  "N": "Hardcore - Guilde des artisans"
+ },
+ "93128": {
+  "D": "Rejoignez un trio et tentez de surmonter tous les donjons vanille et d'atteindre le niveau maximum. Vous n'avez qu'une seule vie !",
+  "N": "Trio hardcore - Sainte Trinité"
+ },
+ "93129": {
+  "D": "Faites équipe avec un partenaire et affrontez tous les donjons d'Azeroth avec une seule vie et atteignez le niveau maximum !",
+  "N": "Duo hardcore - Paire dans le repaire"
+ },
+ "93131": {
+  "D": "Faites équipe avec des alliés et affrontez tous les donjons d'Azeroth avec une seule vie et atteignez le niveau maximum !",
+  "N": "Hardcore - Blitz de boss"
+ },
+ "93132": {
+  "D": "Devenez enfermé dans un cauchemar, subissant des dégâts considérablement accrus avec des vies limitées.",
+  "N": "Cauchemar"
+ },
+ "93133": {
+  "D": "Devenez enfermé dans un cauchemar, subissant des dégâts considérablement accrus avec des vies limitées.",
+  "N": "Cauchemar II"
+ },
+ "93134": {
+  "D": "Dégâts massivement augmentés, une vie. Pouvez-vous survivre ?",
+  "N": "Cauchemar III"
+ },
+ "93135": {
+  "D": "Piégez-vous dans un cauchemar personnel, subissant des dégâts considérablement accrus en solo avec des vies limitées.",
+  "N": "Cauchemar - Cauchemar personnel"
+ },
+ "93136": {
+  "D": "Piégez-vous dans un cauchemar et tentez de surmonter les donjons d'Azeroth et d'atteindre le niveau maximum avec des amis.",
+  "N": "Cauchemar - Le donjon le plus sombre"
+ },
+ "93138": {
+  "D": "Cet aventurier inconditionnel atteint des taux d'expérience x1.",
+  "N": "Hardcore - Résolu"
+ },
+ "93139": {
+  "D": "Essayez de tuer Hogger dans le sud-ouest de la forêt d'Elwynn avant le niveau 10 et atteignez le niveau maximum. C’est la véritable fin du jeu.",
+  "N": "Ironman - Hogger doit mourir"
+ },
+ "93143": {
+  "D": "Ce défi solo sur une seule vie vous oblige à rester en PvP à haut risque.",
+  "N": "Ironman – à haut risque"
+ },
+ "93144": {
+  "D": "Ce défi solo sur une seule vie vous oblige à tuer uniquement des monstres d'un niveau supérieur au vôtre.",
+  "N": "Ironman – Des chances écrasantes"
+ },
+ "93146": {
+  "D": "Gagner de l'or ou mourir : ce défi d'une seule vie nécessite que vous atteigniez une certaine quantité d'or avant de passer au niveau supérieur. La cupidité a du bon !",
+  "N": "Ironman - Gobelin gourmand"
+ },
+ "93148": {
+  "D": "Accepter ce défi vous donne un indicateur de soif et de faim. Laissez l’un ou l’autre s’épuiser et vous mourrez instantanément.",
+  "N": "Hardcore - Vraie survie"
+ },
+ "93149": {
+  "D": "Vous êtes tellement paresseux que quitter une auberge est éprouvant. Vous serez fatigué à chaque seconde où vous serez en dehors d'une zone de repos.",
+  "N": "Hardcore - Inn-Sane"
+ },
+ "93150": {
+  "D": "Le cauchemar ultime : des vies limitées, des dégâts considérablement accrus et des taux d'expérience x1.",
+  "N": "Cauchemar - Résolu"
+ },
+ "93151": {
+  "D": "Une vie, pas de groupes, nu. As-tu peur ?",
+  "N": "Ironman - Nudiste"
+ },
+ "93153": {
+  "D": "L'artisanat est solitaire...",
+  "N": "Ironman - Artisan solitaire"
+ },
+ "93155": {
+  "D": "Maudit avec des doigts habiles.",
+  "N": "Cauchemar - La malédiction de l'artisan"
+ },
+ "93157": {
+  "D": "Somnolent, mais entre amis !",
+  "N": "Hardcore - Narcolepsie"
+ },
+ "93158": {
+  "D": "J'ai sommeil et tu n'as qu'une seule vie. Comme dans la vraie vie !",
+  "N": "Ironman - Narcolepsie"
+ },
+ "93159": {
+  "D": "Vous avez sommeil et le cauchemar semble toujours vous suivre lorsque vous êtes éveillé.",
+  "N": "Cauchemar - Narcolepsie"
+ },
+ "93160": {
+  "D": "L’une de vos compétences pourrait signifier votre perte à tout moment !",
+  "N": "Hardcore - Roulette envoûtante"
+ },
+ "93161": {
+  "D": "L’une de vos compétences pourrait signifier votre perte à tout moment !",
+  "N": "Ironman - Roulette envoûtante"
+ },
+ "93162": {
+  "D": "L’une de vos compétences pourrait signifier votre perte à tout moment !",
+  "N": "Cauchemar - Roulette Spellbind"
+ },
+ "93163": {
+  "D": "Je trouverai Gath'llzogg au donjon de Stonewatch. Et je vais le tuer...",
+  "N": "Hardcore - Gath'llzogg"
+ },
+ "93166": {
+  "D": "Je trouverai Gath'llzogg au donjon de Stonewatch. Et je le tuerai... tout seul.",
+  "N": "Ironman - Gath'llzogg"
+ },
+ "93167": {
+  "D": "Gath'llzogg me trouvera au donjon de Stonewatch. Et il va me tuer.",
+  "N": "Cauchemar - Gath'llzogg"
+ },
+ "93172": {
+  "D": "Mes copains et moi sommes de simples harceleurs.",
+  "N": "Hardcore - Traqueur des plaines"
+ },
+ "93173": {
+  "D": "Je traque en solo.",
+  "N": "Ironman - Traqueur des plaines"
+ },
+ "93177": {
+  "D": "Accepter ce défi vous donne un indicateur de soif et de faim. Laissez l’un ou l’autre s’épuiser et vous mourrez instantanément.",
+  "N": "Ironman - Survivant solitaire"
+ },
+ "93178": {
+  "D": "Accepter ce défi vous donne un indicateur de soif et de faim. Laissez l’un ou l’autre s’épuiser et vous mourrez instantanément.",
+  "N": "Cauchemar - Perdu dans l'horreur"
+ },
+ "93181": {
+  "D": "Accepter ce défi vous donne un indicateur de soif et de faim. Laissez l’un ou l’autre s’épuiser et vous mourrez instantanément.",
+  "N": "Hardcore - Guilde des survivants"
+ },
+ "93188": {
+  "D": "Affrontez le monde en tant qu'Ironman : entièrement en solo, une seule vie.",
+  "N": "Ironman - Chevalier Blanc"
+ },
+ "93196": {
+  "D": "Prendre la route panoramique à travers le Cauchemar.",
+  "N": "Cauchemar - Résolution absolue"
+ },
+ "93197": {
+  "D": "Je peux sûrement tuer Rag avec une seule vie.",
+  "N": "Hardcore - Route vers Ragnaros"
+ },
+ "93213": {
+  "D": "Vous permet de mettre à niveau votre héros à des taux 1x. \n\nProgresser dans Azeroth en tant que héros résolu vous récompense pour vos efforts avec un grand trésor lorsque vous avez terminé !",
+  "N": "Mode résolu"
+ },
+ "93539": {
+  "D": "Invoque une monture volante aléatoire !\r\n\r\n|cFFFF0000Ce sort ne peut être utilisé que dans les zones volantes.|r",
+  "N": "Monture volante générique"
+ },
+ "943600": {
+  "D": "Aventurez-vous à travers Azeroth avec 2 alliés ! Seul, vous pouvez être faible, mais ensemble, vous pouvez vaincre n'importe quel ennemi !\n\nLes dégâts infligés sont réduits de 66%.\nLes soins sont réduits de 66%.\nLa santé maximale est réduite de 66%.",
+  "N": "Nous les trois puissants"
+ },
+ "943601": {
+  "D": "Entrez dans une aventure chaotique où le destin se retourne contre vous à chaque instant. Endurez le malheur, adaptez-vous au chaos et frayez-vous un chemin jusqu'au niveau maximum avant qu'il ne vous consume.",
+  "N": "Maudit!"
+ },
+ "943602": {
+  "D": "Embarquez pour une quête pour explorer tout ce qu'Azeroth a à offrir avec une seule vie !",
+  "N": "Oh, les endroits où tu iras"
+ },
+ "943605": {
+  "D": "Aventurez-vous uniquement là où il fait humide et ramassez du poisson en cours de route !",
+  "N": "Pêcheur d'amphibiens"
+ },
+ "943606": {
+  "D": "Entrez dans un terrible cauchemar avec un seul allié.",
+  "N": "Duo Délire"
+ },
+ "943608": {
+  "D": "Instantané",
+  "N": "We Mighty Three - Réduction d'échelle"
+ },
+ "954192": {
+  "D": "Niveau : |cffff1a1a22|r",
+  "N": "Danse de la mort"
+ },
+ "954195": {
+  "D": "Niveau : |cffff1a1a15|r",
+  "N": "Abasourdi"
+ },
+ "965202": {
+  "D": "Niveau : |cff1aff1a1|r",
+  "N": "Prise de vue automatique"
+ },
+ "979042": {
+  "D": "Vous ne possédez pas cet objet de vanité",
+  "N": "Livre cauchemardesque de l'Ascension"
+ },
+ "985513": {
+  "D": "5 minutes restantes",
+  "N": "Discombobulation expérimentale du téléporteur"
+ },
+ "9930831": {
+  "D": "Participer au Défi Prestige.\nAugmente massivement votre expérience acquise de 300%. Il s’agit d’un boost multiplicatif.",
+  "N": "Défi Prestige"
+ },
+ "9931032": {
+  "D": "Ne peut pas attaquer ou être attaqué par d'autres joueurs.",
+  "N": "Mode PvE"
+ },
+ "997615": {
+  "D": "15 minutes restantes",
+  "N": "Repos"
+ },
+ "997616": {
+  "D": "2 heures restantes",
+  "N": "Bien reposé"
+ },
+ "998786": {
+  "D": "Dégâts avec les capacités de Chasseur augmentés de 8%.",
+  "N": "Loup solitaire"
+ }
+}

@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Ascension |cff0099ffFR|r - Répliques
+## Notes: Traduction des paroles des PNJ dans le chat (désactivable si le chargement est trop lent)
+## Dependencies: AscensionFR
+
+DB_Repliques.lua

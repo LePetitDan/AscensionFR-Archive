@@ -1,0 +1,66 @@
+{
+ "interface:Objectives (3)": {
+  "actuel": "Objectives (3)",
+  "cible": "interface",
+  "id": null,
+  "propositions": {
+   "Objectifs": 15
+  }
+ },
+ "pnj:161702:Sœur Alma": {
+  "actuel": "Sœur Alma",
+  "cible": "pnj",
+  "id": 161702,
+  "propositions": {
+   "The way is shut...": 13
+  }
+ },
+ "sort:561289:Vous vous transformez en forme fantomatique chaque fois que ": {
+  "actuel": "Vous vous transformez en forme fantomatique chaque fois que vous entrez dans |cffffffffUnderwalk ou Royaume des ténèbres|r, gagnant 10% de vitesse de déplacement augmentée.",
+  "cible": "sort",
+  "id": 561289,
+  "propositions": {
+   "Capture l'âme d'un cadavre proche, vous octroyant 1 Âme récupérée et restaurant 10 % de votre maximum de points de vie.": 8
+  }
+ },
+ "sort:706928:Increases the effectiveness of your |cffffffffWhispers|R by ": {
+  "actuel": "Increases the effectiveness of your |cffffffffWhispers|R by 25%.",
+  "cible": "sort",
+  "id": 706928,
+  "propositions": {
+   "*": 13
+  }
+ },
+ "sort:777003:Pierre de retraite : Stormwind": {
+  "actuel": "Pierre de retraite : Stormwind",
+  "cible": "sort",
+  "id": 777003,
+  "propositions": {
+   "Pierre de retraite : Hurlevent": 21
+  }
+ },
+ "texte:Food Crate": {
+  "actuel": "Food Crate",
+  "cible": "texte",
+  "id": null,
+  "propositions": {
+   "Boite de nouriture": 21
+  }
+ },
+ "texte:Increases Spirit by 4.": {
+  "actuel": "Increases Spirit by 4.",
+  "cible": "texte",
+  "id": null,
+  "propositions": {
+   "Augmente l'esprit de 4.": 21
+  }
+ },
+ "texte:Stormwind Gate": {
+  "actuel": "Stormwind Gate",
+  "cible": "texte",
+  "id": null,
+  "propositions": {
+   "Porte d'Hurlevent": 21
+  }
+ }
+}

@@ -1,0 +1,3114 @@
+[
+ {
+  "en": "A Hero's Tale",
+  "fr": "Récit d'un héros"
+ },
+ {
+  "en": "A Pit of Snakes",
+  "fr": "Une fosse aux serpents"
+ },
+ {
+  "en": "A Pointed Death",
+  "fr": "Une mort acérée"
+ },
+ {
+  "en": "Absolute Power",
+  "fr": "Pouvoir absolu"
+ },
+ {
+  "en": "Abyssal Covenant Passive",
+  "fr": "Pacte abyssal passif"
+ },
+ {
+  "en": "Acid Burns",
+  "fr": "Brûlures d'acide"
+ },
+ {
+  "en": "Adaptive Combatant",
+  "fr": "Combattant adaptatif"
+ },
+ {
+  "en": "Adrenal Venom",
+  "fr": "Venin adrénal"
+ },
+ {
+  "en": "Aeon of Oblivion",
+  "fr": "Éon d'oubli"
+ },
+ {
+  "en": "Aeons of Conflict",
+  "fr": "Éons de conflit"
+ },
+ {
+  "en": "Aeons of Harmony",
+  "fr": "Éons d'harmonie"
+ },
+ {
+  "en": "Aerial Assault",
+  "fr": "Assaut aérien"
+ },
+ {
+  "en": "Age of Empires",
+  "fr": "Âge des empires"
+ },
+ {
+  "en": "Alacrity",
+  "fr": "Empressement"
+ },
+ {
+  "en": "Alchemical Research",
+  "fr": "Recherche alchimique"
+ },
+ {
+  "en": "Ancestral Keg",
+  "fr": "Tonnelet ancestral"
+ },
+ {
+  "en": "Ancient Etchings",
+  "fr": "Gravures anciennes"
+ },
+ {
+  "en": "Ancient Rites",
+  "fr": "Rites anciens"
+ },
+ {
+  "en": "Ancient Teachings",
+  "fr": "Anciens enseignements"
+ },
+ {
+  "en": "Ancient Text",
+  "fr": "Texte ancien"
+ },
+ {
+  "en": "Ancient of Lore",
+  "fr": "Ancien du savoir"
+ },
+ {
+  "en": "Ancient of War",
+  "fr": "Ancien de la guerre"
+ },
+ {
+  "en": "Animate: Zombies",
+  "fr": "Animer : zombies"
+ },
+ {
+  "en": "Animation Spec Passive SLS",
+  "fr": "Spécialisation Animation passive SLS"
+ },
+ {
+  "en": "Apocalypse Edge",
+  "fr": "Tranchant de l'apocalypse"
+ },
+ {
+  "en": "Arcane Bionics",
+  "fr": "Bionique des arcanes"
+ },
+ {
+  "en": "Arcane Engraving",
+  "fr": "Gravure des arcanes"
+ },
+ {
+  "en": "Armaments of the Legion",
+  "fr": "Armements de la Légion"
+ },
+ {
+  "en": "Arrow of the Goddess",
+  "fr": "Flèche de la déesse"
+ },
+ {
+  "en": "Arterial Bind",
+  "fr": "Ligature artérielle"
+ },
+ {
+  "en": "Aspect of the Cosmos",
+  "fr": "Aspect du cosmos"
+ },
+ {
+  "en": "Aspect of the Goddess",
+  "fr": "Aspect de la déesse"
+ },
+ {
+  "en": "Astral Combatant",
+  "fr": "Combattant astral"
+ },
+ {
+  "en": "Atherann's Wickedness",
+  "fr": "Perfidie d'Atherann"
+ },
+ {
+  "en": "Aurat Scripts",
+  "fr": "Écrits d'Aurat"
+ },
+ {
+  "en": "Auto Resuscitation Device",
+  "fr": "Dispositif de réanimation automatique"
+ },
+ {
+  "en": "Avatar of Vengeance",
+  "fr": "Avatar de la vengeance"
+ },
+ {
+  "en": "Azzinoth's Battery",
+  "fr": "Batterie d'Azzinoth"
+ },
+ {
+  "en": "Bane",
+  "fr": "Fléau"
+ },
+ {
+  "en": "Banner Boy",
+  "fr": "Petit porte-bannière"
+ },
+ {
+  "en": "Banners of Empire",
+  "fr": "Bannières de l'empire"
+ },
+ {
+  "en": "Barbed Quills",
+  "fr": "Piquants barbelés"
+ },
+ {
+  "en": "Battle Bard",
+  "fr": "Barde de combat"
+ },
+ {
+  "en": "Battle Cleric",
+  "fr": "Clerc de combat"
+ },
+ {
+  "en": "Battle Druid",
+  "fr": "Druide de combat"
+ },
+ {
+  "en": "Battle Drums",
+  "fr": "Tambours de combat"
+ },
+ {
+  "en": "Battle Hardened",
+  "fr": "Endurci au combat"
+ },
+ {
+  "en": "Battle Priest",
+  "fr": "Prêtre de combat"
+ },
+ {
+  "en": "Battle Strategist",
+  "fr": "Stratège de combat"
+ },
+ {
+  "en": "Battle Wary",
+  "fr": "Prudent au combat"
+ },
+ {
+  "en": "Bells of Light",
+  "fr": "Cloches de la Lumière"
+ },
+ {
+  "en": "Berserker Axe",
+  "fr": "Hache de berserker"
+ },
+ {
+  "en": "Binding Flames",
+  "fr": "Flammes d'entrave"
+ },
+ {
+  "en": "Black Prayer",
+  "fr": "Prière noire"
+ },
+ {
+  "en": "Black Widow",
+  "fr": "Veuve noire"
+ },
+ {
+  "en": "Blade of the Depths",
+  "fr": "Lame des profondeurs"
+ },
+ {
+  "en": "Blade of the Empire",
+  "fr": "Lame de l'empire"
+ },
+ {
+  "en": "Blasting Bandolier",
+  "fr": "Cartouchière explosive"
+ },
+ {
+  "en": "Blasting Barrels",
+  "fr": "Canons explosifs"
+ },
+ {
+  "en": "Blasting Powder",
+  "fr": "Poudre explosive"
+ },
+ {
+  "en": "Blessing of Purity",
+  "fr": "Bénédiction de pureté"
+ },
+ {
+  "en": "Blessing of Retribution",
+  "fr": "Bénédiction de vindicte"
+ },
+ {
+  "en": "Blessing of Triumph",
+  "fr": "Bénédiction de triomphe"
+ },
+ {
+  "en": "Blight",
+  "fr": "Flétrisseuse"
+ },
+ {
+  "en": "Blight Venom",
+  "fr": "Venin de flétrissure"
+ },
+ {
+  "en": "Blood Binding",
+  "fr": "Entrave de sang"
+ },
+ {
+  "en": "Blood Bond",
+  "fr": "Lien de sang"
+ },
+ {
+  "en": "Blood Craving",
+  "fr": "Avidité de sang"
+ },
+ {
+  "en": "Blood Debt",
+  "fr": "Dette de sang"
+ },
+ {
+  "en": "Blood Feast",
+  "fr": "Festin de sang"
+ },
+ {
+  "en": "Blood Fueled",
+  "fr": "Nourri par le sang"
+ },
+ {
+  "en": "Blood Lord",
+  "fr": "Seigneur de sang"
+ },
+ {
+  "en": "Blood Parasites",
+  "fr": "Parasites de sang"
+ },
+ {
+  "en": "Blood Prince's Command",
+  "fr": "Ordre du prince de sang"
+ },
+ {
+  "en": "Blood Prodigy",
+  "fr": "Prodige du sang"
+ },
+ {
+  "en": "Blood Rain",
+  "fr": "Pluie de sang"
+ },
+ {
+  "en": "Blood Redistribution",
+  "fr": "Redistribution du sang"
+ },
+ {
+  "en": "Blood Rituals",
+  "fr": "Rituels de sang"
+ },
+ {
+  "en": "Blood Rush",
+  "fr": "Afflux de sang"
+ },
+ {
+  "en": "Blood Scent",
+  "fr": "Odeur de sang"
+ },
+ {
+  "en": "Blood Trails",
+  "fr": "Traînées de sang"
+ },
+ {
+  "en": "Boding Dread",
+  "fr": "Effroi funeste"
+ },
+ {
+  "en": "Body of Magma",
+  "fr": "Corps de magma"
+ },
+ {
+  "en": "Bomb Builder",
+  "fr": "Artificier"
+ },
+ {
+  "en": "Bomb Specialist",
+  "fr": "Spécialiste des bombes"
+ },
+ {
+  "en": "Bomb Squad",
+  "fr": "Escouade des bombes"
+ },
+ {
+  "en": "Boon of the Bear",
+  "fr": "Faveur de l'ours"
+ },
+ {
+  "en": "Boon of the Hawk",
+  "fr": "Faveur du faucon"
+ },
+ {
+  "en": "Boon of the Lion",
+  "fr": "Faveur du lion"
+ },
+ {
+  "en": "Boon of the Wolf",
+  "fr": "Faveur du loup"
+ },
+ {
+  "en": "Bot: C.U.R.B Stomp",
+  "fr": "Robot : piétinement C.U.R.B"
+ },
+ {
+  "en": "Bot: Flamespill",
+  "fr": "Robot : déversement de flammes"
+ },
+ {
+  "en": "Bot: Hydraulic Strike",
+  "fr": "Robot : frappe hydraulique"
+ },
+ {
+  "en": "Brand of the Condemned",
+  "fr": "Stigmate du condamné"
+ },
+ {
+  "en": "Brand of the Profane",
+  "fr": "Stigmate du profane"
+ },
+ {
+  "en": "Brand of the Unworthy",
+  "fr": "Stigmate de l'indigne"
+ },
+ {
+  "en": "Branded",
+  "fr": "Marqué au fer"
+ },
+ {
+  "en": "Bright Flames",
+  "fr": "Flammes vives"
+ },
+ {
+  "en": "Brimstone Bludgeon",
+  "fr": "Matraque de soufre"
+ },
+ {
+  "en": "Bring Me Their Bones",
+  "fr": "Rapportez-moi leurs os"
+ },
+ {
+  "en": "Broken Ranks",
+  "fr": "Rangs brisés"
+ },
+ {
+  "en": "Brooding Hatred",
+  "fr": "Haine couvée"
+ },
+ {
+  "en": "Bubble Blower",
+  "fr": "Souffleur de bulles"
+ },
+ {
+  "en": "Bubble Buddy",
+  "fr": "Copain bulle"
+ },
+ {
+  "en": "Build: Alarm Beacon",
+  "fr": "Construire : balise d'alarme"
+ },
+ {
+  "en": "Build: Battery Recharge Station",
+  "fr": "Construire : station de recharge de batteries"
+ },
+ {
+  "en": "Build: Bounce Pad!",
+  "fr": "Construire : plateforme de saut !"
+ },
+ {
+  "en": "Build: Claw Bot",
+  "fr": "Construire : robot-griffe"
+ },
+ {
+  "en": "Build: Clockwork Assistant",
+  "fr": "Construire : assistant mécanique"
+ },
+ {
+  "en": "Build: Destructo-Bot",
+  "fr": "Construire : destructo-bot"
+ },
+ {
+  "en": "Build: Firepot Drone",
+  "fr": "Construire : drone incendiaire"
+ },
+ {
+  "en": "Build: Mechano-Bear",
+  "fr": "Construire : mécano-ours"
+ },
+ {
+  "en": "Build: Oil-Spill Pylon",
+  "fr": "Construire : pylône déverse-huile"
+ },
+ {
+  "en": "Build: Power Foundry",
+  "fr": "Construire : fonderie d'énergie"
+ },
+ {
+  "en": "Build: Repulsion Unit",
+  "fr": "Construire : unité de répulsion"
+ },
+ {
+  "en": "Build: Restorative Beacon",
+  "fr": "Construire : balise de restauration"
+ },
+ {
+  "en": "Build: Rusthound",
+  "fr": "Construire : chien de rouille"
+ },
+ {
+  "en": "Build: Scrapmaw",
+  "fr": "Construire : Gueule-de-ferraille"
+ },
+ {
+  "en": "Build: Sentry Turret",
+  "fr": "Construire : tourelle sentinelle"
+ },
+ {
+  "en": "Build: Spider Bomb Factory",
+  "fr": "Construire : fabrique de bombes-araignées"
+ },
+ {
+  "en": "Build: ZIGGI-6K",
+  "fr": "Construire : ZIGGI-6K"
+ },
+ {
+  "en": "Bulwark Rush",
+  "fr": "Ruée du rempart"
+ },
+ {
+  "en": "Bulwark of Horror",
+  "fr": "Rempart d'horreur"
+ },
+ {
+  "en": "Burning Heat",
+  "fr": "Chaleur ardente"
+ },
+ {
+  "en": "Bwonsamdi's Edge",
+  "fr": "Tranchant de Bwonsamdi"
+ },
+ {
+  "en": "C'Thun's Blade",
+  "fr": "Lame de C'Thun"
+ },
+ {
+  "en": "Call Animal Spirit",
+  "fr": "Appel de l'esprit animal"
+ },
+ {
+  "en": "Call From The Shadows",
+  "fr": "Appel des ombres"
+ },
+ {
+  "en": "Call To Arms",
+  "fr": "Appel aux armes"
+ },
+ {
+  "en": "Call Witching Beast",
+  "fr": "Appel de la bête ensorceleuse"
+ },
+ {
+  "en": "Call of N'Zoth",
+  "fr": "Appel de N'Zoth"
+ },
+ {
+  "en": "Calm Under Pressure",
+  "fr": "Calme sous pression"
+ },
+ {
+  "en": "Carve",
+  "fr": "Découpe"
+ },
+ {
+  "en": "Cat-Like Reflexes",
+  "fr": "Réflexes félins"
+ },
+ {
+  "en": "Cave Dweller",
+  "fr": "Troglodyte"
+ },
+ {
+  "en": "Chainwhip Passive SLS",
+  "fr": "Fouet de chaîne passif SLS"
+ },
+ {
+  "en": "Chakra of Light",
+  "fr": "Chakra de Lumière"
+ },
+ {
+  "en": "Chakra of Wrath",
+  "fr": "Chakra de courroux"
+ },
+ {
+  "en": "Chaos Shift",
+  "fr": "Déphasage du chaos"
+ },
+ {
+  "en": "Charm of Warding",
+  "fr": "Charme de garde"
+ },
+ {
+  "en": "Chassis Augment: Truesilver",
+  "fr": "Amélioration de châssis : vrai-argent"
+ },
+ {
+  "en": "Cinder and Ashes",
+  "fr": "Braises et cendres"
+ },
+ {
+  "en": "Circle of Elements",
+  "fr": "Cercle des éléments"
+ },
+ {
+  "en": "Clarity of the Heavens",
+  "fr": "Clarté des cieux"
+ },
+ {
+  "en": "Cleanser of Sins",
+  "fr": "Purificateur des péchés"
+ },
+ {
+  "en": "Close Quarters",
+  "fr": "À bout portant"
+ },
+ {
+  "en": "Combat Augment: Flame Jets",
+  "fr": "Amélioration de combat : jets de flammes"
+ },
+ {
+  "en": "Command Aura",
+  "fr": "Aura de commandement"
+ },
+ {
+  "en": "Command: Abomination",
+  "fr": "Ordre : abomination"
+ },
+ {
+  "en": "Command: Banshee",
+  "fr": "Ordre : banshee"
+ },
+ {
+  "en": "Command: Bone Smash",
+  "fr": "Ordre : fracas d'os"
+ },
+ {
+  "en": "Command: Bonefreeze",
+  "fr": "Ordre : gel d'os"
+ },
+ {
+  "en": "Command: Crypt Fiend",
+  "fr": "Ordre : fiélon des cryptes"
+ },
+ {
+  "en": "Command: Gargoyle",
+  "fr": "Ordre : gargouille"
+ },
+ {
+  "en": "Command: Skeletal Archers",
+  "fr": "Ordre : archers squelettiques"
+ },
+ {
+  "en": "Command: Skeletal Mage",
+  "fr": "Ordre : mage squelettique"
+ },
+ {
+  "en": "Command: Skeletal Rogue",
+  "fr": "Ordre : voleur squelettique"
+ },
+ {
+  "en": "Continual Starfall",
+  "fr": "Pluie d'étoiles perpétuelle"
+ },
+ {
+  "en": "Core Augment: Warcore",
+  "fr": "Amélioration de noyau : noyau de guerre"
+ },
+ {
+  "en": "Cosmic Crown",
+  "fr": "Couronne cosmique"
+ },
+ {
+  "en": "Cosmic Horror",
+  "fr": "Horreur cosmique"
+ },
+ {
+  "en": "Cosmic Ooze",
+  "fr": "Limon cosmique"
+ },
+ {
+  "en": "Cosmic Shift",
+  "fr": "Déphasage cosmique"
+ },
+ {
+  "en": "Cosmic Vengeance",
+  "fr": "Vengeance cosmique"
+ },
+ {
+  "en": "Crashing Force",
+  "fr": "Force fracassante"
+ },
+ {
+  "en": "Crimson Feast",
+  "fr": "Festin cramoisi"
+ },
+ {
+  "en": "Crimson Hymn",
+  "fr": "Hymne cramoisi"
+ },
+ {
+  "en": "Crimson Scion",
+  "fr": "Rejeton cramoisi"
+ },
+ {
+  "en": "Crown's Call",
+  "fr": "Appel de la couronne"
+ },
+ {
+  "en": "Cunning of the Nerub'ar",
+  "fr": "Ruse des Nerub'ar"
+ },
+ {
+  "en": "Cursed ID - Procs wont work on it",
+  "fr": "ID maudit - les déclenchements ne fonctionnent pas dessus"
+ },
+ {
+  "en": "Cycle of Decay",
+  "fr": "Cycle de décomposition"
+ },
+ {
+  "en": "Dark Bidding",
+  "fr": "Volonté sombre"
+ },
+ {
+  "en": "Dark Celerity",
+  "fr": "Célérité sombre"
+ },
+ {
+  "en": "Dark Conquest",
+  "fr": "Conquête sombre"
+ },
+ {
+  "en": "Dark Hide",
+  "fr": "Peau sombre"
+ },
+ {
+  "en": "Dark Infusion",
+  "fr": "Infusion sombre"
+ },
+ {
+  "en": "Dark Mark",
+  "fr": "Marque sombre"
+ },
+ {
+  "en": "Dark Penance",
+  "fr": "Sombre pénitence"
+ },
+ {
+  "en": "Dark Ranger",
+  "fr": "Forestier sombre"
+ },
+ {
+  "en": "Dark Reservoir",
+  "fr": "Réservoir sombre"
+ },
+ {
+  "en": "Dark Rites",
+  "fr": "Rites sombres"
+ },
+ {
+  "en": "Dark Sigil",
+  "fr": "Cachet sombre"
+ },
+ {
+  "en": "Dark Soul",
+  "fr": "Âme sombre"
+ },
+ {
+  "en": "Dead and Gone",
+  "fr": "Mort et enterré"
+ },
+ {
+  "en": "Death Dealer",
+  "fr": "Porte-mort"
+ },
+ {
+  "en": "Death Mark",
+  "fr": "Marque de mort"
+ },
+ {
+  "en": "Death Spray",
+  "fr": "Aspersion mortelle"
+ },
+ {
+  "en": "Death's Dance",
+  "fr": "Danse de la mort"
+ },
+ {
+  "en": "Deconstruct Sentry Turret",
+  "fr": "Déconstruire la tourelle sentinelle"
+ },
+ {
+  "en": "Defender of Darkshire",
+  "fr": "Défenseur de Sombre-comté"
+ },
+ {
+  "en": "Defense of the Ancients",
+  "fr": "Défense des Anciens"
+ },
+ {
+  "en": "Defensive Pose",
+  "fr": "Pose défensive"
+ },
+ {
+  "en": "Defensive Utility",
+  "fr": "Système défensif"
+ },
+ {
+  "en": "Demon Hide",
+  "fr": "Cuir de démon"
+ },
+ {
+  "en": "Demonborn",
+  "fr": "Né du démon"
+ },
+ {
+  "en": "Deploy Turret Wall",
+  "fr": "Déployer le mur de tourelles"
+ },
+ {
+  "en": "Devotion of Emperors",
+  "fr": "Dévotion des empereurs"
+ },
+ {
+  "en": "Devotion of Gonk",
+  "fr": "Dévotion de Gonk"
+ },
+ {
+  "en": "Dimensional Divergence",
+  "fr": "Divergence dimensionnelle"
+ },
+ {
+  "en": "Dimensional Phasing",
+  "fr": "Déphasage dimensionnel"
+ },
+ {
+  "en": "Discipline of Titans",
+  "fr": "Discipline des titans"
+ },
+ {
+  "en": "Dismiss Animal Spirit",
+  "fr": "Renvoyer l'esprit animal"
+ },
+ {
+  "en": "Divine Retribution",
+  "fr": "Vindicte divine"
+ },
+ {
+  "en": "Divine Stand",
+  "fr": "Bastion divin"
+ },
+ {
+  "en": "Dominion",
+  "fr": "Emprise"
+ },
+ {
+  "en": "Dominion of Frost",
+  "fr": "Emprise du givre"
+ },
+ {
+  "en": "Doomsayer",
+  "fr": "Prophète de malheur"
+ },
+ {
+  "en": "Double The Pace",
+  "fr": "Pas redoublé"
+ },
+ {
+  "en": "Drawstring of Elune",
+  "fr": "Corde d'Elune"
+ },
+ {
+  "en": "Dreadknight",
+  "fr": "Chevalier d'effroi"
+ },
+ {
+  "en": "Dreamway: Seradane",
+  "fr": "Voie du Rêve : Seradane"
+ },
+ {
+  "en": "Drunken Frenzy",
+  "fr": "Frénésie avinée"
+ },
+ {
+  "en": "Duty Calls",
+  "fr": "Le devoir appelle"
+ },
+ {
+  "en": "Earthen Avatar",
+  "fr": "Avatar tellurique"
+ },
+ {
+  "en": "Earthen Gamble",
+  "fr": "Pari tellurique"
+ },
+ {
+  "en": "Earthmother's Protection",
+  "fr": "Protection de la Terre-Mère"
+ },
+ {
+  "en": "Eldritch Bargain",
+  "fr": "Marché surnaturel"
+ },
+ {
+  "en": "Eldritch Force",
+  "fr": "Force occulte"
+ },
+ {
+  "en": "Eldritch Obelisk",
+  "fr": "Obélisque surnaturel"
+ },
+ {
+  "en": "Eldritch Smite",
+  "fr": "Châtiment surnaturel"
+ },
+ {
+  "en": "Eldritch Swiftness",
+  "fr": "Vivacité surnaturelle"
+ },
+ {
+  "en": "Eldritch Tentacle",
+  "fr": "Tentacule surnaturel"
+ },
+ {
+  "en": "Elemental Berserker",
+  "fr": "Berserker élémentaire"
+ },
+ {
+  "en": "Elemental Extension",
+  "fr": "Prolongation élémentaire"
+ },
+ {
+  "en": "Elemental Fletcher",
+  "fr": "Empenneur élémentaire"
+ },
+ {
+  "en": "Elven Enchantments",
+  "fr": "Enchantements elfiques"
+ },
+ {
+  "en": "Elven Quivers",
+  "fr": "Carquois elfiques"
+ },
+ {
+  "en": "Emergency Module",
+  "fr": "Module d'urgence"
+ },
+ {
+  "en": "Empire Commander",
+  "fr": "Commandant de l'empire"
+ },
+ {
+  "en": "Empowered Boons",
+  "fr": "Faveurs renforcées"
+ },
+ {
+  "en": "Empowered Isolation",
+  "fr": "Isolement renforcé"
+ },
+ {
+  "en": "Empowered Restoration",
+  "fr": "Restauration renforcée"
+ },
+ {
+  "en": "Empowered Sting",
+  "fr": "Piqûre renforcée"
+ },
+ {
+  "en": "Enchanted Collar",
+  "fr": "Collier enchanté"
+ },
+ {
+  "en": "Enchanted Exoskeleton",
+  "fr": "Exosquelette enchanté"
+ },
+ {
+  "en": "Enchanted Hide",
+  "fr": "Peau enchantée"
+ },
+ {
+  "en": "End of Time",
+  "fr": "Fin des temps"
+ },
+ {
+  "en": "Endless Sands",
+  "fr": "Sables infinis"
+ },
+ {
+  "en": "Enduring Exoskeleton",
+  "fr": "Exosquelette endurant"
+ },
+ {
+  "en": "Enraging Howls",
+  "fr": "Hurlements enragés"
+ },
+ {
+  "en": "Entropic Host",
+  "fr": "Hôte entropique"
+ },
+ {
+  "en": "Essence of Nature",
+  "fr": "Essence de la nature"
+ },
+ {
+  "en": "Essence of the Geist",
+  "fr": "Essence du geist"
+ },
+ {
+  "en": "Eternal Balance",
+  "fr": "Équilibre éternel"
+ },
+ {
+  "en": "Eternal Grasp",
+  "fr": "Étreinte éternelle"
+ },
+ {
+  "en": "Eternally Chosen",
+  "fr": "Élu pour l'éternité"
+ },
+ {
+  "en": "Eternity Warper",
+  "fr": "Distordeur d'éternité"
+ },
+ {
+  "en": "Even Quicker Shots",
+  "fr": "Tirs encore plus rapides"
+ },
+ {
+  "en": "Evil Doers, Beware!",
+  "fr": "Malfaiteurs, prenez garde !"
+ },
+ {
+  "en": "Excessive But Necessary",
+  "fr": "Excessif mais nécessaire"
+ },
+ {
+  "en": "Explosive Inventor",
+  "fr": "Inventeur explosif"
+ },
+ {
+  "en": "Exposed Flesh",
+  "fr": "Chair à vif"
+ },
+ {
+  "en": "Eye of Elune",
+  "fr": "Œil d'Elune"
+ },
+ {
+  "en": "Eye of N'zoth",
+  "fr": "Œil de N'Zoth"
+ },
+ {
+  "en": "Faith Militant",
+  "fr": "Foi militante"
+ },
+ {
+  "en": "Falcon Charmer",
+  "fr": "Charmeur de faucons"
+ },
+ {
+  "en": "Falcon Dive",
+  "fr": "Piqué du faucon"
+ },
+ {
+  "en": "Falcon Scout",
+  "fr": "Faucon éclaireur"
+ },
+ {
+  "en": "Fate Twister",
+  "fr": "Tord-destin"
+ },
+ {
+  "en": "Feast of Talons",
+  "fr": "Festin de serres"
+ },
+ {
+  "en": "Feast of the Loa",
+  "fr": "Festin des loa"
+ },
+ {
+  "en": "Feeding Darkness",
+  "fr": "Nourrir les ténèbres"
+ },
+ {
+  "en": "Fel Flamecasting",
+  "fr": "Lancer de gangreflammes"
+ },
+ {
+  "en": "Fel Torpedo",
+  "fr": "Gangretorpille"
+ },
+ {
+  "en": "Felguard",
+  "fr": "Gangregarde"
+ },
+ {
+  "en": "Felspill",
+  "fr": "Gangreflot"
+ },
+ {
+  "en": "Felwracked",
+  "fr": "Gangretourmenté"
+ },
+ {
+  "en": "Fiend",
+  "fr": "Fiélon"
+ },
+ {
+  "en": "Final Verdict Reset Passive",
+  "fr": "Réinitialisation de Verdict final passive"
+ },
+ {
+  "en": "Fist of Al'Akir",
+  "fr": "Poing d'Al'Akir"
+ },
+ {
+  "en": "Fists of Heaven",
+  "fr": "Poings des cieux"
+ },
+ {
+  "en": "Flame Glyph",
+  "fr": "Glyphe de flammes"
+ },
+ {
+  "en": "Flamer",
+  "fr": "Cracheur de flammes"
+ },
+ {
+  "en": "Flames of the Father",
+  "fr": "Flammes du Père"
+ },
+ {
+  "en": "Flames of the Firelord",
+  "fr": "Flammes du Seigneur du feu"
+ },
+ {
+  "en": "Flamewrath",
+  "fr": "Courroux ardent"
+ },
+ {
+  "en": "Flash Flood",
+  "fr": "Crue éclair"
+ },
+ {
+  "en": "Flesh Foundry",
+  "fr": "Fonderie de chair"
+ },
+ {
+  "en": "Flesh To Worms RP GEN",
+  "fr": "Chair à vers RP GEN"
+ },
+ {
+  "en": "Flexible Banners",
+  "fr": "Bannières flexibles"
+ },
+ {
+  "en": "Flow of Waters",
+  "fr": "Flot des eaux"
+ },
+ {
+  "en": "Forest Fighter Hidden SLS",
+  "fr": "Combattant des forêts caché SLS"
+ },
+ {
+  "en": "Forest Fighter Skullpiercer",
+  "fr": "Combattant des forêts perce-crâne"
+ },
+ {
+  "en": "From Life Comes Death",
+  "fr": "De la vie naît la mort"
+ },
+ {
+  "en": "Frontliner",
+  "fr": "Première ligne"
+ },
+ {
+  "en": "Fungal Assailant",
+  "fr": "Assaillant fongique"
+ },
+ {
+  "en": "Fungal Growth",
+  "fr": "Excroissance fongique"
+ },
+ {
+  "en": "Fungal Link",
+  "fr": "Lien fongique"
+ },
+ {
+  "en": "Fury of the Elements",
+  "fr": "Fureur des éléments"
+ },
+ {
+  "en": "Ghastly Advance",
+  "fr": "Avancée macabre"
+ },
+ {
+  "en": "Gift of C'Thun",
+  "fr": "Don de C'Thun"
+ },
+ {
+  "en": "Gift of Fervor",
+  "fr": "Don de ferveur"
+ },
+ {
+  "en": "Glorious Arena",
+  "fr": "Arène glorieuse"
+ },
+ {
+  "en": "Glory To Shadra!",
+  "fr": "Gloire à Shadra !"
+ },
+ {
+  "en": "Gnomish Batteries",
+  "fr": "Batteries gnomes"
+ },
+ {
+  "en": "Gnomish Ingenuinity",
+  "fr": "Ingéniosité gnome"
+ },
+ {
+  "en": "Gore Barrage",
+  "fr": "Barrage sanglant"
+ },
+ {
+  "en": "Grace of Aman'thul",
+  "fr": "Grâce d'Aman'thul"
+ },
+ {
+  "en": "Gravesite",
+  "fr": "Sépulture"
+ },
+ {
+  "en": "Greater Crusader's Oath",
+  "fr": "Serment du croisé supérieur"
+ },
+ {
+  "en": "Greater Devotion of Emperors",
+  "fr": "Dévotion des empereurs supérieure"
+ },
+ {
+  "en": "Greater Inscription: Nature",
+  "fr": "Inscription supérieure : nature"
+ },
+ {
+  "en": "Greater Mark of Rivendare",
+  "fr": "Marque de Rivendare supérieure"
+ },
+ {
+  "en": "Greater Rite of Perseverance",
+  "fr": "Rite de persévérance supérieur"
+ },
+ {
+  "en": "Greater Rite of Power",
+  "fr": "Rite de puissance supérieur"
+ },
+ {
+  "en": "Greater Rite of Resolve",
+  "fr": "Rite de résolution supérieur"
+ },
+ {
+  "en": "Greater Tonics",
+  "fr": "Toniques supérieurs"
+ },
+ {
+  "en": "Greater Whispers of C'thun",
+  "fr": "Murmures de C'thun supérieurs"
+ },
+ {
+  "en": "Greater Whispers of N'zoth",
+  "fr": "Murmures de N'zoth supérieurs"
+ },
+ {
+  "en": "Greater Whispers of Y'shaarj",
+  "fr": "Murmures d'Y'shaarj supérieurs"
+ },
+ {
+  "en": "Grommash's Folly",
+  "fr": "Folie de Grommash"
+ },
+ {
+  "en": "Grove Tender",
+  "fr": "Gardien du bosquet"
+ },
+ {
+  "en": "Gruesome",
+  "fr": "Atroce"
+ },
+ {
+  "en": "Guardian Module",
+  "fr": "Module gardien"
+ },
+ {
+  "en": "Guidance: Intervention",
+  "fr": "Guidage : intervention"
+ },
+ {
+  "en": "Guiding Winds DEPPRECATED",
+  "fr": "Vents directeurs OBSOLÈTE"
+ },
+ {
+  "en": "Hail of Gunfire",
+  "fr": "Grêle de balles"
+ },
+ {
+  "en": "Hand of Elune",
+  "fr": "Main d'Elune"
+ },
+ {
+  "en": "Hand of N'Zoth",
+  "fr": "Main de N'Zoth"
+ },
+ {
+  "en": "Hand of The King",
+  "fr": "Main du roi"
+ },
+ {
+  "en": "Hand of Yogg-Saron",
+  "fr": "Main de Yogg-Saron"
+ },
+ {
+  "en": "Harness Animal Spirit",
+  "fr": "Maîtrise de l'esprit animal"
+ },
+ {
+  "en": "Healing Radiator",
+  "fr": "Radiateur de soins"
+ },
+ {
+  "en": "Healing Stims",
+  "fr": "Stimulants de soins"
+ },
+ {
+  "en": "Heart of the Bear",
+  "fr": "Cœur de l'ours"
+ },
+ {
+  "en": "Heavy Handed",
+  "fr": "Main lourde"
+ },
+ {
+  "en": "Heavy Slam",
+  "fr": "Heurtoir pesant"
+ },
+ {
+  "en": "Herald of Purity",
+  "fr": "Héraut de la pureté"
+ },
+ {
+  "en": "Herald of The Black Empire",
+  "fr": "Héraut de l'Empire noir"
+ },
+ {
+  "en": "Herald of the Old Gods",
+  "fr": "Héraut des Dieux très anciens"
+ },
+ {
+  "en": "Heroic Deeds",
+  "fr": "Exploits héroïques"
+ },
+ {
+  "en": "Highlander",
+  "fr": "Highlander"
+ },
+ {
+  "en": "Holy Constitution",
+  "fr": "Constitution sacrée"
+ },
+ {
+  "en": "Holy Crusader",
+  "fr": "Croisé sacré"
+ },
+ {
+  "en": "Holy Fervor",
+  "fr": "Ferveur sacrée"
+ },
+ {
+  "en": "Holy Giant",
+  "fr": "Géant sacré"
+ },
+ {
+  "en": "Holy Tempest",
+  "fr": "Tempête sacrée"
+ },
+ {
+  "en": "Holy Warstaff",
+  "fr": "Bâton de guerre sacré"
+ },
+ {
+  "en": "Horn of Perseverance",
+  "fr": "Cor de persévérance"
+ },
+ {
+  "en": "Horrorbolt Volley",
+  "fr": "Volée de traits d'horreur"
+ },
+ {
+  "en": "Horusath Blast",
+  "fr": "Déflagration d'Horusath"
+ },
+ {
+  "en": "Hulking Hordes",
+  "fr": "Hordes massives"
+ },
+ {
+  "en": "Huntress Shot - Mana Cost %",
+  "fr": "Tir de chasseresse - % coût en mana"
+ },
+ {
+  "en": "Hysterical Momentum",
+  "fr": "Élan hystérique"
+ },
+ {
+  "en": "Ice Engraving",
+  "fr": "Gravure de glace"
+ },
+ {
+  "en": "Icecrown Scriptures",
+  "fr": "Écritures de la Couronne de glace"
+ },
+ {
+  "en": "Improved Arugal's Blessing",
+  "fr": "Bénédiction d'Arugal améliorée"
+ },
+ {
+  "en": "Improved Boons",
+  "fr": "Faveurs améliorées"
+ },
+ {
+  "en": "Improved Engrave Fists",
+  "fr": "Gravure des poings améliorée"
+ },
+ {
+  "en": "Improved Falconmark",
+  "fr": "Marque du faucon améliorée"
+ },
+ {
+  "en": "Improved Handcannon",
+  "fr": "Canon à main amélioré"
+ },
+ {
+  "en": "Improved Harden",
+  "fr": "Durcissement amélioré"
+ },
+ {
+  "en": "Improved Miasma",
+  "fr": "Miasme amélioré"
+ },
+ {
+  "en": "Improved Mortal Abdication",
+  "fr": "Abdication mortelle améliorée"
+ },
+ {
+  "en": "Improved Motivating Strike",
+  "fr": "Frappe motivante améliorée"
+ },
+ {
+  "en": "Improved Primal Infusion",
+  "fr": "Infusion primordiale améliorée"
+ },
+ {
+  "en": "Improved Sermon of Dread",
+  "fr": "Sermon d'effroi amélioré"
+ },
+ {
+  "en": "Improved Shadra's Vigil",
+  "fr": "Veille de Shadra améliorée"
+ },
+ {
+  "en": "Improved Soulshroud",
+  "fr": "Linceul d'âme amélioré"
+ },
+ {
+  "en": "Improved Sting",
+  "fr": "Piqûre améliorée"
+ },
+ {
+  "en": "Improved Stonefall",
+  "fr": "Éboulement amélioré"
+ },
+ {
+  "en": "Improved Torrent",
+  "fr": "Torrent amélioré"
+ },
+ {
+  "en": "Improved Ursoc's Bellow",
+  "fr": "Mugissement d'Ursoc amélioré"
+ },
+ {
+  "en": "Improved Venoxis Fang",
+  "fr": "Croc de Venoxis amélioré"
+ },
+ {
+  "en": "Incarnation of Order",
+  "fr": "Incarnation de l'Ordre"
+ },
+ {
+  "en": "Incendiary Rounds",
+  "fr": "Munitions incendiaires"
+ },
+ {
+  "en": "Inferno Blast",
+  "fr": "Explosion infernale"
+ },
+ {
+  "en": "Infinite Clone",
+  "fr": "Clone infini"
+ },
+ {
+  "en": "Infinite Horizon",
+  "fr": "Horizon infini"
+ },
+ {
+  "en": "Infinite Sands",
+  "fr": "Sables infinis"
+ },
+ {
+  "en": "Infinity Crash",
+  "fr": "Fracas de l'infini"
+ },
+ {
+  "en": "Inscription: Nature",
+  "fr": "Inscription : nature"
+ },
+ {
+  "en": "Inspiring Leader",
+  "fr": "Meneur inspirant"
+ },
+ {
+  "en": "Into The Fray",
+  "fr": "Dans la mêlée"
+ },
+ {
+  "en": "Into The Volcano",
+  "fr": "Dans le volcan"
+ },
+ {
+  "en": "Jani's Intent",
+  "fr": "Dessein de Jani"
+ },
+ {
+  "en": "Judgement of The Three Hammers",
+  "fr": "Jugement des Trois marteaux"
+ },
+ {
+  "en": "Judgement of the Gods",
+  "fr": "Jugement des dieux"
+ },
+ {
+  "en": "Judgement of the Valkyrie",
+  "fr": "Jugement de la valkyrie"
+ },
+ {
+  "en": "Kennel Master",
+  "fr": "Maître de chenil"
+ },
+ {
+  "en": "Last Wish",
+  "fr": "Dernière volonté"
+ },
+ {
+  "en": "Lasting Markings",
+  "fr": "Marques durables"
+ },
+ {
+  "en": "Lead Me Not Astray",
+  "fr": "Ne me laisse pas m'égarer"
+ },
+ {
+  "en": "Lead the Covenant",
+  "fr": "À la tête du pacte"
+ },
+ {
+  "en": "Leap of the Valkyrie",
+  "fr": "Saut de la valkyrie"
+ },
+ {
+  "en": "Legacy of Rexxar",
+  "fr": "Héritage de Rexxar"
+ },
+ {
+  "en": "Legacy of the Amani SLS",
+  "fr": "Héritage des Amani SLS"
+ },
+ {
+  "en": "Legacy of the Silver Hand",
+  "fr": "Héritage de la Main d'argent"
+ },
+ {
+  "en": "Libram of Fervor",
+  "fr": "Libram de ferveur"
+ },
+ {
+  "en": "Libram of Tenacity",
+  "fr": "Libram de ténacité"
+ },
+ {
+  "en": "Lie In Wait",
+  "fr": "À l'affût"
+ },
+ {
+  "en": "Life For Power",
+  "fr": "La vie contre la puissance"
+ },
+ {
+  "en": "Life Scent",
+  "fr": "Flair de vie"
+ },
+ {
+  "en": "Light Nets",
+  "fr": "Filets légers"
+ },
+ {
+  "en": "Light's Echo",
+  "fr": "Écho de la Lumière"
+ },
+ {
+  "en": "Liquid Space",
+  "fr": "Espace liquide"
+ },
+ {
+  "en": "Loa Spirits",
+  "fr": "Esprits loa"
+ },
+ {
+  "en": "Lord of Torture",
+  "fr": "Seigneur de la torture"
+ },
+ {
+  "en": "Lord of the Arena",
+  "fr": "Seigneur de l'arène"
+ },
+ {
+  "en": "Lunar Anomaly",
+  "fr": "Anomalie lunaire"
+ },
+ {
+  "en": "Lunar Authority",
+  "fr": "Autorité lunaire"
+ },
+ {
+  "en": "Lunar Conquest",
+  "fr": "Conquête lunaire"
+ },
+ {
+  "en": "Lunar Phase",
+  "fr": "Phase lunaire"
+ },
+ {
+  "en": "Lunar Prophecy",
+  "fr": "Prophétie lunaire"
+ },
+ {
+  "en": "Lunar Splinters",
+  "fr": "Échardes lunaires"
+ },
+ {
+  "en": "Mace Training",
+  "fr": "Entraînement aux masses"
+ },
+ {
+  "en": "Magic Mark",
+  "fr": "Marque magique"
+ },
+ {
+  "en": "Mak'Gora",
+  "fr": "Mak'Gora"
+ },
+ {
+  "en": "Make Room! I'm Here.",
+  "fr": "Faites place ! Me voilà."
+ },
+ {
+  "en": "Maker of Miseries",
+  "fr": "Artisan des misères"
+ },
+ {
+  "en": "Manbearpig",
+  "fr": "Homme-ours-porc"
+ },
+ {
+  "en": "March of the Valkyr",
+  "fr": "Marche des val'kyrs"
+ },
+ {
+  "en": "Mark of Aggramar",
+  "fr": "Marque d'Aggramar"
+ },
+ {
+  "en": "Mark of Korth'azz",
+  "fr": "Marque de Korth'azz"
+ },
+ {
+  "en": "Mark of Order",
+  "fr": "Marque de l'ordre"
+ },
+ {
+  "en": "Mark of Terror",
+  "fr": "Marque de terreur"
+ },
+ {
+  "en": "Master Sapper",
+  "fr": "Maître sapeur"
+ },
+ {
+  "en": "Master of Arms",
+  "fr": "Maître d'armes"
+ },
+ {
+  "en": "Master of Duality",
+  "fr": "Maître de la dualité"
+ },
+ {
+  "en": "Master of Venoms",
+  "fr": "Maître des venins"
+ },
+ {
+  "en": "Maw Knight",
+  "fr": "Chevalier de l'Antre"
+ },
+ {
+  "en": "Mechsuit: Activate Jets",
+  "fr": "Méca-armure : activer les réacteurs"
+ },
+ {
+  "en": "Mechsuit: Artillery Rush",
+  "fr": "Méca-armure : ruée d'artillerie"
+ },
+ {
+  "en": "Mechsuit: Combustion",
+  "fr": "Méca-armure : combustion"
+ },
+ {
+  "en": "Mechsuit: Quaking Stomp",
+  "fr": "Méca-armure : piétinement sismique"
+ },
+ {
+  "en": "Mechsuit: Sawblade",
+  "fr": "Méca-armure : lame de scie"
+ },
+ {
+  "en": "Mend Animal Spirit",
+  "fr": "Soigner l'esprit animal"
+ },
+ {
+  "en": "Mind Leak",
+  "fr": "Fuite mentale"
+ },
+ {
+  "en": "Mind Screech",
+  "fr": "Hurlement mental"
+ },
+ {
+  "en": "Mindless Fury",
+  "fr": "Furie aveugle"
+ },
+ {
+  "en": "Moment of Clarity",
+  "fr": "Moment de lucidité"
+ },
+ {
+  "en": "Moment of Triumph",
+  "fr": "Moment de triomphe"
+ },
+ {
+  "en": "Moon Gaze",
+  "fr": "Contemplation de la lune"
+ },
+ {
+  "en": "Moon Gazing",
+  "fr": "Contemplation lunaire"
+ },
+ {
+  "en": "Moon Priest",
+  "fr": "Prêtre de la lune"
+ },
+ {
+  "en": "Moon Priest - Level 15 Passive",
+  "fr": "Prêtre de la lune - passif de niveau 15"
+ },
+ {
+  "en": "Moon Touch",
+  "fr": "Toucher de la lune"
+ },
+ {
+  "en": "Moonlit Lancer",
+  "fr": "Lancier au clair de lune"
+ },
+ {
+  "en": "Moonlit Slumber",
+  "fr": "Sommeil au clair de lune"
+ },
+ {
+  "en": "Moonstone Hilt",
+  "fr": "Poignée en pierre de lune"
+ },
+ {
+  "en": "Moonwell Dipped Arrows",
+  "fr": "Flèches trempées au puits de lune"
+ },
+ {
+  "en": "Motivated to Fight",
+  "fr": "Motivation au combat"
+ },
+ {
+  "en": "Mountain King - Level 15 Passive",
+  "fr": "Roi de la montagne - passif de niveau 15"
+ },
+ {
+  "en": "Mountain Mover",
+  "fr": "Déplace-montagnes"
+ },
+ {
+  "en": "Mu'sha's Blessing",
+  "fr": "Bénédiction de Mu'sha"
+ },
+ {
+  "en": "My Greatest Invention!",
+  "fr": "Ma plus grande invention !"
+ },
+ {
+  "en": "Mycelial Healing",
+  "fr": "Guérison mycélienne"
+ },
+ {
+  "en": "Mycelial Replenishment",
+  "fr": "Reconstitution mycélienne"
+ },
+ {
+  "en": "Mycelial Ring",
+  "fr": "Cercle mycélien"
+ },
+ {
+  "en": "N'Zoth's Rage",
+  "fr": "Rage de N'Zoth"
+ },
+ {
+  "en": "NYI",
+  "fr": "Non implémenté"
+ },
+ {
+  "en": "Nanobot Cleanser",
+  "fr": "Nanorobots de purification"
+ },
+ {
+  "en": "Nanobot Durability",
+  "fr": "Durabilité des nanorobots"
+ },
+ {
+  "en": "Nanobot Recharger",
+  "fr": "Nanorobots de recharge"
+ },
+ {
+  "en": "Nature's Call",
+  "fr": "Appel de la nature"
+ },
+ {
+  "en": "Ner'zhul's Blessing",
+  "fr": "Bénédiction de Ner'zhul"
+ },
+ {
+  "en": "Nimble Movements",
+  "fr": "Mouvements agiles"
+ },
+ {
+  "en": "No Mercy",
+  "fr": "Sans pitié"
+ },
+ {
+  "en": "No Shade",
+  "fr": "Sans ombrage"
+ },
+ {
+  "en": "Noctis Protection",
+  "fr": "Protection Noctis"
+ },
+ {
+  "en": "Not Even A Scratch",
+  "fr": "Pas une égratignure"
+ },
+ {
+  "en": "Not On MY Turf!",
+  "fr": "Pas sur MON territoire !"
+ },
+ {
+  "en": "Oath Flow",
+  "fr": "Flux du serment"
+ },
+ {
+  "en": "Offensive Pose",
+  "fr": "Posture offensive"
+ },
+ {
+  "en": "On A Cloudy Day",
+  "fr": "Par temps nuageux"
+ },
+ {
+  "en": "On The Hunt",
+  "fr": "En chasse"
+ },
+ {
+  "en": "One In The Chamber",
+  "fr": "Une balle dans la chambre"
+ },
+ {
+  "en": "One Man Army",
+  "fr": "Armée d'un seul homme"
+ },
+ {
+  "en": "One True Champion",
+  "fr": "Le seul vrai champion"
+ },
+ {
+  "en": "One With The Ancestors",
+  "fr": "Communion avec les ancêtres"
+ },
+ {
+  "en": "One With The Light",
+  "fr": "Communion avec la Lumière"
+ },
+ {
+  "en": "One-Handed Mastery",
+  "fr": "Maîtrise à une main"
+ },
+ {
+  "en": "Opening Play",
+  "fr": "Coup d'ouverture"
+ },
+ {
+  "en": "Outland Slaver",
+  "fr": "Esclavagiste de l'Outreterre"
+ },
+ {
+  "en": "Pestilence of Apocalypse",
+  "fr": "Pestilence de l'apocalypse"
+ },
+ {
+  "en": "Piety Sun Cleric Passive Hidden2",
+  "fr": "Piété du clerc solaire passive cachée 2"
+ },
+ {
+  "en": "Pit Fighter",
+  "fr": "Combattant de la fosse"
+ },
+ {
+  "en": "Plague Revenant",
+  "fr": "Revenant de la peste"
+ },
+ {
+  "en": "Poison Quiver",
+  "fr": "Carquois empoisonné"
+ },
+ {
+  "en": "Pommel Smash",
+  "fr": "Coup de pommeau"
+ },
+ {
+  "en": "Portable Potion Pack",
+  "fr": "Trousse de potions portative"
+ },
+ {
+  "en": "Power Cell",
+  "fr": "Cellule d'énergie"
+ },
+ {
+  "en": "Power In Holy Abdicationer",
+  "fr": "Puissance de l'abdication sacrée"
+ },
+ {
+  "en": "Power of Yogg-Saron",
+  "fr": "Puissance de Yogg-Saron"
+ },
+ {
+  "en": "Power the Elements",
+  "fr": "Alimenter les éléments"
+ },
+ {
+  "en": "Powerful Legs",
+  "fr": "Pattes puissantes"
+ },
+ {
+  "en": "Precision Bites",
+  "fr": "Morsures précises"
+ },
+ {
+  "en": "Precision Scopes",
+  "fr": "Lunettes de précision"
+ },
+ {
+  "en": "Presence of Yogg-Saron",
+  "fr": "Présence de Yogg-Saron"
+ },
+ {
+  "en": "Primal Awakening",
+  "fr": "Éveil primordial"
+ },
+ {
+  "en": "Primal Convergence",
+  "fr": "Convergence primordiale"
+ },
+ {
+  "en": "Primal Defusion",
+  "fr": "Défusion primordiale"
+ },
+ {
+  "en": "Primal Fury Threat",
+  "fr": "Menace de fureur primordiale"
+ },
+ {
+  "en": "Primal Instincts",
+  "fr": "Instincts primordiaux"
+ },
+ {
+  "en": "Primal Resurgence",
+  "fr": "Résurgence primordiale"
+ },
+ {
+  "en": "Primal Rush",
+  "fr": "Ruée primordiale"
+ },
+ {
+  "en": "Primal Shaman's Mask",
+  "fr": "Masque du chaman primordial"
+ },
+ {
+  "en": "Primal Totem",
+  "fr": "Totem primordial"
+ },
+ {
+  "en": "Prophet of Doom",
+  "fr": "Prophète de malheur"
+ },
+ {
+  "en": "Prophetic Compulsion",
+  "fr": "Compulsion prophétique"
+ },
+ {
+  "en": "Protector of Darkshire",
+  "fr": "Protecteur de Sombre-comté"
+ },
+ {
+  "en": "Pure Agony",
+  "fr": "Agonie pure"
+ },
+ {
+  "en": "Pure Focus",
+  "fr": "Concentration pure"
+ },
+ {
+  "en": "Putricide's Formula",
+  "fr": "Formule de Putricide"
+ },
+ {
+  "en": "PvE Mode",
+  "fr": "Mode PvE"
+ },
+ {
+  "en": "Quick Footed",
+  "fr": "Pieds rapides"
+ },
+ {
+  "en": "Quickdraft",
+  "fr": "Esquisse rapide"
+ },
+ {
+  "en": "Rage of the Pious",
+  "fr": "Rage pieuse"
+ },
+ {
+  "en": "Ragefist",
+  "fr": "Ragepoing"
+ },
+ {
+  "en": "Rain of Chaos",
+  "fr": "Pluie du chaos"
+ },
+ {
+  "en": "Rain of Comets",
+  "fr": "Pluie de comètes"
+ },
+ {
+  "en": "Raise: Skeletal Mage",
+  "fr": "Relever : mage squelettique"
+ },
+ {
+  "en": "Raising the Kirin Tor",
+  "fr": "Relever le Kirin Tor"
+ },
+ {
+  "en": "Rally The Archers",
+  "fr": "Ralliement des archers"
+ },
+ {
+  "en": "Rally The Sentinels",
+  "fr": "Ralliement des sentinelles"
+ },
+ {
+  "en": "Rapid Execution",
+  "fr": "Exécution rapide"
+ },
+ {
+  "en": "Rapid Injection",
+  "fr": "Injection rapide"
+ },
+ {
+  "en": "Raptor Talons",
+  "fr": "Griffes de raptor"
+ },
+ {
+  "en": "Ravenous Bite (Packleader)",
+  "fr": "Morsure vorace (Chef de meute)"
+ },
+ {
+  "en": "Ray of Illumination",
+  "fr": "Rayon d'illumination"
+ },
+ {
+  "en": "Reach of the Old Gods",
+  "fr": "Portée des Dieux très anciens"
+ },
+ {
+  "en": "Recall Animal Spirit",
+  "fr": "Rappel de l'esprit animal"
+ },
+ {
+  "en": "Reduce Harden Carapace",
+  "fr": "Réduction du durcissement de carapace"
+ },
+ {
+  "en": "Regenerative Elixirs",
+  "fr": "Élixirs régénérants"
+ },
+ {
+  "en": "Regenerative Properties",
+  "fr": "Propriétés régénérantes"
+ },
+ {
+  "en": "Rejuvenating Boons",
+  "fr": "Faveurs revigorantes"
+ },
+ {
+  "en": "Rejuvenating Gadget",
+  "fr": "Gadget revigorant"
+ },
+ {
+  "en": "Rejuvenating Shadows",
+  "fr": "Ombres revigorantes"
+ },
+ {
+  "en": "Rejuvenating Venom",
+  "fr": "Venin revitalisant"
+ },
+ {
+  "en": "Reliquary of the Lost",
+  "fr": "Reliquaire des égarés"
+ },
+ {
+  "en": "Remove Venoms",
+  "fr": "Délivrance des venins"
+ },
+ {
+  "en": "Resolve",
+  "fr": "Résolution"
+ },
+ {
+  "en": "Riftblade",
+  "fr": "Lamefaille"
+ },
+ {
+  "en": "Righteous Custodian",
+  "fr": "Gardien vertueux"
+ },
+ {
+  "en": "Righteous Duel",
+  "fr": "Duel vertueux"
+ },
+ {
+  "en": "Rippling Moonwater",
+  "fr": "Eau de lune ondoyante"
+ },
+ {
+  "en": "Rippling Power",
+  "fr": "Puissance ondulante"
+ },
+ {
+  "en": "Rips and Tears",
+  "fr": "Déchirures et lacérations"
+ },
+ {
+  "en": "Ritual Cleansing",
+  "fr": "Purification rituelle"
+ },
+ {
+  "en": "Ritual Codex",
+  "fr": "Codex rituel"
+ },
+ {
+  "en": "Rocket Boots",
+  "fr": "Bottes-fusées"
+ },
+ {
+  "en": "Rocket Launcher",
+  "fr": "Lanceur de fusée"
+ },
+ {
+  "en": "Roll Back",
+  "fr": "Retour en arrière"
+ },
+ {
+  "en": "Roll The Heads",
+  "fr": "Que les têtes roulent"
+ },
+ {
+  "en": "Runic Reservoir",
+  "fr": "Réservoir runique"
+ },
+ {
+  "en": "Rylak's Blessing",
+  "fr": "Bénédiction de Rylak"
+ },
+ {
+  "en": "Sacred Candle",
+  "fr": "Bougie sacrée"
+ },
+ {
+  "en": "Sacred Defense",
+  "fr": "Défense sacrée"
+ },
+ {
+  "en": "Sacred Style",
+  "fr": "Style sacré"
+ },
+ {
+  "en": "Sanguine Circle",
+  "fr": "Cercle sanguin"
+ },
+ {
+  "en": "Sanguine Scripture",
+  "fr": "Écritures sanguines"
+ },
+ {
+  "en": "Sanguine Soldier",
+  "fr": "Soldat sanguin"
+ },
+ {
+  "en": "Sargeron Smite",
+  "fr": "Châtiment de Sargeron"
+ },
+ {
+  "en": "Saronite Mind",
+  "fr": "Esprit de saronite"
+ },
+ {
+  "en": "Savage Frenzy",
+  "fr": "Frénésie sauvage"
+ },
+ {
+  "en": "Scarlet Judicator",
+  "fr": "Judicateur écarlate"
+ },
+ {
+  "en": "Scourge Expert Training",
+  "fr": "Entraînement d'expert du Fléau"
+ },
+ {
+  "en": "Scourge-Defense Training",
+  "fr": "Entraînement de défense contre le Fléau"
+ },
+ {
+  "en": "Screech of the Darkwing",
+  "fr": "Cri strident de l'Aile sombre"
+ },
+ {
+  "en": "Scythe Rush",
+  "fr": "Ruée de la faux"
+ },
+ {
+  "en": "Seething Void",
+  "fr": "Vide bouillonnant"
+ },
+ {
+  "en": "Seismic Grasp",
+  "fr": "Poigne sismique"
+ },
+ {
+  "en": "Self-Sustaining Technology",
+  "fr": "Technologie autosuffisante"
+ },
+ {
+  "en": "Sen'jin's Guidance",
+  "fr": "Conduite de Sen'jin"
+ },
+ {
+  "en": "Serpent Lord's Amulet",
+  "fr": "Amulette du seigneur serpent"
+ },
+ {
+  "en": "Serpent Lord's Ring",
+  "fr": "Anneau du seigneur serpent"
+ },
+ {
+  "en": "Serpent Lord's Ritual",
+  "fr": "Rituel du seigneur serpent"
+ },
+ {
+  "en": "Servant of C'Thun",
+  "fr": "Serviteur de C'Thun"
+ },
+ {
+  "en": "Set Bounty",
+  "fr": "Mise à prix"
+ },
+ {
+  "en": "Shackle The Unrepentant",
+  "fr": "Entraves des impénitents"
+ },
+ {
+  "en": "Shadow Bond",
+  "fr": "Lien d'ombre"
+ },
+ {
+  "en": "Shadow Brand",
+  "fr": "Marque de l'ombre"
+ },
+ {
+  "en": "Shadow Enchantments",
+  "fr": "Enchantements de l'ombre"
+ },
+ {
+  "en": "Shadow Howl",
+  "fr": "Hurlement d'ombre"
+ },
+ {
+  "en": "Shadow Rage",
+  "fr": "Rage de l'ombre"
+ },
+ {
+  "en": "Shadowflame Forge",
+  "fr": "Forge de flamme d'ombre"
+ },
+ {
+  "en": "Shadowy Tendrils",
+  "fr": "Vrilles d'ombre"
+ },
+ {
+  "en": "Shadra's Gift",
+  "fr": "Don de Shadra"
+ },
+ {
+  "en": "Shadra's Vigil",
+  "fr": "Veille de Shadra"
+ },
+ {
+  "en": "Shards of Torment",
+  "fr": "Éclats de tourment"
+ },
+ {
+  "en": "Sharpshooter",
+  "fr": "Tireur d'élite"
+ },
+ {
+  "en": "Shield Challenge",
+  "fr": "Défi du bouclier"
+ },
+ {
+  "en": "Shield Unit",
+  "fr": "Unité de bouclier"
+ },
+ {
+  "en": "Shield of The Keeper",
+  "fr": "Bouclier du Gardien"
+ },
+ {
+  "en": "Shield of the Ages",
+  "fr": "Bouclier des âges"
+ },
+ {
+  "en": "Shining Shield",
+  "fr": "Bouclier étincelant"
+ },
+ {
+  "en": "Shoulder The Burden",
+  "fr": "Endosser le fardeau"
+ },
+ {
+  "en": "Shroud of Pride",
+  "fr": "Linceul d'orgueil"
+ },
+ {
+  "en": "Sins of the Father",
+  "fr": "Péchés du père"
+ },
+ {
+  "en": "Sludge Belcher",
+  "fr": "Crache-vase"
+ },
+ {
+  "en": "Solar Avenger",
+  "fr": "Vengeur solaire"
+ },
+ {
+  "en": "Solar Concord",
+  "fr": "Concorde solaire"
+ },
+ {
+  "en": "Solar Conduit",
+  "fr": "Conduit solaire"
+ },
+ {
+  "en": "Solar Crusader",
+  "fr": "Croisé solaire"
+ },
+ {
+  "en": "Solar Eclipse",
+  "fr": "Éclipse solaire"
+ },
+ {
+  "en": "Solar Invocation: Conquest",
+  "fr": "Invocation solaire : conquête"
+ },
+ {
+  "en": "Solar Invocation: Resplendence",
+  "fr": "Invocation solaire : resplendissement"
+ },
+ {
+  "en": "Solar Invocation: Revelation",
+  "fr": "Invocation solaire : révélation"
+ },
+ {
+  "en": "Solar Might",
+  "fr": "Puissance solaire"
+ },
+ {
+  "en": "Solar Prayer",
+  "fr": "Prière solaire"
+ },
+ {
+  "en": "Solar Priest",
+  "fr": "Prêtre solaire"
+ },
+ {
+  "en": "Solar Scripture",
+  "fr": "Écritures solaires"
+ },
+ {
+  "en": "Solar Templar",
+  "fr": "Templier solaire"
+ },
+ {
+  "en": "Son of Ursoc",
+  "fr": "Fils d'Ursoc"
+ },
+ {
+  "en": "Song of Steel TO REWORK",
+  "fr": "Chant d'acier À RETRAVAILLER"
+ },
+ {
+  "en": "Soul Capture",
+  "fr": "Capture d'âme"
+ },
+ {
+  "en": "Soul Eater",
+  "fr": "Dévoreur d'âmes"
+ },
+ {
+  "en": "Soul Harvest",
+  "fr": "Récolte d'âmes"
+ },
+ {
+  "en": "Soul Harvester",
+  "fr": "Moissonneur d'âmes"
+ },
+ {
+  "en": "Soul Inferno",
+  "fr": "Enfer des âmes"
+ },
+ {
+  "en": "Soul Shear",
+  "fr": "Cisaillement d'âme"
+ },
+ {
+  "en": "Soul Splinters",
+  "fr": "Échardes d'âme"
+ },
+ {
+  "en": "Specialization I",
+  "fr": "Spécialisation I"
+ },
+ {
+  "en": "Speedy Attuner",
+  "fr": "Harmonisateur rapide"
+ },
+ {
+  "en": "Spellblade",
+  "fr": "Lamesort"
+ },
+ {
+  "en": "Spider Tank: Flak Guns",
+  "fr": "Char araignée : canons antiaériens"
+ },
+ {
+  "en": "Spider Tank: Scurry",
+  "fr": "Char araignée : cavalcade"
+ },
+ {
+  "en": "Spirit Realm",
+  "fr": "Royaume des esprits"
+ },
+ {
+  "en": "Spirit Scythes",
+  "fr": "Faux des esprits"
+ },
+ {
+  "en": "Spirit Stable",
+  "fr": "Écurie des esprits"
+ },
+ {
+  "en": "Spirit Walker",
+  "fr": "Marche-esprit"
+ },
+ {
+  "en": "Spiritual Abdicator",
+  "fr": "Renonçant spirituel"
+ },
+ {
+  "en": "Spiritual Overflow",
+  "fr": "Débordement spirituel"
+ },
+ {
+  "en": "Staff of the Coven",
+  "fr": "Bâton de l'assemblée"
+ },
+ {
+  "en": "Standard of Rallying",
+  "fr": "Étendard de ralliement"
+ },
+ {
+  "en": "Standard of Recovery",
+  "fr": "Étendard de récupération"
+ },
+ {
+  "en": "Standard of Spellwarding",
+  "fr": "Étendard de garde des sorts"
+ },
+ {
+  "en": "Standard of Supremacy",
+  "fr": "Étendard de suprématie"
+ },
+ {
+  "en": "Star Citizen",
+  "fr": "Citoyen des étoiles"
+ },
+ {
+  "en": "Star Pupil",
+  "fr": "Pupille des étoiles"
+ },
+ {
+  "en": "Star-Guided Arrows",
+  "fr": "Flèches guidées par les étoiles"
+ },
+ {
+  "en": "Starcrash",
+  "fr": "Fracas d'étoiles"
+ },
+ {
+  "en": "Starlight Duelist",
+  "fr": "Duelliste de lumière stellaire"
+ },
+ {
+  "en": "Stays In Moonbrook",
+  "fr": "Ça reste à Clairelune"
+ },
+ {
+  "en": "Stellar Convergence",
+  "fr": "Convergence stellaire"
+ },
+ {
+  "en": "Stellar Drift",
+  "fr": "Dérive stellaire"
+ },
+ {
+  "en": "Stoning the Enemy",
+  "fr": "Lapidation de l'ennemi"
+ },
+ {
+  "en": "Strength Bionics",
+  "fr": "Bionique de force"
+ },
+ {
+  "en": "Strength In Unison",
+  "fr": "Force à l'unisson"
+ },
+ {
+  "en": "Strength of the Black Empire",
+  "fr": "Force de l'Empire noir"
+ },
+ {
+  "en": "Strike Where It Hurts",
+  "fr": "Frapper là où ça fait mal"
+ },
+ {
+  "en": "Suffuse",
+  "fr": "Infuser"
+ },
+ {
+  "en": "Summon: Faceless Servant",
+  "fr": "Invocation : serviteur sans-visage"
+ },
+ {
+  "en": "Summon: Mindbender",
+  "fr": "Invocation : fléau-d'esprit"
+ },
+ {
+  "en": "Sun Disc",
+  "fr": "Disque solaire"
+ },
+ {
+  "en": "Sun Gate",
+  "fr": "Porte solaire"
+ },
+ {
+  "en": "Sun Stride",
+  "fr": "Foulée solaire"
+ },
+ {
+  "en": "Sunder",
+  "fr": "Fracasser"
+ },
+ {
+  "en": "Sunlight Refraction",
+  "fr": "Réfraction solaire"
+ },
+ {
+  "en": "Swarm of Flies",
+  "fr": "Nuée de mouches"
+ },
+ {
+  "en": "Swift Blasts",
+  "fr": "Déflagrations rapides"
+ },
+ {
+  "en": "Swift Pincers",
+  "fr": "Pinces rapides"
+ },
+ {
+  "en": "Symphony of Bones",
+  "fr": "Symphonie d'ossements"
+ },
+ {
+  "en": "Target Spotted!",
+  "fr": "Cible repérée !"
+ },
+ {
+  "en": "Teachings of Lana'thel",
+  "fr": "Enseignements de Lana'thel"
+ },
+ {
+  "en": "Teachings of the Cathedral",
+  "fr": "Enseignements de la cathédrale"
+ },
+ {
+  "en": "Tear Them Apart",
+  "fr": "Mise en pièces"
+ },
+ {
+  "en": "Tectonic Crash",
+  "fr": "Fracas tectonique"
+ },
+ {
+  "en": "Teleport: Caverns of Time",
+  "fr": "Téléportation : Grottes du Temps"
+ },
+ {
+  "en": "Teleport: Shadowfang Keep",
+  "fr": "Téléportation : Donjon d'Ombrecroc"
+ },
+ {
+  "en": "Temporal Anomaly",
+  "fr": "Anomalie temporelle"
+ },
+ {
+  "en": "Temporal Balance",
+  "fr": "Équilibre temporel"
+ },
+ {
+  "en": "Temporal Restoration",
+  "fr": "Restauration temporelle"
+ },
+ {
+  "en": "Temporal Swiftness",
+  "fr": "Rapidité temporelle"
+ },
+ {
+  "en": "Tentacle of C'Thun",
+  "fr": "Tentacule de C'Thun"
+ },
+ {
+  "en": "Tentacle of N'Zoth",
+  "fr": "Tentacule de N'Zoth"
+ },
+ {
+  "en": "Tentacle of Yogg-Saron",
+  "fr": "Tentacule de Yogg-Saron"
+ },
+ {
+  "en": "Terror of the Old Gods",
+  "fr": "Terreur des Dieux très anciens"
+ },
+ {
+  "en": "Test of Pride",
+  "fr": "Épreuve d'orgueil"
+ },
+ {
+  "en": "Thalassian Brand",
+  "fr": "Stigmate thalassien"
+ },
+ {
+  "en": "The BIG Guns!",
+  "fr": "La GROSSE artillerie !"
+ },
+ {
+  "en": "The Bieko Effect",
+  "fr": "L'effet Bieko"
+ },
+ {
+  "en": "The Chosen",
+  "fr": "Les Élus"
+ },
+ {
+  "en": "The Chosen One",
+  "fr": "L'Élu"
+ },
+ {
+  "en": "The Cup Runneth Over",
+  "fr": "La coupe déborde"
+ },
+ {
+  "en": "The Doctor Is In",
+  "fr": "Le docteur est là"
+ },
+ {
+  "en": "The Duskwood Menace",
+  "fr": "La menace du Bois de la Pénombre"
+ },
+ {
+  "en": "The Hunter and the Hunted",
+  "fr": "Le chasseur et le chassé"
+ },
+ {
+  "en": "The Old Kingdom",
+  "fr": "L'Ancien royaume"
+ },
+ {
+  "en": "The Redeemer",
+  "fr": "Le rédempteur"
+ },
+ {
+  "en": "The Stars Align",
+  "fr": "Les étoiles s'alignent"
+ },
+ {
+  "en": "The Vast Infinite",
+  "fr": "Le vaste infini"
+ },
+ {
+  "en": "Thick Pelt",
+  "fr": "Pelage épais"
+ },
+ {
+  "en": "This Is My Domain",
+  "fr": "Ceci est mon domaine"
+ },
+ {
+  "en": "Thread The Needle",
+  "fr": "Enfiler l'aiguille"
+ },
+ {
+  "en": "Three Sevens",
+  "fr": "Triple sept"
+ },
+ {
+  "en": "Tick Tock",
+  "fr": "Tic-tac"
+ },
+ {
+  "en": "Time Is A Circle",
+  "fr": "Le temps est un cercle"
+ },
+ {
+  "en": "Time Skip",
+  "fr": "Saut temporel"
+ },
+ {
+  "en": "Time Stretch",
+  "fr": "Étirement temporel"
+ },
+ {
+  "en": "Time to Feast!",
+  "fr": "L'heure du festin !"
+ },
+ {
+  "en": "Timed Attacks",
+  "fr": "Attaques chronométrées"
+ },
+ {
+  "en": "Timeline Destroyer",
+  "fr": "Destructeur de lignes temporelles"
+ },
+ {
+  "en": "Timeline Tether",
+  "fr": "Attache de la ligne temporelle"
+ },
+ {
+  "en": "Timerend",
+  "fr": "Déchire-temps"
+ },
+ {
+  "en": "Tithe of Courage",
+  "fr": "Dîme de courage"
+ },
+ {
+  "en": "Tithe of Crusading",
+  "fr": "Dîme de croisade"
+ },
+ {
+  "en": "Tithe of Elements",
+  "fr": "Dîme des éléments"
+ },
+ {
+  "en": "Tithe of Heroism",
+  "fr": "Dîme d'héroïsme"
+ },
+ {
+  "en": "Tithe of Ingenuity",
+  "fr": "Dîme d'ingéniosité"
+ },
+ {
+  "en": "Tithe of Liberty",
+  "fr": "Dîme de liberté"
+ },
+ {
+  "en": "Tithe of Mysticism",
+  "fr": "Dîme de mysticisme"
+ },
+ {
+  "en": "Tithe of Order",
+  "fr": "Dîme de l'ordre"
+ },
+ {
+  "en": "Tonic Supply",
+  "fr": "Réserve de toniques"
+ },
+ {
+  "en": "Tormented Souls",
+  "fr": "Âmes tourmentées"
+ },
+ {
+  "en": "Tormenting the Tormented",
+  "fr": "Tourmenter les tourmentés"
+ },
+ {
+  "en": "Torn to Shreds",
+  "fr": "Mis en lambeaux"
+ },
+ {
+  "en": "Touch of Moonlight Cost %",
+  "fr": "Toucher du clair de lune : % de coût"
+ },
+ {
+  "en": "Toxic Communion",
+  "fr": "Communion toxique"
+ },
+ {
+  "en": "Toxic Expulsion",
+  "fr": "Expulsion toxique"
+ },
+ {
+  "en": "Toxic Stride",
+  "fr": "Foulée toxique"
+ },
+ {
+  "en": "Trueshot Lodge Training",
+  "fr": "Entraînement du pavillon de Précision"
+ },
+ {
+  "en": "Trust the Science!",
+  "fr": "Faites confiance à la science !"
+ },
+ {
+  "en": "Turret Mechanic",
+  "fr": "Mécanicien de tourelles"
+ },
+ {
+  "en": "Twilight Domain",
+  "fr": "Domaine du crépuscule"
+ },
+ {
+  "en": "Twilight Initiate",
+  "fr": "Initié du crépuscule"
+ },
+ {
+  "en": "Twisted Seal",
+  "fr": "Sceau perverti"
+ },
+ {
+  "en": "Umbral Wanderer",
+  "fr": "Vagabond ombral"
+ },
+ {
+  "en": "Unbound Energy",
+  "fr": "Énergie libérée"
+ },
+ {
+  "en": "Underhanded",
+  "fr": "Sournoiserie"
+ },
+ {
+  "en": "Undertow",
+  "fr": "Ressac"
+ },
+ {
+  "en": "Unholy Command: Initiate, Colossus. Grave Mage",
+  "fr": "Commandement impie : initié, colosse. Mage des tombes"
+ },
+ {
+  "en": "Unmaker of Realities",
+  "fr": "Défaiseur de réalités"
+ },
+ {
+  "en": "Unyielding Stand",
+  "fr": "Position inflexible"
+ },
+ {
+  "en": "Upgrade Mechsuit: Spider Tank",
+  "fr": "Améliorer la méca-armure : char araignée"
+ },
+ {
+  "en": "Upgrade Mechsuit: Vanguard X-42",
+  "fr": "Améliorer la méca-armure : Avant-garde X-42"
+ },
+ {
+  "en": "Valkyr's Grip",
+  "fr": "Poigne de val'kyr"
+ },
+ {
+  "en": "Valkyrie Sun Cleric",
+  "fr": "Valkyrie clerc solaire"
+ },
+ {
+  "en": "Vampiric Mist",
+  "fr": "Brume vampirique"
+ },
+ {
+  "en": "Vanguard X-42: Fuselight Furnace",
+  "fr": "Avant-garde X-42 : fournaise à mèche ardente"
+ },
+ {
+  "en": "Venom Cultist",
+  "fr": "Cultiste du venin"
+ },
+ {
+  "en": "Venom Glands",
+  "fr": "Glandes à venin"
+ },
+ {
+  "en": "Venom Saturation",
+  "fr": "Saturation de venin"
+ },
+ {
+  "en": "Venomous Approach",
+  "fr": "Approche venimeuse"
+ },
+ {
+  "en": "Vicious Mockery",
+  "fr": "Moquerie cruelle"
+ },
+ {
+  "en": "Vigil of the Watchers",
+  "fr": "Vigile des veilleurs"
+ },
+ {
+  "en": "Vile Fury",
+  "fr": "Furie vile"
+ },
+ {
+  "en": "Viper Ward",
+  "fr": "Garde de la vipère"
+ },
+ {
+  "en": "Visions of the Empire",
+  "fr": "Visions de l'Empire"
+ },
+ {
+  "en": "Voice of an Angel",
+  "fr": "Voix d'un ange"
+ },
+ {
+  "en": "Void Touch",
+  "fr": "Toucher du Vide"
+ },
+ {
+  "en": "Void Touched Regalia",
+  "fr": "Atours touchés par le Vide"
+ },
+ {
+  "en": "Void-Touched",
+  "fr": "Touché par le Vide"
+ },
+ {
+  "en": "Voidforged Edge",
+  "fr": "Tranchant forgé dans le Vide"
+ },
+ {
+  "en": "Vol'jin's Blessing",
+  "fr": "Bénédiction de Vol'jin"
+ },
+ {
+  "en": "Volcanic Blast",
+  "fr": "Explosion volcanique"
+ },
+ {
+  "en": "Vow of Radiance",
+  "fr": "Vœu de radiance"
+ },
+ {
+  "en": "Vow of the Eclipse",
+  "fr": "Vœu de l'éclipse"
+ },
+ {
+  "en": "Vow of the Valkyr",
+  "fr": "Vœu de la val'kyr"
+ },
+ {
+  "en": "Wake Up, It's Dread Time",
+  "fr": "Debout, c'est l'heure de l'effroi"
+ },
+ {
+  "en": "Wand of Entropy",
+  "fr": "Baguette d'entropie"
+ },
+ {
+  "en": "War Drums",
+  "fr": "Tambours de guerre"
+ },
+ {
+  "en": "Ward of Aman'thul",
+  "fr": "Protection d'Aman'thul"
+ },
+ {
+  "en": "Warden of the Lost",
+  "fr": "Gardien des égarés"
+ },
+ {
+  "en": "Warpstriker",
+  "fr": "Frappeur dimensionnel"
+ },
+ {
+  "en": "Warrior of Elune",
+  "fr": "Guerrier d'Elune"
+ },
+ {
+  "en": "Warrior of the Old Gods",
+  "fr": "Guerrier des Dieux très anciens"
+ },
+ {
+  "en": "Waters of Neptulon",
+  "fr": "Eaux de Neptulon"
+ },
+ {
+  "en": "Way of the Goddess",
+  "fr": "Voie de la déesse"
+ },
+ {
+  "en": "Way of the Monk",
+  "fr": "Voie du moine"
+ },
+ {
+  "en": "Weakening Venom",
+  "fr": "Venin affaiblissant"
+ },
+ {
+  "en": "Weapon Swapping",
+  "fr": "Changement d'arme"
+ },
+ {
+  "en": "Weaver of Sorrow",
+  "fr": "Tisseur de chagrin"
+ },
+ {
+  "en": "Whisper of the Lost",
+  "fr": "Murmure des égarés"
+ },
+ {
+  "en": "Whispers of N'Zoth",
+  "fr": "Murmures de N'Zoth"
+ },
+ {
+  "en": "Wicked Howl",
+  "fr": "Hurlement malfaisant"
+ },
+ {
+  "en": "Wide Bore Barrel",
+  "fr": "Canon de gros calibre"
+ },
+ {
+  "en": "Widow's Kiss",
+  "fr": "Baiser de la veuve"
+ },
+ {
+  "en": "Will of Elune",
+  "fr": "Volonté d'Elune"
+ },
+ {
+  "en": "Windrunner",
+  "fr": "Coursevent"
+ },
+ {
+  "en": "Winds of Northrend",
+  "fr": "Vents de Norfendre"
+ },
+ {
+  "en": "Withering",
+  "fr": "Flétrissure"
+ },
+ {
+  "en": "Wormfood",
+  "fr": "Pâture à vers"
+ },
+ {
+  "en": "Wraith King's Hunger",
+  "fr": "Faim du roi spectral"
+ },
+ {
+  "en": "Wrath of Tichondrius",
+  "fr": "Courroux de Tichondrius"
+ },
+ {
+  "en": "Wrath of Vashj",
+  "fr": "Courroux de Vashj"
+ },
+ {
+  "en": "Wrathful Slam",
+  "fr": "Heurt courroucé"
+ }
+]

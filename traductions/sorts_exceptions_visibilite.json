@@ -1,0 +1,5 @@
+{
+ "_lisez_moi": "Sorts que le critère de visibilité classe INVISIBLES à tort. Ils rejoignent les cibles de generateur_sorts.py quoi qu'en dise la mesure. Clé = identifiant du sort, valeur = où le joueur le voit. Ajoutez-en librement : c'est le seul endroit du système où « je l'ai vu en jeu » l'emporte sur la mesure.",
+ "75571": "Wounding Strike — capacité de PNJ, défile dans le journal de combat (jamais survolée, donc jamais récoltée)",
+ "914094": "Dirty Tricks — capacité de PNJ, journal de combat"
+}

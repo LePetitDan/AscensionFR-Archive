@@ -1,0 +1,496 @@
+{
+ "Ancient Curse": {
+  "nous": "Malédiction antique",
+  "officiel": "Malédiction ancestrale",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Anger Management": {
+  "nous": "Maîtrise de la colère",
+  "officiel": "Maîtrise de la Rage",
+  "regle": "6",
+  "verdict": "adopter"
+ },
+ "BLB - Face Kickoff Target - to Team A": {
+  "nous": "BLB - Cible de coup d'envoi - à Équipe A",
+  "officiel": "BLB - Face Kickoff Target - to Team A",
+  "regle": "2",
+  "verdict": "garder"
+ },
+ "Balance of Nature Failure": {
+  "nous": "Échec d'Équilibre de la nature",
+  "officiel": "Echec d’Equilibre de la nature",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Battle Rush": {
+  "nous": "Ruée de combat",
+  "officiel": "Ivresse de la bataille",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Battle Standard Spawn": {
+  "nous": "Apparition d'Étendard de bataille",
+  "officiel": "Apparition d'Etendard de bataille",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Beatdown": {
+  "nous": "Passage à tabac",
+  "officiel": "Massue",
+  "pourquoi": "« Massue » nomme un OBJET là où l'anglais nomme une action — le sens se perd ; « Passage à tabac » le rend.",
+  "regle": "7",
+  "verdict": "garder",
+  "veto": "Claude"
+ },
+ "Blackriver PvP Master": {
+  "nous": "Maître PvP de la rivière Noire",
+  "officiel": "Maître JcJ de la rivière Noire",
+  "regle": "3",
+  "verdict": "garder"
+ },
+ "Bloodbolt Splash": {
+  "nous": "Éclaboussure d'Éclair de sang",
+  "officiel": "Eclaboussure d'Eclair de sang",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Celerity": {
+  "nous": "Célérité",
+  "officiel": "Vélocité",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Copy of Holy Bolt": {
+  "nous": "Copie d'Éclair sacré",
+  "officiel": "Copie d'Eclair sacré",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Copy of Increased Flash of Light Healing": {
+  "nous": "Copie de soins d'Éclair lumineux augmentés",
+  "officiel": "Copie de soins d'Eclair lumineux augmentés",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Cosmetic - Breath Bubbles": {
+  "nous": "Cosmétique - Bulles de souffle",
+  "officiel": "Cosmetic - Boulder State",
+  "regle": "2",
+  "verdict": "garder"
+ },
+ "Cover": {
+  "nous": "Couverture",
+  "officiel": "Cachette",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Cripple": {
+  "nous": "Estropier",
+  "officiel": "Faiblesse",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Crush": {
+  "nous": "Écrasement",
+  "officiel": "Écraser",
+  "regle": "5",
+  "verdict": "adopter"
+ },
+ "Dark Aura": {
+  "nous": "Aura sombre",
+  "officiel": "Aura noire",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Deathchill": {
+  "nous": "Froid mortel",
+  "officiel": "Froid de la mort",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Defiance": {
+  "nous": "Défiance",
+  "officiel": "Défi",
+  "regle": "6",
+  "verdict": "adopter"
+ },
+ "Draw Water Sample": {
+  "nous": "Récupérer un Échantillon d'eau",
+  "officiel": "Récupérer un Echantillon d'eau",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Dread Poison": {
+  "nous": "Poison terrifiant",
+  "officiel": "Poison d'effroi",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Enchant Weapon - Major Spell Power": {
+  "nous": "Enchantement d'arme (Puissance des sorts majeure)",
+  "officiel": "Ench. d'arme (Puissance des sorts majeure)",
+  "regle": "4",
+  "verdict": "adopter"
+ },
+ "Enchant Weapon - Spell Power": {
+  "nous": "Enchantement d'arme (Puissance des sorts)",
+  "officiel": "Ench. d'arme (Puissance des sorts)",
+  "regle": "4",
+  "verdict": "adopter"
+ },
+ "Enchant: Fiery Blaze": {
+  "nous": "Enchanter : Éclat flamboyant",
+  "officiel": "Enchanter : Eclat flamboyant",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Executioner": {
+  "nous": "Exécuteur",
+  "officiel": "Bourreau",
+  "regle": "6",
+  "verdict": "adopter"
+ },
+ "Flameblade": {
+  "nous": "Lame de flammes",
+  "officiel": "Lame enflammée",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Focused": {
+  "nous": "Concentré",
+  "officiel": "Focalisé",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Gore": {
+  "nous": "Éventrement",
+  "officiel": "Encorner",
+  "regle": "6",
+  "verdict": "adopter"
+ },
+ "Grip": {
+  "nous": "Poigne",
+  "officiel": "Agrippé",
+  "regle": "5",
+  "verdict": "adopter"
+ },
+ "Gust of Wind": {
+  "nous": "Rafale de vent",
+  "officiel": "Bourrasque",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Haunt": {
+  "nous": "Hantise",
+  "officiel": "Hanter",
+  "regle": "5",
+  "verdict": "adopter"
+ },
+ "Healing Ward": {
+  "nous": "Gardien de soins",
+  "officiel": "Gardien guérisseur",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Heightened Reflexes": {
+  "nous": "Réflexes accrus",
+  "officiel": "Réflexes amplifiés",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Hoarfrost": {
+  "nous": "Givre blanc",
+  "officiel": "Gelée blanche",
+  "regle": "6",
+  "verdict": "adopter"
+ },
+ "Holy Form": {
+  "nous": "Forme sacrée",
+  "officiel": "Forme du Sacré",
+  "regle": "6",
+  "verdict": "adopter"
+ },
+ "Hookshot": {
+  "nous": "Tir au grappin",
+  "officiel": "Harponnage",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Increased Flash of Light Crit Chance": {
+  "nous": "Chances de critique d'Éclair lumineux augmentées",
+  "officiel": "Chances de critique d'Eclair lumineux augmentées",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Increased Imp Firebolt Damage": {
+  "nous": "Dégâts d'Éclair de feu du diablotin augmentés",
+  "officiel": "Dégâts d'Eclair de feu du diablotin augmentés",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Increased Moonfire Duration": {
+  "nous": "Durée d'Éclat lunaire augmentée",
+  "officiel": "Durée d'Eclat lunaire augmentée",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Infinite Power": {
+  "nous": "Puissance infinie",
+  "officiel": "Pouvoir infini",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Insanity": {
+  "nous": "Démence",
+  "officiel": "Insanité",
+  "pourquoi": "« Insanité » est un anglicisme ; « Démence » est le mot français.",
+  "regle": "7",
+  "verdict": "garder",
+  "veto": "Dan"
+ },
+ "Killing Spree": {
+  "nous": "Folie meurtrière",
+  "officiel": "Série meurtrière",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Knockdown Fel Cannon: The Aggro Check": {
+  "nous": "Canon gangrené de renversement : le test d'aggro",
+  "officiel": "Knockdown Fel Cannon: The Aggro Check",
+  "regle": "2",
+  "verdict": "garder"
+ },
+ "Knockout": {
+  "nous": "K.-O.",
+  "officiel": "Mise KO",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Locust Swarm": {
+  "nous": "Essaim de sauterelles",
+  "officiel": "Nuée de sauterelles",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Mind Melt": {
+  "nous": "Fusion mentale",
+  "officiel": "Fonte de l'esprit",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Molten Fury": {
+  "nous": "Fureur en fusion",
+  "officiel": "Fureur de lave",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Moonfire Mana Reduction": {
+  "nous": "Réduction de mana d'Éclat lunaire",
+  "officiel": "Réduction de mana d'Eclat lunaire",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Moonfire Visual": {
+  "nous": "Visuel d'Éclat lunaire",
+  "officiel": "Visuel d'Eclat lunaire",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Permafrost": {
+  "nous": "Pergélisol",
+  "officiel": "Gel prolongé",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Phase Out": {
+  "nous": "Déphasage",
+  "officiel": "Phase terminée",
+  "pourquoi": "« Phase terminée » est plus faible : « Déphasage » dit l'effet, pas la fin d'une phase.",
+  "regle": "7",
+  "verdict": "garder",
+  "veto": "Dan"
+ },
+ "Plant Alliance Battle Standard": {
+  "nous": "Planter l'Étendard de bataille de l'Alliance",
+  "officiel": "Planter l'Etendard de bataille de l'Alliance",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Plant Horde Battle Standard": {
+  "nous": "Planter l'Étendard de bataille de la Horde",
+  "officiel": "Planter l'Etendard de bataille de la Horde",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Power Surge": {
+  "nous": "Surcharge de puissance",
+  "officiel": "Vague de puissance",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Prayer Beads": {
+  "nous": "Perles de prière",
+  "officiel": "Chapelet",
+  "regle": "6",
+  "verdict": "adopter"
+ },
+ "Primal Instinct": {
+  "nous": "Instinct primordial",
+  "officiel": "Instinct primal",
+  "pourquoi": "« primal » casse le registre primal -> primordial posé au bloc A du programme 2 sur ~15 noms, et sent l'anglicisme.",
+  "regle": "7",
+  "verdict": "garder",
+  "veto": "Claude"
+ },
+ "PvP Armor Increased Critical 14": {
+  "nous": "Armure PvP Critique augmenté 14",
+  "officiel": "Armure JcJ Critique augmenté 14",
+  "regle": "3",
+  "verdict": "garder"
+ },
+ "PvP Controller": {
+  "nous": "Contrôleur PvP",
+  "officiel": "Contrôleur JcJ",
+  "regle": "3",
+  "verdict": "garder"
+ },
+ "PvP Trinket": {
+  "nous": "Bijou PvP",
+  "officiel": "Bijou JcJ",
+  "regle": "3",
+  "verdict": "garder"
+ },
+ "PvP Vehicle Health Regen Suppression": {
+  "nous": "Suppression de la régénération de points de vie de véhicule PvP",
+  "officiel": "Suppression de la régénération de points de vie de véhicule JcJ",
+  "regle": "3",
+  "verdict": "garder"
+ },
+ "QA Dummy Raid Debuff (70)": {
+  "nous": "Mannequin de raid de test (70)",
+  "officiel": "QA Dummy Raid Debuff (70)",
+  "regle": "2",
+  "verdict": "garder"
+ },
+ "Quake": {
+  "nous": "Séisme",
+  "officiel": "Secousse",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Rabid": {
+  "nous": "Enragé",
+  "officiel": "Atteint de la rage",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Rampage": {
+  "nous": "Saccage",
+  "officiel": "Saccager",
+  "regle": "5",
+  "verdict": "adopter"
+ },
+ "Rapture": {
+  "nous": "Ravissement",
+  "officiel": "Extase",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Resonance": {
+  "nous": "Résonance",
+  "officiel": "Résonner",
+  "regle": "5",
+  "verdict": "adopter"
+ },
+ "Reth'hedron Knockdown: The Aggro Check": {
+  "nous": "Reth'hedron Renversement : Le Test d'Aggro",
+  "officiel": "Reth'hedron Knockdown: The Aggro Check",
+  "regle": "2",
+  "verdict": "garder"
+ },
+ "Retribution": {
+  "nous": "Rétribution",
+  "officiel": "Vindicte",
+  "regle": "6",
+  "verdict": "adopter"
+ },
+ "Ride the Lightning": {
+  "nous": "Chevaucher la foudre",
+  "officiel": "Chevauche la foudre",
+  "regle": "5",
+  "verdict": "adopter"
+ },
+ "Riptide": {
+  "nous": "Vague déferlante",
+  "officiel": "Remous",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Rock Shower": {
+  "nous": "Pluie de rochers",
+  "officiel": "Avalanche de pierres",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Siphon Essence": {
+  "nous": "Siphonner l'essence",
+  "officiel": "Siphon d'essence",
+  "regle": "5",
+  "verdict": "adopter"
+ },
+ "Snarl": {
+  "nous": "Grondement",
+  "officiel": "Gronder",
+  "regle": "5",
+  "verdict": "adopter"
+ },
+ "Snatch": {
+  "nous": "Saisie",
+  "officiel": "Arracher l'arme",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Spear Throw": {
+  "nous": "Lancer de lance",
+  "officiel": "Jet de lance",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Twilight Bloodbolt Visual": {
+  "nous": "Visuel d'Éclair de sang du crépuscule",
+  "officiel": "Visuel d'Eclair de sang du crépuscule",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Vindication": {
+  "nous": "Réhabilitation",
+  "officiel": "Justification",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Water Sample": {
+  "nous": "Échantillon d'eau",
+  "officiel": "Echantillon d’eau",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Wave Crash": {
+  "nous": "Impact des vagues",
+  "officiel": "Vague percutante",
+  "regle": "7",
+  "verdict": "adopter"
+ },
+ "Weak Frostbolt": {
+  "nous": "Faible Éclair de givre",
+  "officiel": "Faible Eclair de givre",
+  "regle": "1",
+  "verdict": "garder"
+ },
+ "Weakened Soul Reduction": {
+  "nous": "Réduction d'Âme affaiblie",
+  "officiel": "Réduction d'Ame affaiblie",
+  "regle": "1",
+  "verdict": "garder"
+ }
+}

@@ -1,0 +1,2818 @@
+{
+ "commandes": {
+  "EMOTE100_CMD1": {
+   "en": "/tired",
+   "fr": "/fatigué",
+   "jeton": "TIRED"
+  },
+  "EMOTE101_CMD1": {
+   "en": "/victory",
+   "fr": "/victoire",
+   "jeton": "VICTORY"
+  },
+  "EMOTE102_CMD1": {
+   "en": "/wave",
+   "fr": "/signe",
+   "jeton": "WAVE"
+  },
+  "EMOTE103_CMD1": {
+   "en": "/welcome",
+   "fr": "/bienvenue",
+   "jeton": "WELCOME"
+  },
+  "EMOTE104_CMD1": {
+   "en": "/whine",
+   "fr": "/pleurniche",
+   "jeton": "WHINE"
+  },
+  "EMOTE105_CMD1": {
+   "en": "/whistle",
+   "fr": "/siffle",
+   "jeton": "WHISTLE"
+  },
+  "EMOTE106_CMD1": {
+   "en": "/work",
+   "fr": "/travail",
+   "jeton": "WORK"
+  },
+  "EMOTE107_CMD1": {
+   "en": "/yawn",
+   "fr": "/bâille",
+   "jeton": "YAWN"
+  },
+  "EMOTE108_CMD2": {
+   "en": "/boggle",
+   "fr": "/hésiter",
+   "jeton": "BOGGLE"
+  },
+  "EMOTE109_CMD1": {
+   "en": "/calm",
+   "fr": "/calmer",
+   "jeton": "CALM"
+  },
+  "EMOTE109_CMD3": {
+   "en": "/calm",
+   "fr": "/calmer",
+   "jeton": "CALM"
+  },
+  "EMOTE10_CMD1": {
+   "en": "/bleed",
+   "fr": "/saigner",
+   "jeton": "BLEED"
+  },
+  "EMOTE10_CMD2": {
+   "en": "/blood",
+   "fr": "/sang",
+   "jeton": "BLEED"
+  },
+  "EMOTE110_CMD1": {
+   "en": "/cold",
+   "fr": "/froid",
+   "jeton": "COLD"
+  },
+  "EMOTE111_CMD1": {
+   "en": "/comfort",
+   "fr": "/réconfort",
+   "jeton": "COMFORT"
+  },
+  "EMOTE112_CMD1": {
+   "en": "/cuddle",
+   "fr": "/blottir",
+   "jeton": "CUDDLE"
+  },
+  "EMOTE112_CMD4": {
+   "en": "/spoon",
+   "fr": "/pelotonner",
+   "jeton": "CUDDLE"
+  },
+  "EMOTE113_CMD1": {
+   "en": "/duck",
+   "fr": "/cacher",
+   "jeton": "DUCK"
+  },
+  "EMOTE114_CMD3": {
+   "en": "/insult",
+   "fr": "/insulter",
+   "jeton": "INSULT"
+  },
+  "EMOTE115_CMD1": {
+   "en": "/introduce",
+   "fr": "/présenter",
+   "jeton": "INTRODUCE"
+  },
+  "EMOTE116_CMD2": {
+   "en": "/jk",
+   "fr": "/jb",
+   "jeton": "JK"
+  },
+  "EMOTE117_CMD1": {
+   "en": "/lick",
+   "fr": "/lécher",
+   "jeton": "LICK"
+  },
+  "EMOTE118_CMD1": {
+   "en": "/listen",
+   "fr": "/écouter",
+   "jeton": "LISTEN"
+  },
+  "EMOTE119_CMD1": {
+   "en": "/lost",
+   "fr": "/perdu",
+   "jeton": "LOST"
+  },
+  "EMOTE11_CMD2": {
+   "en": "/blink",
+   "fr": "/cligner",
+   "jeton": "BLINK"
+  },
+  "EMOTE120_CMD1": {
+   "en": "/mock",
+   "fr": "/moquer",
+   "jeton": "MOCK"
+  },
+  "EMOTE121_CMD1": {
+   "en": "/ponder",
+   "fr": "/penser",
+   "jeton": "PONDER"
+  },
+  "EMOTE122_CMD1": {
+   "en": "/pounce",
+   "fr": "/bondir",
+   "jeton": "POUNCE"
+  },
+  "EMOTE123_CMD1": {
+   "en": "/praise",
+   "fr": "/louer",
+   "jeton": "PRAISE"
+  },
+  "EMOTE123_CMD2": {
+   "en": "/lavish",
+   "fr": "/louange",
+   "jeton": "PRAISE"
+  },
+  "EMOTE124_CMD1": {
+   "en": "/purr",
+   "fr": "/ronron",
+   "jeton": "PURR"
+  },
+  "EMOTE125_CMD2": {
+   "en": "/puzzled",
+   "fr": "/perplexe",
+   "jeton": "PUZZLE"
+  },
+  "EMOTE126_CMD1": {
+   "en": "/raise",
+   "fr": "/ohé",
+   "jeton": "RAISE"
+  },
+  "EMOTE126_CMD2": {
+   "en": "/volunteer",
+   "fr": "/volontaire",
+   "jeton": "RAISE"
+  },
+  "EMOTE127_CMD1": {
+   "en": "/ready",
+   "fr": "/prêt",
+   "jeton": "READY"
+  },
+  "EMOTE127_CMD2": {
+   "en": "/rdy",
+   "fr": "/prt",
+   "jeton": "READY"
+  },
+  "EMOTE128_CMD1": {
+   "en": "/shimmy",
+   "fr": "/trémousse",
+   "jeton": "SHIMMY"
+  },
+  "EMOTE129_CMD1": {
+   "en": "/shiver",
+   "fr": "/frisson",
+   "jeton": "SHIVER"
+  },
+  "EMOTE12_CMD1": {
+   "en": "/blush",
+   "fr": "/rougir",
+   "jeton": "BLUSH"
+  },
+  "EMOTE130_CMD1": {
+   "en": "/shoo",
+   "fr": "/mouches",
+   "jeton": "SHOO"
+  },
+  "EMOTE130_CMD2": {
+   "en": "/pest",
+   "fr": "/ouste",
+   "jeton": "SHOO"
+  },
+  "EMOTE131_CMD1": {
+   "en": "/slap",
+   "fr": "/gifle",
+   "jeton": "SLAP"
+  },
+  "EMOTE132_CMD1": {
+   "en": "/smirk",
+   "fr": "/narquois",
+   "jeton": "SMIRK"
+  },
+  "EMOTE133_CMD1": {
+   "en": "/sniff",
+   "fr": "/flaire",
+   "jeton": "SNIFF"
+  },
+  "EMOTE134_CMD1": {
+   "en": "/snub",
+   "fr": "/snobe",
+   "jeton": "SNUB"
+  },
+  "EMOTE135_CMD1": {
+   "en": "/soothe",
+   "fr": "/apaise",
+   "jeton": "SOOTHE"
+  },
+  "EMOTE136_CMD1": {
+   "en": "/stink",
+   "fr": "/pue",
+   "jeton": "STINK"
+  },
+  "EMOTE136_CMD2": {
+   "en": "/smell",
+   "fr": "/renifle",
+   "jeton": "STINK"
+  },
+  "EMOTE137_CMD1": {
+   "en": "/taunt",
+   "fr": "/provoc",
+   "jeton": "TAUNT"
+  },
+  "EMOTE138_CMD1": {
+   "en": "/tease",
+   "fr": "/persifler",
+   "jeton": "TEASE"
+  },
+  "EMOTE139_CMD1": {
+   "en": "/thirsty",
+   "fr": "/soif",
+   "jeton": "THIRSTY"
+  },
+  "EMOTE13_CMD1": {
+   "en": "/bonk",
+   "fr": "/taptête",
+   "jeton": "BONK"
+  },
+  "EMOTE13_CMD2": {
+   "en": "/doh",
+   "fr": "/oups",
+   "jeton": "BONK"
+  },
+  "EMOTE141_CMD1": {
+   "en": "/snicker",
+   "fr": "/ricaner",
+   "jeton": "SNICKER"
+  },
+  "EMOTE142_CMD1": {
+   "en": "/tickle",
+   "fr": "/chatouiller",
+   "jeton": "TICKLE"
+  },
+  "EMOTE143_CMD1": {
+   "en": "/stand",
+   "fr": "/debout",
+   "jeton": "STAND"
+  },
+  "EMOTE144_CMD1": {
+   "en": "/violin",
+   "fr": "/violon",
+   "jeton": "VIOLIN"
+  },
+  "EMOTE145_CMD1": {
+   "en": "/smile",
+   "fr": "/sourire",
+   "jeton": "SMILE"
+  },
+  "EMOTE146_CMD1": {
+   "en": "/rasp",
+   "fr": "/bras",
+   "jeton": "RASP"
+  },
+  "EMOTE147_CMD1": {
+   "en": "/growl",
+   "fr": "/grogner",
+   "jeton": "GROWL"
+  },
+  "EMOTE148_CMD1": {
+   "en": "/bark",
+   "fr": "/aboyer",
+   "jeton": "BARK"
+  },
+  "EMOTE149_CMD1": {
+   "en": "/pity",
+   "fr": "/plaindre",
+   "jeton": "PITY"
+  },
+  "EMOTE14_CMD1": {
+   "en": "/bored",
+   "fr": "/ennui",
+   "jeton": "BORED"
+  },
+  "EMOTE150_CMD1": {
+   "en": "/scared",
+   "fr": "/apeuré",
+   "jeton": "SCARED"
+  },
+  "EMOTE151_CMD1": {
+   "en": "/flop",
+   "fr": "/effondre",
+   "jeton": "FLOP"
+  },
+  "EMOTE152_CMD1": {
+   "en": "/love",
+   "fr": "/amour",
+   "jeton": "LOVE"
+  },
+  "EMOTE153_CMD1": {
+   "en": "/moo",
+   "fr": "/meuh",
+   "jeton": "MOO"
+  },
+  "EMOTE154_CMD1": {
+   "en": "/commend",
+   "fr": "/féliciter",
+   "jeton": "COMMEND"
+  },
+  "EMOTE155_CMD1": {
+   "en": "/train",
+   "fr": "/tchou",
+   "jeton": "TRAIN"
+  },
+  "EMOTE156_CMD1": {
+   "en": "/helpme",
+   "fr": "/aidemoi",
+   "jeton": "HELPME"
+  },
+  "EMOTE157_CMD1": {
+   "en": "/incoming",
+   "fr": "/arrive",
+   "jeton": "INCOMING"
+  },
+  "EMOTE158_CMD1": {
+   "en": "/openfire",
+   "fr": "/feu",
+   "jeton": "OPENFIRE"
+  },
+  "EMOTE159_CMD2": {
+   "en": "/charge",
+   "fr": "/charger",
+   "jeton": "CHARGE"
+  },
+  "EMOTE15_CMD1": {
+   "en": "/bounce",
+   "fr": "/sautiller",
+   "jeton": "BOUNCE"
+  },
+  "EMOTE160_CMD1": {
+   "en": "/flee",
+   "fr": "/fuite",
+   "jeton": "FLEE"
+  },
+  "EMOTE161_CMD1": {
+   "en": "/attacktarget",
+   "fr": "/attaquecible",
+   "jeton": ""
+  },
+  "EMOTE162_CMD1": {
+   "en": "/oom",
+   "fr": "/pdm",
+   "jeton": "OOM"
+  },
+  "EMOTE163_CMD1": {
+   "en": "/followme",
+   "fr": "/mesuivre",
+   "jeton": ""
+  },
+  "EMOTE164_CMD1": {
+   "en": "/wait",
+   "fr": "/attendre",
+   "jeton": "WAIT"
+  },
+  "EMOTE165_CMD1": {
+   "en": "/flirt",
+   "fr": "/flirter",
+   "jeton": "FLIRT"
+  },
+  "EMOTE166_CMD1": {
+   "en": "/healme",
+   "fr": "/soin",
+   "jeton": "HEALME"
+  },
+  "EMOTE167_CMD1": {
+   "en": "/silly",
+   "fr": "/idiot",
+   "jeton": ""
+  },
+  "EMOTE168_CMD1": {
+   "en": "/wink",
+   "fr": "/clin",
+   "jeton": "WINK"
+  },
+  "EMOTE169_CMD1": {
+   "en": "/pat",
+   "fr": "/tapedos",
+   "jeton": "PAT"
+  },
+  "EMOTE16_CMD1": {
+   "en": "/brb",
+   "fr": "/rds",
+   "jeton": "BRB"
+  },
+  "EMOTE170_CMD1": {
+   "en": "/golfclap",
+   "fr": "/appdis",
+   "jeton": "GOLFCLAP"
+  },
+  "EMOTE171_CMD2": {
+   "en": "/mountspecial",
+   "fr": "/monturespéciale",
+   "jeton": "MOUNTSPECIAL"
+  },
+  "EMOTE17_CMD1": {
+   "en": "/bow",
+   "fr": "/incliner",
+   "jeton": "BOW"
+  },
+  "EMOTE18_CMD2": {
+   "en": "/belch",
+   "fr": "/roter",
+   "jeton": "BURP"
+  },
+  "EMOTE19_CMD2": {
+   "en": "/goodbye",
+   "fr": "/aurevoir",
+   "jeton": "BYE"
+  },
+  "EMOTE19_CMD3": {
+   "en": "/farewell",
+   "fr": "/adieu",
+   "jeton": "BYE"
+  },
+  "EMOTE1_CMD1": {
+   "en": "/agree",
+   "fr": "/ok",
+   "jeton": ""
+  },
+  "EMOTE20_CMD1": {
+   "en": "/cackle",
+   "fr": "/glousser",
+   "jeton": "CACKLE"
+  },
+  "EMOTE21_CMD1": {
+   "en": "/cheer",
+   "fr": "/acclame",
+   "jeton": "CHEER"
+  },
+  "EMOTE21_CMD4": {
+   "en": "/woot",
+   "fr": "/youhou",
+   "jeton": "CHEER"
+  },
+  "EMOTE22_CMD1": {
+   "en": "/chicken",
+   "fr": "/poulet",
+   "jeton": "CHICKEN"
+  },
+  "EMOTE22_CMD3": {
+   "en": "/strut",
+   "fr": "/pavane",
+   "jeton": "CHICKEN"
+  },
+  "EMOTE22_CMD5": {
+   "en": "/flap",
+   "fr": "/ailes",
+   "jeton": "CHICKEN"
+  },
+  "EMOTE23_CMD1": {
+   "en": "/chuckle",
+   "fr": "/esclaffer",
+   "jeton": "CHUCKLE"
+  },
+  "EMOTE25_CMD1": {
+   "en": "/confused",
+   "fr": "/confus",
+   "jeton": "CONFUSED"
+  },
+  "EMOTE26_CMD1": {
+   "en": "/congratulate",
+   "fr": "/congratuler",
+   "jeton": "CONGRATULATE"
+  },
+  "EMOTE26_CMD2": {
+   "en": "/congrats",
+   "fr": "/félicitations",
+   "jeton": "CONGRATULATE"
+  },
+  "EMOTE26_CMD3": {
+   "en": "/cong",
+   "fr": "/féli",
+   "jeton": "CONGRATULATE"
+  },
+  "EMOTE28_CMD2": {
+   "en": "/cough",
+   "fr": "/tousse",
+   "jeton": "COUGH"
+  },
+  "EMOTE29_CMD1": {
+   "en": "/cower",
+   "fr": "/recroqueviller",
+   "jeton": "COWER"
+  },
+  "EMOTE29_CMD2": {
+   "en": "/fear",
+   "fr": "/trouille",
+   "jeton": "COWER"
+  },
+  "EMOTE2_CMD1": {
+   "en": "/amaze",
+   "fr": "/stupeur",
+   "jeton": "AMAZE"
+  },
+  "EMOTE304_CMD3": {
+   "en": "/incoming",
+   "fr": "/approche",
+   "jeton": "INCOMING"
+  },
+  "EMOTE306_CMD2": {
+   "en": "/retreat",
+   "fr": "/retraite",
+   "jeton": "FLEE"
+  },
+  "EMOTE306_CMD3": {
+   "en": "/flee",
+   "fr": "/fuite",
+   "jeton": "FLEE"
+  },
+  "EMOTE30_CMD1": {
+   "en": "/crack",
+   "fr": "/craquer",
+   "jeton": "CRACK"
+  },
+  "EMOTE30_CMD2": {
+   "en": "/knuckles",
+   "fr": "/phalanges",
+   "jeton": "CRACK"
+  },
+  "EMOTE31_CMD1": {
+   "en": "/cringe",
+   "fr": "/recule",
+   "jeton": "CRINGE"
+  },
+  "EMOTE32_CMD1": {
+   "en": "/cry",
+   "fr": "/pleurer",
+   "jeton": "CRY"
+  },
+  "EMOTE32_CMD2": {
+   "en": "/sob",
+   "fr": "/sanglote",
+   "jeton": "CRY"
+  },
+  "EMOTE32_CMD3": {
+   "en": "/weep",
+   "fr": "/pleurer",
+   "jeton": "CRY"
+  },
+  "EMOTE33_CMD1": {
+   "en": "/curious",
+   "fr": "/curieux",
+   "jeton": "CURIOUS"
+  },
+  "EMOTE34_CMD1": {
+   "en": "/curtsey",
+   "fr": "/courbette",
+   "jeton": "CURTSEY"
+  },
+  "EMOTE35_CMD1": {
+   "en": "/dance",
+   "fr": "/danser",
+   "jeton": "DANCE"
+  },
+  "EMOTE368_CMD2": {
+   "en": "/blame",
+   "fr": "/faute",
+   "jeton": "BLAME"
+  },
+  "EMOTE369_CMD2": {
+   "en": "/blank",
+   "fr": "/inexpressif",
+   "jeton": "BLANK"
+  },
+  "EMOTE36_CMD1": {
+   "en": "/drink",
+   "fr": "/boire",
+   "jeton": "DRINK"
+  },
+  "EMOTE36_CMD2": {
+   "en": "/shindig",
+   "fr": "/santé",
+   "jeton": "DRINK"
+  },
+  "EMOTE370_CMD2": {
+   "en": "/brandish",
+   "fr": "/brandir",
+   "jeton": "BRANDISH"
+  },
+  "EMOTE371_CMD2": {
+   "en": "/breath",
+   "fr": "/souffle",
+   "jeton": "BREATH"
+  },
+  "EMOTE372_CMD2": {
+   "en": "/disagree",
+   "fr": "/désaccord",
+   "jeton": "DISAGREE"
+  },
+  "EMOTE373_CMD2": {
+   "en": "/doubt",
+   "fr": "/douter",
+   "jeton": "DOUBT"
+  },
+  "EMOTE374_CMD2": {
+   "en": "/embarrass",
+   "fr": "/gêner",
+   "jeton": "EMBARRASS"
+  },
+  "EMOTE375_CMD2": {
+   "en": "/encourage",
+   "fr": "/encourager",
+   "jeton": "ENCOURAGE"
+  },
+  "EMOTE376_CMD2": {
+   "en": "/enemy",
+   "fr": "/ennemi",
+   "jeton": "ENEMY"
+  },
+  "EMOTE377_CMD2": {
+   "en": "/eyebrow",
+   "fr": "/haussersourcil",
+   "jeton": "EYEBROW"
+  },
+  "EMOTE377_CMD4": {
+   "en": "/brow",
+   "fr": "/front",
+   "jeton": "EYEBROW"
+  },
+  "EMOTE37_CMD1": {
+   "en": "/drool",
+   "fr": "/baver",
+   "jeton": "DROOL"
+  },
+  "EMOTE380_CMD2": {
+   "en": "/highfive",
+   "fr": "/tapermain",
+   "jeton": "HIGHFIVE"
+  },
+  "EMOTE381_CMD2": {
+   "en": "/absent",
+   "fr": "/distrait",
+   "jeton": "ABSENT"
+  },
+  "EMOTE382_CMD1": {
+   "en": "/arm",
+   "fr": "/armer",
+   "jeton": "ARM"
+  },
+  "EMOTE383_CMD2": {
+   "en": "/awe",
+   "fr": "/admiration",
+   "jeton": "AWE"
+  },
+  "EMOTE384_CMD2": {
+   "en": "/backpack",
+   "fr": "/sacàdos",
+   "jeton": "BACKPACK"
+  },
+  "EMOTE384_CMD4": {
+   "en": "/pack",
+   "fr": "/sac",
+   "jeton": "BACKPACK"
+  },
+  "EMOTE385_CMD2": {
+   "en": "/badfeeling",
+   "fr": "/pressentiment",
+   "jeton": "BADFEELING"
+  },
+  "EMOTE385_CMD4": {
+   "en": "/bad",
+   "fr": "/mauvais",
+   "jeton": "BADFEELING"
+  },
+  "EMOTE386_CMD2": {
+   "en": "/challenge",
+   "fr": "/défier",
+   "jeton": "CHALLENGE"
+  },
+  "EMOTE387_CMD2": {
+   "en": "/chug",
+   "fr": "/teufteuf",
+   "jeton": "CHUG"
+  },
+  "EMOTE38_CMD1": {
+   "en": "/eat",
+   "fr": "/manger",
+   "jeton": "EAT"
+  },
+  "EMOTE38_CMD2": {
+   "en": "/chew",
+   "fr": "/mâche",
+   "jeton": "EAT"
+  },
+  "EMOTE38_CMD3": {
+   "en": "/feast",
+   "fr": "/festin",
+   "jeton": "EAT"
+  },
+  "EMOTE390_CMD2": {
+   "en": "/facepalm",
+   "fr": "/consternant",
+   "jeton": "FACEPALM"
+  },
+  "EMOTE390_CMD4": {
+   "en": "/palm",
+   "fr": "/paume",
+   "jeton": "FACEPALM"
+  },
+  "EMOTE391_CMD2": {
+   "en": "/faint",
+   "fr": "/défaillir",
+   "jeton": "FAINT"
+  },
+  "EMOTE392_CMD2": {
+   "en": "/go",
+   "fr": "/aller",
+   "jeton": "GO"
+  },
+  "EMOTE393_CMD2": {
+   "en": "/going",
+   "fr": "/va",
+   "jeton": "GOING"
+  },
+  "EMOTE394_CMD2": {
+   "en": "/glower",
+   "fr": "/regardnoir",
+   "jeton": "GLOWER"
+  },
+  "EMOTE395_CMD2": {
+   "en": "/headache",
+   "fr": "/tête",
+   "jeton": "HEADACHE"
+  },
+  "EMOTE396_CMD2": {
+   "en": "/hiccup",
+   "fr": "/hoquet",
+   "jeton": "HICCUP"
+  },
+  "EMOTE398_CMD2": {
+   "en": "/hiss",
+   "fr": "/siffler",
+   "jeton": "HISS"
+  },
+  "EMOTE399_CMD2": {
+   "en": "/holdhand",
+   "fr": "/tenirmain",
+   "jeton": "HOLDHAND"
+  },
+  "EMOTE39_CMD1": {
+   "en": "/eye",
+   "fr": "/oeil",
+   "jeton": "EYE"
+  },
+  "EMOTE3_CMD2": {
+   "en": "/mad",
+   "fr": "/furieux",
+   "jeton": "ANGRY"
+  },
+  "EMOTE401_CMD2": {
+   "en": "/hurry",
+   "fr": "/sedépécher",
+   "jeton": "HURRY"
+  },
+  "EMOTE402_CMD2": {
+   "en": "/idea",
+   "fr": "/idée",
+   "jeton": "IDEA"
+  },
+  "EMOTE403_CMD2": {
+   "en": "/jealous",
+   "fr": "/jalouser",
+   "jeton": "JEALOUS"
+  },
+  "EMOTE404_CMD2": {
+   "en": "/luck",
+   "fr": "/chance",
+   "jeton": "LUCK"
+  },
+  "EMOTE405_CMD2": {
+   "en": "/map",
+   "fr": "/carte",
+   "jeton": "MAP"
+  },
+  "EMOTE406_CMD2": {
+   "en": "/mercy",
+   "fr": "/clémence",
+   "jeton": "MERCY"
+  },
+  "EMOTE407_CMD2": {
+   "en": "/mutter",
+   "fr": "/marmonner",
+   "jeton": "MUTTER"
+  },
+  "EMOTE408_CMD2": {
+   "en": "/nervous",
+   "fr": "/nervosité",
+   "jeton": "NERVOUS"
+  },
+  "EMOTE409_CMD2": {
+   "en": "/offer",
+   "fr": "/offrir",
+   "jeton": "OFFER"
+  },
+  "EMOTE40_CMD1": {
+   "en": "/fart",
+   "fr": "/péter",
+   "jeton": "FART"
+  },
+  "EMOTE410_CMD2": {
+   "en": "/pet",
+   "fr": "/cajoler",
+   "jeton": "PET"
+  },
+  "EMOTE411_CMD2": {
+   "en": "/pinch",
+   "fr": "/pincer",
+   "jeton": "PINCH"
+  },
+  "EMOTE413_CMD2": {
+   "en": "/proud",
+   "fr": "/fierté",
+   "jeton": "PROUD"
+  },
+  "EMOTE414_CMD2": {
+   "en": "/promise",
+   "fr": "/promesse",
+   "jeton": "PROMISE"
+  },
+  "EMOTE415_CMD2": {
+   "en": "/pulse",
+   "fr": "/pouls",
+   "jeton": "PULSE"
+  },
+  "EMOTE416_CMD2": {
+   "en": "/punch",
+   "fr": "/coupdepoing",
+   "jeton": "PUNCH"
+  },
+  "EMOTE417_CMD2": {
+   "en": "/pout",
+   "fr": "/moue",
+   "jeton": "POUT"
+  },
+  "EMOTE41_CMD1": {
+   "en": "/fidget",
+   "fr": "/remue",
+   "jeton": "FIDGET"
+  },
+  "EMOTE420_CMD2": {
+   "en": "/revenge",
+   "fr": "/revanche",
+   "jeton": "REVENGE"
+  },
+  "EMOTE421_CMD2": {
+   "en": "/rolleyes",
+   "fr": "/roulementyeux",
+   "jeton": "ROLLEYES"
+  },
+  "EMOTE421_CMD4": {
+   "en": "/eyeroll",
+   "fr": "/rouleryeux",
+   "jeton": "ROLLEYES"
+  },
+  "EMOTE422_CMD2": {
+   "en": "/ruffle",
+   "fr": "/décoiffer",
+   "jeton": "RUFFLE"
+  },
+  "EMOTE423_CMD2": {
+   "en": "/sad",
+   "fr": "/triste",
+   "jeton": "SAD"
+  },
+  "EMOTE424_CMD2": {
+   "en": "/scoff",
+   "fr": "/ricane",
+   "jeton": "SCOFF"
+  },
+  "EMOTE425_CMD2": {
+   "en": "/scold",
+   "fr": "/gronde",
+   "jeton": "SCOLD"
+  },
+  "EMOTE426_CMD2": {
+   "en": "/scowl",
+   "fr": "/grimace",
+   "jeton": "SCOWL"
+  },
+  "EMOTE427_CMD2": {
+   "en": "/search",
+   "fr": "/fouille",
+   "jeton": "SEARCH"
+  },
+  "EMOTE428_CMD2": {
+   "en": "/shakefist",
+   "fr": "/agiterpoing",
+   "jeton": "SHAKEFIST"
+  },
+  "EMOTE428_CMD4": {
+   "en": "/fist",
+   "fr": "/poing",
+   "jeton": "SHAKEFIST"
+  },
+  "EMOTE429_CMD2": {
+   "en": "/shifty",
+   "fr": "/louche",
+   "jeton": "SHIFTY"
+  },
+  "EMOTE42_CMD1": {
+   "en": "/flex",
+   "fr": "/frime",
+   "jeton": "FLEX"
+  },
+  "EMOTE42_CMD2": {
+   "en": "/strong",
+   "fr": "/fort",
+   "jeton": "FLEX"
+  },
+  "EMOTE430_CMD2": {
+   "en": "/shudder",
+   "fr": "/frissonner",
+   "jeton": "SHUDDER"
+  },
+  "EMOTE432_CMD2": {
+   "en": "/silence",
+   "fr": "/silencieux",
+   "jeton": "SILENCE"
+  },
+  "EMOTE432_CMD4": {
+   "en": "/shush",
+   "fr": "/chut",
+   "jeton": "SILENCE"
+  },
+  "EMOTE433_CMD2": {
+   "en": "/sing",
+   "fr": "/chanter",
+   "jeton": "SING"
+  },
+  "EMOTE434_CMD2": {
+   "en": "/smack",
+   "fr": "/claque",
+   "jeton": "SMACK"
+  },
+  "EMOTE435_CMD2": {
+   "en": "/sneak",
+   "fr": "/furtif",
+   "jeton": "SNEAK"
+  },
+  "EMOTE436_CMD2": {
+   "en": "/sneeze",
+   "fr": "/éternuer",
+   "jeton": "SNEEZE"
+  },
+  "EMOTE437_CMD2": {
+   "en": "/snort",
+   "fr": "/renifler",
+   "jeton": "SNORT"
+  },
+  "EMOTE438_CMD2": {
+   "en": "/squeal",
+   "fr": "/couiner",
+   "jeton": "SQUEAL"
+  },
+  "EMOTE43_CMD1": {
+   "en": "/frown",
+   "fr": "/froncer",
+   "jeton": "FROWN"
+  },
+  "EMOTE43_CMD3": {
+   "en": "/disappointment",
+   "fr": "/déçu",
+   "jeton": "FROWN"
+  },
+  "EMOTE43_CMD5": {
+   "en": "/disappointed",
+   "fr": "/désappointé",
+   "jeton": "FROWN"
+  },
+  "EMOTE440_CMD2": {
+   "en": "/suspicious",
+   "fr": "/méfiance",
+   "jeton": "SUSPICIOUS"
+  },
+  "EMOTE441_CMD2": {
+   "en": "/think",
+   "fr": "/réfléchir",
+   "jeton": "THINK"
+  },
+  "EMOTE442_CMD2": {
+   "en": "/truce",
+   "fr": "/trêve",
+   "jeton": "TRUCE"
+  },
+  "EMOTE443_CMD2": {
+   "en": "/twiddle",
+   "fr": "/pouce",
+   "jeton": "TWIDDLE"
+  },
+  "EMOTE444_CMD2": {
+   "en": "/warn",
+   "fr": "/avertir",
+   "jeton": "WARN"
+  },
+  "EMOTE445_CMD2": {
+   "en": "/snap",
+   "fr": "/claquer",
+   "jeton": "SNAP"
+  },
+  "EMOTE446_CMD2": {
+   "en": "/charm",
+   "fr": "/charmer",
+   "jeton": "CHARM"
+  },
+  "EMOTE447_CMD2": {
+   "en": "/coverears",
+   "fr": "/oreilles",
+   "jeton": "COVEREARS"
+  },
+  "EMOTE448_CMD2": {
+   "en": "/crossarms",
+   "fr": "/croiserbras",
+   "jeton": "CROSSARMS"
+  },
+  "EMOTE449_CMD2": {
+   "en": "/look",
+   "fr": "/observer",
+   "jeton": "LOOK"
+  },
+  "EMOTE44_CMD3": {
+   "en": "/gasp",
+   "fr": "/béer",
+   "jeton": "GASP"
+  },
+  "EMOTE450_CMD2": {
+   "en": "/object",
+   "fr": "/objecter",
+   "jeton": "OBJECT"
+  },
+  "EMOTE450_CMD6": {
+   "en": "/holdit",
+   "fr": "/retenir",
+   "jeton": "OBJECT"
+  },
+  "EMOTE451_CMD2": {
+   "en": "/sweat",
+   "fr": "/sueur",
+   "jeton": "SWEAT"
+  },
+  "EMOTE452_CMD2": {
+   "en": "/yw",
+   "fr": "/derien",
+   "jeton": "YW"
+  },
+  "EMOTE45_CMD1": {
+   "en": "/gaze",
+   "fr": "/regarder",
+   "jeton": "GAZE"
+  },
+  "EMOTE46_CMD2": {
+   "en": "/giggle",
+   "fr": "/pouffer",
+   "jeton": "GIGGLE"
+  },
+  "EMOTE47_CMD1": {
+   "en": "/glare",
+   "fr": "/regard",
+   "jeton": "GLARE"
+  },
+  "EMOTE48_CMD1": {
+   "en": "/gloat",
+   "fr": "/niark",
+   "jeton": "GLOAT"
+  },
+  "EMOTE49_CMD1": {
+   "en": "/greet",
+   "fr": "/saluer",
+   "jeton": "GREET"
+  },
+  "EMOTE49_CMD2": {
+   "en": "/greetings",
+   "fr": "/salutations",
+   "jeton": "GREET"
+  },
+  "EMOTE4_CMD1": {
+   "en": "/apologize",
+   "fr": "/excuse",
+   "jeton": "APOLOGIZE"
+  },
+  "EMOTE4_CMD2": {
+   "en": "/sorry",
+   "fr": "/désolé",
+   "jeton": "APOLOGIZE"
+  },
+  "EMOTE50_CMD1": {
+   "en": "/grin",
+   "fr": "/rictus",
+   "jeton": "GRIN"
+  },
+  "EMOTE50_CMD3": {
+   "en": "/wickedly",
+   "fr": "/cruellement",
+   "jeton": "GRIN"
+  },
+  "EMOTE50_CMD5": {
+   "en": "/wicked",
+   "fr": "/vicieux",
+   "jeton": "GRIN"
+  },
+  "EMOTE51_CMD1": {
+   "en": "/groan",
+   "fr": "/grogne",
+   "jeton": "GROAN"
+  },
+  "EMOTE52_CMD1": {
+   "en": "/grovel",
+   "fr": "/ramper",
+   "jeton": "GROVEL"
+  },
+  "EMOTE52_CMD2": {
+   "en": "/peon",
+   "fr": "/péon",
+   "jeton": "GROVEL"
+  },
+  "EMOTE53_CMD1": {
+   "en": "/guffaw",
+   "fr": "/marrade",
+   "jeton": "GUFFAW"
+  },
+  "EMOTE54_CMD1": {
+   "en": "/hail",
+   "fr": "/bonjour",
+   "jeton": "HAIL"
+  },
+  "EMOTE55_CMD1": {
+   "en": "/happy",
+   "fr": "/content",
+   "jeton": "HAPPY"
+  },
+  "EMOTE55_CMD2": {
+   "en": "/glad",
+   "fr": "/ravi",
+   "jeton": "HAPPY"
+  },
+  "EMOTE55_CMD3": {
+   "en": "/yay",
+   "fr": "/super",
+   "jeton": "HAPPY"
+  },
+  "EMOTE56_CMD2": {
+   "en": "/hi",
+   "fr": "/hé",
+   "jeton": "HELLO"
+  },
+  "EMOTE57_CMD1": {
+   "en": "/hug",
+   "fr": "/serrer",
+   "jeton": "HUG"
+  },
+  "EMOTE58_CMD2": {
+   "en": "/food",
+   "fr": "/bouffe",
+   "jeton": "HUNGRY"
+  },
+  "EMOTE58_CMD3": {
+   "en": "/hungry",
+   "fr": "/faim",
+   "jeton": "HUNGRY"
+  },
+  "EMOTE59_CMD1": {
+   "en": "/kiss",
+   "fr": "/embrasser",
+   "jeton": "KISS"
+  },
+  "EMOTE59_CMD2": {
+   "en": "/blow",
+   "fr": "/bisou",
+   "jeton": "KISS"
+  },
+  "EMOTE5_CMD1": {
+   "en": "/applaud",
+   "fr": "/applaudir",
+   "jeton": "APPLAUD"
+  },
+  "EMOTE5_CMD3": {
+   "en": "/applause",
+   "fr": "/applaudir",
+   "jeton": "APPLAUD"
+  },
+  "EMOTE60_CMD1": {
+   "en": "/kneel",
+   "fr": "/genou",
+   "jeton": "KNEEL"
+  },
+  "EMOTE61_CMD1": {
+   "en": "/laugh",
+   "fr": "/rire",
+   "jeton": "LAUGH"
+  },
+  "EMOTE61_CMD2": {
+   "en": "/lol",
+   "fr": "/mdr",
+   "jeton": "LAUGH"
+  },
+  "EMOTE62_CMD1": {
+   "en": "/laydown",
+   "fr": "/secoucher",
+   "jeton": "LAYDOWN"
+  },
+  "EMOTE62_CMD2": {
+   "en": "/liedown",
+   "fr": "/sallonger",
+   "jeton": "LAYDOWN"
+  },
+  "EMOTE62_CMD3": {
+   "en": "/lay",
+   "fr": "/coucher",
+   "jeton": "LAYDOWN"
+  },
+  "EMOTE62_CMD4": {
+   "en": "/lie",
+   "fr": "/allonger",
+   "jeton": "LAYDOWN"
+  },
+  "EMOTE64_CMD1": {
+   "en": "/moan",
+   "fr": "/gémir",
+   "jeton": "MOAN"
+  },
+  "EMOTE65_CMD1": {
+   "en": "/moon",
+   "fr": "/fesse",
+   "jeton": "MOON"
+  },
+  "EMOTE66_CMD1": {
+   "en": "/mourn",
+   "fr": "/lamente",
+   "jeton": "MOURN"
+  },
+  "EMOTE67_CMD1": {
+   "en": "/no",
+   "fr": "/non",
+   "jeton": "NO"
+  },
+  "EMOTE68_CMD1": {
+   "en": "/nod",
+   "fr": "/hoche",
+   "jeton": "NOD"
+  },
+  "EMOTE68_CMD4": {
+   "en": "/yes",
+   "fr": "/oui",
+   "jeton": "NOD"
+  },
+  "EMOTE69_CMD1": {
+   "en": "/nosepick",
+   "fr": "/curenez",
+   "jeton": "NOSEPICK"
+  },
+  "EMOTE69_CMD2": {
+   "en": "/pick",
+   "fr": "/nez",
+   "jeton": "NOSEPICK"
+  },
+  "EMOTE6_CMD1": {
+   "en": "/bashful",
+   "fr": "/modeste",
+   "jeton": "BASHFUL"
+  },
+  "EMOTE70_CMD1": {
+   "en": "/panic",
+   "fr": "/panique",
+   "jeton": "PANIC"
+  },
+  "EMOTE71_CMD2": {
+   "en": "/peer",
+   "fr": "/examiner",
+   "jeton": "PEER"
+  },
+  "EMOTE72_CMD1": {
+   "en": "/plead",
+   "fr": "/implorer",
+   "jeton": "PLEAD"
+  },
+  "EMOTE73_CMD1": {
+   "en": "/point",
+   "fr": "/montrer",
+   "jeton": "POINT"
+  },
+  "EMOTE74_CMD1": {
+   "en": "/poke",
+   "fr": "/pousser",
+   "jeton": "POKE"
+  },
+  "EMOTE75_CMD1": {
+   "en": "/pray",
+   "fr": "/prier",
+   "jeton": "PRAY"
+  },
+  "EMOTE76_CMD1": {
+   "en": "/roar",
+   "fr": "/rugir",
+   "jeton": "ROAR"
+  },
+  "EMOTE76_CMD4": {
+   "en": "/rawr",
+   "fr": "/graou",
+   "jeton": "ROAR"
+  },
+  "EMOTE77_CMD1": {
+   "en": "/rofl",
+   "fr": "/ptdr",
+   "jeton": "ROFL"
+  },
+  "EMOTE78_CMD1": {
+   "en": "/rude",
+   "fr": "/impoli",
+   "jeton": "RUDE"
+  },
+  "EMOTE79_CMD1": {
+   "en": "/salute",
+   "fr": "/salut",
+   "jeton": "SALUTE"
+  },
+  "EMOTE7_CMD2": {
+   "en": "/beckon",
+   "fr": "/signe",
+   "jeton": "BECKON"
+  },
+  "EMOTE80_CMD2": {
+   "en": "/cat",
+   "fr": "/griffe",
+   "jeton": "SCRATCH"
+  },
+  "EMOTE80_CMD3": {
+   "en": "/catty",
+   "fr": "/gratter",
+   "jeton": "SCRATCH"
+  },
+  "EMOTE80_CMD4": {
+   "en": "/scratch",
+   "fr": "/gratte",
+   "jeton": "SCRATCH"
+  },
+  "EMOTE82_CMD1": {
+   "en": "/shake",
+   "fr": "/agite",
+   "jeton": "SHAKE"
+  },
+  "EMOTE82_CMD2": {
+   "en": "/rear",
+   "fr": "/tortille",
+   "jeton": "SHAKE"
+  },
+  "EMOTE83_CMD3": {
+   "en": "/holler",
+   "fr": "/beugler",
+   "jeton": "SHOUT"
+  },
+  "EMOTE84_CMD1": {
+   "en": "/shrug",
+   "fr": "/bof",
+   "jeton": "SHRUG"
+  },
+  "EMOTE85_CMD1": {
+   "en": "/shy",
+   "fr": "/timide",
+   "jeton": "SHY"
+  },
+  "EMOTE86_CMD1": {
+   "en": "/sigh",
+   "fr": "/soupir",
+   "jeton": "SIGH"
+  },
+  "EMOTE87_CMD1": {
+   "en": "/sit",
+   "fr": "/assis",
+   "jeton": "SIT"
+  },
+  "EMOTE88_CMD1": {
+   "en": "/sleep",
+   "fr": "/dormir",
+   "jeton": "SLEEP"
+  },
+  "EMOTE89_CMD1": {
+   "en": "/snarl",
+   "fr": "/gronder",
+   "jeton": "SNARL"
+  },
+  "EMOTE8_CMD1": {
+   "en": "/beg",
+   "fr": "/mendier",
+   "jeton": "BEG"
+  },
+  "EMOTE90_CMD1": {
+   "en": "/spit",
+   "fr": "/crache",
+   "jeton": "SPIT"
+  },
+  "EMOTE91_CMD1": {
+   "en": "/stare",
+   "fr": "/fixer",
+   "jeton": "STARE"
+  },
+  "EMOTE92_CMD1": {
+   "en": "/surprised",
+   "fr": "/surpris",
+   "jeton": "SURPRISED"
+  },
+  "EMOTE93_CMD1": {
+   "en": "/surrender",
+   "fr": "/rends",
+   "jeton": "SURRENDER"
+  },
+  "EMOTE94_CMD1": {
+   "en": "/talk",
+   "fr": "/parler",
+   "jeton": "TALK"
+  },
+  "EMOTE95_CMD2": {
+   "en": "/excited",
+   "fr": "/excité",
+   "jeton": "TALKEX"
+  },
+  "EMOTE95_CMD3": {
+   "en": "/talkex",
+   "fr": "/direx",
+   "jeton": "TALKEX"
+  },
+  "EMOTE96_CMD1": {
+   "en": "/talkq",
+   "fr": "/direq",
+   "jeton": "TALKQ"
+  },
+  "EMOTE97_CMD1": {
+   "en": "/tap",
+   "fr": "/pied",
+   "jeton": "TAP"
+  },
+  "EMOTE98_CMD1": {
+   "en": "/thank",
+   "fr": "/merci",
+   "jeton": "THANK"
+  },
+  "EMOTE98_CMD2": {
+   "en": "/thanks",
+   "fr": "/remercier",
+   "jeton": "THANK"
+  },
+  "EMOTE98_CMD3": {
+   "en": "/ty",
+   "fr": "/mb",
+   "jeton": "THANK"
+  },
+  "EMOTE99_CMD2": {
+   "en": "/doom",
+   "fr": "/semonce",
+   "jeton": "THREATEN"
+  },
+  "EMOTE99_CMD3": {
+   "en": "/threat",
+   "fr": "/menace",
+   "jeton": "THREATEN"
+  },
+  "EMOTE99_CMD4": {
+   "en": "/wrath",
+   "fr": "/courroux",
+   "jeton": "THREATEN"
+  },
+  "EMOTE99_CMD5": {
+   "en": "/threaten",
+   "fr": "/menacer",
+   "jeton": "THREATEN"
+  },
+  "EMOTE9_CMD1": {
+   "en": "/bite",
+   "fr": "/mordre",
+   "jeton": "BITE"
+  }
+ },
+ "tchat": {
+  "%s OBJECTS!": "%s OBJECTE !",
+  "%s agrees with you.": "%s est bien d’accord avec vous.",
+  "%s agrees.": "%s est bien d’accord.",
+  "%s apologizes to %s.  Sorry!": "%s présente ses excuses à %s. Toutes mes confuses !",
+  "%s apologizes to everyone.  Sorry!": "%s présente ses excuses à tout le monde. Toutes mes confuses !",
+  "%s apologizes to you.  Sorry!": "%s vous présente ses excuses. Toutes mes confuses !",
+  "%s applauds at %s.  Bravo!": "%s applaudit %s. Bravo !",
+  "%s applauds at you.  Bravo!": "%s vous applaudit. Bravo !",
+  "%s applauds.  Bravo!": "%s applaudit. Bravo !",
+  "%s asks %s to wait.": "%s demande à %s d'attendre.",
+  "%s asks you to wait.": "%s vous demande d'attendre.",
+  "%s attempts to make %s an offer they can't refuse.": "%s essaye de faire une offre impossible à refuser à %s.",
+  "%s attempts to make you an offer you can't refuse.": "%s essaie de vous faire une offre impossible à refuser.",
+  "%s bares her teeth and snarls at %s.": "%s montre les dents et regarde %s en grognant.",
+  "%s bares her teeth and snarls at you.": "%s montre les dents et vous regarde en grognant.",
+  "%s bares her teeth and snarls.": "%s montre les dents et grogne.",
+  "%s bares his teeth and snarls at %s.": "%s montre les dents et regarde %s en grognant.",
+  "%s bares his teeth and snarls at you.": "%s montre les dents et vous regarde en grognant.",
+  "%s bares his teeth and snarls.": "%s montre les dents et grogne.",
+  "%s barks at %s.": "%s aboie sur %s.",
+  "%s barks at you.": "%s aboie dans votre direction.",
+  "%s barks. Woof woof!": "%s aboie. Wouf wouf !",
+  "%s basks in the glory of victory with %s.": "%s savoure cette glorieuse victoire avec %s.",
+  "%s basks in the glory of victory with you.": "%s savoure cette glorieuse victoire avec vous.",
+  "%s basks in the glory of victory.": "%s savoure cette glorieuse victoire.",
+  "%s beckons %s over.": "%s fait signe d’approcher à %s.",
+  "%s beckons everyone over.": "%s fait signe à tout le monde d’approcher.",
+  "%s beckons you over.": "%s vous fait signe d’approcher.",
+  "%s begins to eat in front of %s.": "%s commence à manger devant %s.",
+  "%s begins to eat rations in front of you.": "%s commence à manger devant vous.",
+  "%s begins to eat.": "%s commence à manger.",
+  "%s begins to groan.": "%s émet des grognements.",
+  "%s begins to play the world's smallest violin.": "%s commence à s’apitoyer.",
+  "%s begins to work.": "%s commence à travailler.",
+  "%s begs %s.  How pathetic.": "%s supplie %s. C'est pitoyable.",
+  "%s begs everyone around her.  How pathetic.": "%s supplie tous les gens qui l'entourent. C'est pitoyable.",
+  "%s begs everyone around him.  How pathetic.": "%s supplie tous les gens qui l'entourent. C'est pitoyable.",
+  "%s begs you.  How pathetic.": "%s vous supplie. C'est pitoyable.",
+  "%s bites %s.  Ouch!": "%s mord %s. Aïeuh !",
+  "%s bites you.  Ouch!": "%s vous mord. Aïeuh !",
+  "%s blames %s for everything.": "%s dit que c'est tout de la faute |2 %s.",
+  "%s blames herself for what happened.": "%s dit que tout est de sa faute.",
+  "%s blames himself for what happened.": "%s dit que tout est de sa faute.",
+  "%s blames you for everything.": "%s dit que c'est tout de votre faute.",
+  "%s blinks at %s.": "%s fait un clin d’œil à %s.",
+  "%s blinks at you.": "%s vous fait un clin d’œil.",
+  "%s blinks.": "%s fait un clin d’œil.",
+  "%s blows %s a kiss.": "%s envoie un baiser à %s.",
+  "%s blows a kiss into the wind.": "%s envoie un baiser dans le vent.",
+  "%s blows you a kiss.": "%s vous envoie un baiser.",
+  "%s blushes at %s.": "%s regarde %s en rougissant.",
+  "%s blushes at you.": "%s vous regarde en rougissant.",
+  "%s blushes.": "%s rougit.",
+  "%s boggles at %s.": "%s regarde %s avec stupéfaction.",
+  "%s boggles at the situation.": "%s est stupéfié par la situation.",
+  "%s boggles at you.": "%s vous regarde avec stupéfaction.",
+  "%s bonks %s on the noggin.  Doh!": "%s frappe %s sur le museau. Ouille !",
+  "%s bonks her own noggin.  Doh!": "%s se donne un coup sur le museau. Ouille !",
+  "%s bonks his own noggin.  Doh!": "%s se donne un coup sur le museau. Ouille !",
+  "%s bonks you on the noggin.  Doh!": "%s vous frappe sur le museau. Ouille !",
+  "%s bounces up and down in front of %s.": "%s sautille devant %s.",
+  "%s bounces up and down in front of you.": "%s se met à sautiller devant vous.",
+  "%s bounces up and down.": "%s sautille sans arrêt.",
+  "%s bows before %s.": "%s s’incline devant %s.",
+  "%s bows before you.": "%s s’incline devant vous.",
+  "%s bows down graciously.": "%s s’incline avec grâce.",
+  "%s brandishes her weapon fiercely at %s.": "%s brandit son arme en regardant %s d'un air féroce.",
+  "%s brandishes her weapon fiercely at you.": "%s brandit son arme en vous regardant d'un air féroce.",
+  "%s brandishes her weapon fiercely.": "%s brandit son arme d'un air féroce.",
+  "%s brandishes his weapon fiercely at %s.": "%s brandit son arme en regardant %s d'un air féroce.",
+  "%s brandishes his weapon fiercely at you.": "%s brandit son arme en vous regardant d'un air féroce.",
+  "%s brandishes his weapon fiercely.": "%s brandit son arme d'un air féroce.",
+  "%s brushes up against %s and farts loudly.": "%s se frotte contre %s et laisse échapper un pet sonore.",
+  "%s brushes up against you and farts loudly.": "%s se frotte contre vous et laisse échapper un pet sonore.",
+  "%s burps rudely in %s's face.": "%s rote grossièrement au nez |2 %s.",
+  "%s burps rudely in your face.": "%s vous rote grossièrement au nez.",
+  "%s bursts into dance.": "%s se met à danser.",
+  "%s bursts into song.": "%s se met à chanter.",
+  "%s cackles maniacally at %s.": "%s glousse hystériquement en regardant %s.",
+  "%s cackles maniacally at the situation.": "La situation inspire à %s un gloussement hystérique.",
+  "%s cackles maniacally at you.": "%s glousse hystériquement en vous regardant.",
+  "%s calls out for healing!": "%s demande des soins.",
+  "%s challenges %s to a duel.": "%s défie %s en duel.",
+  "%s challenges you to a duel.": "%s vous propose un duel.",
+  "%s checks %s for a pulse. Oh no!": "%s cherche le pouls |2 %s. Oh non !",
+  "%s checks her own pulse.": "%s cherche son propre pouls.",
+  "%s checks his own pulse.": "%s cherche son propre pouls.",
+  "%s checks you for a pulse.": "%s cherche votre pouls.",
+  "%s cheers at %s!": "%s acclame %s !",
+  "%s cheers at you.": "%s vous acclame.",
+  "%s cheers!": "%s lance des acclamations !",
+  "%s chuckles at %s.": "%s s'esclaffe en regardant %s.",
+  "%s chuckles at you.": "%s s'eclaffe en vous regardant.",
+  "%s claps excitedly for %s.": "%s applaudit chaleureusement %s.",
+  "%s claps excitedly for you.": "%s vous applaudit chaleureusement.",
+  "%s claps excitedly.": "%s applaudit chaleureusement.",
+  "%s claps for %s, clearly unimpressed.": "%s applaudit %s, sans paraître enthousiaste.",
+  "%s claps for you, clearly unimpressed.": "%s vous applaudit, sans paraître enthousiaste.",
+  "%s claps half-heartedly, clearly unimpressed.": "%s applaudit poliment, sans paraître enthousiaste.",
+  "%s clearly states, NO.": "%s le dit clairement : NON.",
+  "%s comforts %s.": "%s console %s.",
+  "%s comforts you.": "%s vous console.",
+  "%s commends %s on a job well done.": "%s félicite %s pour un travail bien fait.",
+  "%s commends everyone on a job well done.": "%s félicite tout le monde pour un travail bien fait.",
+  "%s commends you on a job well done.": "%s vous félicite pour du bon travail.",
+  "%s congratulates %s on a new level. DING!": "%s félicite %s pour son niveau supplémentaire. DING !",
+  "%s congratulates %s.": "%s congratule %s.",
+  "%s congratulates everyone.": "%s congratule tout le monde.",
+  "%s congratulates you on a new level. DING!": "%s vous félicite pour votre niveau supplémentaire. DING !",
+  "%s congratulates you.": "%s vous congratule.",
+  "%s coughs at %s.": "%s regarde %s en toussant.",
+  "%s coughs at you.": "%s vous regarde en toussant.",
+  "%s covers %s's ears.": "%s bouche les oreilles |2 %s.",
+  "%s covers her ears.": "%s se bouche les oreilles.",
+  "%s covers her face with her palm.": "%s se passe la main sur la figure.",
+  "%s covers his ears.": "%s se bouche les oreilles.",
+  "%s covers his face with his palm.": "%s passe sa main sur sa figure.",
+  "%s covers your ears.": "%s se bouche les oreilles.",
+  "%s cowers in fear at the sight of %s.": "%s se recroqueville de peur en voyant %s.",
+  "%s cowers in fear at the sight of you.": "%s se recroqueville de peur en vous voyant.",
+  "%s cowers in fear.": "%s se recroqueville de peur.",
+  "%s cracks her knuckles while staring at %s.": "%s se fait craquer les doigts en regardant fixement %s.",
+  "%s cracks her knuckles while staring at you.": "%s se fait craquer les doigts en vous regardant fixement.",
+  "%s cracks her knuckles.": "%s se fait craquer les doigts.",
+  "%s cracks his knuckles while staring at %s.": "%s se fait craquer les doigts en regardant fixement %s.",
+  "%s cracks his knuckles while staring at you.": "%s se fait craquer les doigts en vous regardant fixement.",
+  "%s cracks his knuckles.": "%s se fait craquer les doigts.",
+  "%s cries on %s's shoulder.": "%s pleure sur l’épaule |2 %s.",
+  "%s cries on your shoulder.": "%s pleure sur votre épaule.",
+  "%s cries out for help!": "%s appelle à l'aide !",
+  "%s cries.": "%s pleure.",
+  "%s cringes away from %s.": "%s a un mouvement de recul devant %s.",
+  "%s cringes away from you.": "%s a un mouvement de recul devant vous.",
+  "%s cringes in fear.": "%s a un mouvement de recul effrayé.",
+  "%s crosses her arms at %s. Hmph!": "%s croise les bras face à %s. Humpf !",
+  "%s crosses her arms at you. Hmph!": "%s croise les bras face à vous. Humpf !",
+  "%s crosses her arms.": "%s croise les bras.",
+  "%s crosses his arms at %s. Hmph!": "%s croise les bras face à %s. Humpf !",
+  "%s crosses his arms at you. Hmph!": "%s croise les bras face à vous. Humpf !",
+  "%s crosses his arms.": "%s croise les bras.",
+  "%s cuddles up against %s.": "%s se pelotonne contre %s.",
+  "%s cuddles up against you.": "%s se pelotonne contre vous.",
+  "%s curtsies before %s.": "%s fait la révérence à %s.",
+  "%s curtsies before you.": "%s vous fait la révérence.",
+  "%s curtsies.": "%s fait une révérence.",
+  "%s dances with %s.": "%s danse avec %s.",
+  "%s dances with you.": "%s danse avec vous.",
+  "%s digs through her backpack": "%s cherche dans son sac à dos.",
+  "%s digs through his backpack.": "%s cherche dans son sac à dos.",
+  "%s disagrees with %s.": "%s n'est pas d'accord avec %s.",
+  "%s disagrees with you.": "%s n'est pas d'accord avec vous.",
+  "%s disagrees.": "%s n'est pas d'accord.",
+  "%s doubts %s.": "%s doute des paroles de %s.",
+  "%s doubts the situation will end in her favor.": "%s doute sérieusement que la situation prenne un tour favorable.",
+  "%s doubts the situation will end in his favor.": "%s doute sérieusement que la situation prenne un tour favorable pour lui.",
+  "%s doubts you.": "%s doute de vos paroles.",
+  "%s drops her trousers and moons %s.": "%s baisse son pantalon et montre ses fesses à %s.",
+  "%s drops her trousers and moons everyone.": "%s baisse son pantalon et montre ses fesses à tout le monde.",
+  "%s drops her trousers and moons you.": "%s baisse son pantalon et vous montre ses fesses.",
+  "%s drops his trousers and moons %s.": "%s baisse son pantalon et montre ses fesses à %s.",
+  "%s drops his trousers and moons everyone.": "%s baisse son pantalon et montre ses fesses à tout le monde.",
+  "%s drops his trousers and moons you.": "%s baisse son pantalon et vous montre ses fesses.",
+  "%s drops to her knees and plead in desperation.": "%s se met à genoux et implore désespérément.",
+  "%s drops to his knees and pleads in desperation.": "%s se met à genoux et implore désespérément.",
+  "%s ducks behind %s.": "%s se cache derrière %s.",
+  "%s ducks behind you.": "%s se cache derrière vous.",
+  "%s ducks for cover.": "%s se cache.",
+  "%s encourages %s to chug. CHUG! CHUG! CHUG!": "%s encourage %s à faire teuf-teuf. TEUF-TEUF !",
+  "%s encourages %s.": "%s encourage %s.",
+  "%s encourages everyone around her. You can do it!": "%s encourage tous ceux qui l'entourent ! Vous allez y arriver !",
+  "%s encourages everyone around him. You can do it!": "%s encourage tous ceux qui l'entourent ! Vous allez y arriver !",
+  "%s encourages you to chug. CHUG! CHUG! CHUG!": "%s vous encourage à faire teuf-teuf. TEUF-TEUF !",
+  "%s encourages you. You can do it!": "%s vous encourage. Tu vas y arriver !",
+  "%s expresses her curiosity to everyone.": "%s fait part de sa curiosité à tout le monde.",
+  "%s expresses his curiosity to everyone.": "%s fait part de sa curiosité à tout le monde.",
+  "%s eyes %s up and down.": "%s regarde %s de haut en bas.",
+  "%s eyes you up and down.": "%s vous regarde de haut en bas.",
+  "%s faints at the sight of %s.": "%s défaille à la vue |2 %s.",
+  "%s faints at the sight of you.": "%s défaille à votre vue.",
+  "%s faints.": "%s défaille.",
+  "%s falls asleep. Zzzzzzz.": "%s s’endort. Zzzzzzz.",
+  "%s farts loudly.  Whew...what stinks?": "%s laisse échapper un pet sonore.  Pouah… C’est quoi cette odeur ?",
+  "%s feels the love.": "%s sait qu’on l’aime.",
+  "%s fidgets impatiently while waiting for %s.": "%s remue impatiemment en attendant %s.",
+  "%s fidgets impatiently while waiting for you.": "%s remue impatiemment en vous attendant.",
+  "%s fidgets.": "%s remue impatiemment.",
+  "%s flexes at %s.  Oooooh so strong!": "%s bande ses muscles devant %s. Ouaaah, balèze !",
+  "%s flexes at you.  Oooooh so strong!": "%s bande ses muscles devant vous... Ouaaah, balèze !",
+  "%s flexes her muscles.  Oooooh so strong!": "%s bande ses muscles. Ouaaah, balèze !",
+  "%s flexes his muscles.  Oooooh so strong!": "%s bande ses muscles. Ouaaah, balèze !",
+  "%s flirts with %s.": "%s flirte avec %s.",
+  "%s flirts with you.": "%s flirte avec vous.",
+  "%s flirts.": "%s flirte.",
+  "%s flops about helplessly around %s.": "%s s’effondre désespérément à côté |2 %s.",
+  "%s flops about helplessly around you.": "%s s’effondre désespérément à côté de vous.",
+  "%s flops about helplessly.": "%s s’effondre désespérément.",
+  "%s flushes with embarrassment.": "%s rougit de honte.",
+  "%s frowns with disappointment at %s.": "%s regarde %s en fronçant les sourcils.",
+  "%s frowns with disappointment at you.": "%s vous regarde en fronçant les sourcils.",
+  "%s frowns.": "%s fronce les sourcils.",
+  "%s gasps at %s.": "%s regarde %s en suffoquant.",
+  "%s gasps at you.": "%s vous regarde en suffoquant.",
+  "%s gasps.": "%s suffoque.",
+  "%s gazes longingly at %s.": "%s regarde %s avec avidité.",
+  "%s gazes longingly at you.": "%s vous regarde avec avidité.",
+  "%s gazes off into the distance.": "%s regarde dans le vide.",
+  "%s gently pats %s.": "%s donne une tape dans le dos |2 %s.",
+  "%s gently pats you.": "%s vous donne une tape dans le dos.",
+  "%s giggles at %s.": "%s pouffe de rire en regardant %s.",
+  "%s giggles at you.": "%s pouffe de rire en vous regardant.",
+  "%s giggles.": "%s pouffe de rire.",
+  "%s gives %s a high five!": "%s en tape cinq avec %s !",
+  "%s gives %s a shifty look.": "%s jette un regard louche à %s.",
+  "%s gives %s the signal.": "%s donne le signal à %s.",
+  "%s gives the signal.": "%s donne le signal.",
+  "%s gives you a high five!": "%s vous en tape cinq !",
+  "%s gives you a shifty look.": "%s vous jette un regard louche.",
+  "%s gives you the signal.": "%s vous donne le signal.",
+  "%s glares angrily at %s.": "%s fusille %s du regard.",
+  "%s glares angrily at you.": "%s vous fusille du regard.",
+  "%s glares angrily.": "%s lance des regards furieux.",
+  "%s gloats over %s's misfortune.": "%s jubile de la malchance |2 %s. Niark niark.",
+  "%s gloats over everyone's misfortune.": "La malchance des autres fait jubiler %s. Niark niark.",
+  "%s gloats over your misfortune.": "%s jubile de votre malchance. Niark niark.",
+  "%s glowers at %s.": "%s lance un regard noir à %s.",
+  "%s glowers at everyone around her.": "%s lance un regard noir à tous ceux qui l'entourent.",
+  "%s glowers at everyone around him.": "%s lance un regard noir à tous ceux qui l'entourent.",
+  "%s glowers at you.": "%s vous lance un regard noir.",
+  "%s greets %s warmly.": "%s salue chaleureusement %s.",
+  "%s greets %s with a hearty hello!": "%s lance à %s un bonjour enthousiaste !",
+  "%s greets everyone warmly.": "%s salue tout le monde chaleureusement.",
+  "%s greets everyone with a hearty hello!": "%s lance un bonjour enthousiaste à la cantonade !",
+  "%s greets you warmly.": "%s vous salue chaleureusement.",
+  "%s greets you with a hearty hello!": "%s vous lance un bonjour enthousiaste !",
+  "%s grins at you wickedly.": "%s vous adresse un rictus vicieux.",
+  "%s grins wickedly at %s.": "%s adresse un rictus vicieux à %s.",
+  "%s grins wickedly.": "%s a un rictus vicieux.",
+  "%s grovels before %s like a subservient peon.": "%s rampe devant %s comme un péon servile.",
+  "%s grovels before you like a subservient peon.": "%s rampe devant vous comme un péon servile.",
+  "%s grovels on the ground, wallowing in subservience.": "%s rampe par terre et se complaît dans la servilité.",
+  "%s growls menacingly at %s.": "%s grogne d’un air menaçant en direction |2 %s.",
+  "%s growls menacingly at you.": "%s grogne d’un air menaçant dans votre direction.",
+  "%s growls menacingly.": "%s grogne d’un air menaçant.",
+  "%s hails %s.": "%s salue %s.",
+  "%s hails everyone around her.": "%s salue tous ceux qui l'entourent.",
+  "%s hails everyone around him.": "%s salue tous ceux qui l'entourent.",
+  "%s hails you.": "%s vous salue.",
+  "%s hangs her head dejectedly.": "%s baisse la tête avec découragement.",
+  "%s hangs his head dejectedly.": "%s baisse la tête avec découragement.",
+  "%s has a bad feeling about %s.": "%s a un mauvais pressentiment concernant %s.",
+  "%s has a bad feeling about this...": "%s a un mauvais pressentiment…",
+  "%s has a bad feeling about you.": "%s a un mauvais pressentiment vous concernant.",
+  "%s has an idea!": "%s a une idée !",
+  "%s has failed.": "%s a échoué.",
+  "%s hiccups loudly.": "%s hoquette très fort.",
+  "%s hisses at %s.": "%s siffle %s.",
+  "%s hisses at everyone around her.": "%s siffle tout le monde autour d'elle.",
+  "%s hisses at everyone around him.": "%s siffle tout le monde autour de lui.",
+  "%s hisses at you.": "%s vous siffle.",
+  "%s holds %s's hand.": "%s tient la main de %s.",
+  "%s holds your hand.": "%s vous tient la main.",
+  "%s hugs %s.": "%s serre %s dans ses bras. Gros câlin !",
+  "%s hugs you.": "%s vous serre dans ses bras. Gros câlin !",
+  "%s introduces herself to %s.": "%s se présente à %s.",
+  "%s introduces herself to everyone.": "%s se présente à tout le monde.",
+  "%s introduces herself to you.": "%s se présente à vous.",
+  "%s introduces himself to %s.": "%s se présente à %s.",
+  "%s introduces himself to everyone.": "%s se présente à tout le monde.",
+  "%s introduces himself to you.": "%s se présente à vous.",
+  "%s is amazed by %s!": "%s est stupéfait par %s !",
+  "%s is amazed by you!": "Vous stupéfiez %s !",
+  "%s is amazed!": "%s trouve ça stupéfiant !",
+  "%s is bashful.": "%s est vraiment timide.",
+  "%s is curious what %s is up to.": "%s exprime sa curiosité sur les intentions de %s.",
+  "%s is curious what you are up to.": "%s exprime sa curiosité sur vos intentions.",
+  "%s is embarrassed by %s.": "%s a honte |2 %s.",
+  "%s is embarrassed by you.": "%s a honte de vous.",
+  "%s is filled with happiness!": "%s est enchanté !",
+  "%s is filled with regret.": "%s ressent du regret.",
+  "%s is getting a headache from %s's antics.": "Les singeries |2 %s donnent mal à la tête à %s.",
+  "%s is getting a headache from your antics.": "Vos singeries donnent mal à la tête à %s.",
+  "%s is getting a headache.": "%s commence à avoir mal à la tête.",
+  "%s is hopelessly confused.": "%s nage en pleine confusion.",
+  "%s is hopelessly lost.": "%s est vraiment perdu.",
+  "%s is hungry!": "%s a grand-faim !",
+  "%s is hungry.  Maybe %s has some food...": "%s a faim. %s a peut-être quelque chose à manger…",
+  "%s is hungry.  Maybe you have some food...": "%s a faim. Vous avez peut-être quelque chose à manger…",
+  "%s is jealous of %s.": "%s jalouse %s.",
+  "%s is jealous of everyone around her.": "%s jalouse tous ceux qui l'entourent.",
+  "%s is jealous of everyone around him.": "%s jalouse tous ceux qui l'entourent.",
+  "%s is jealous of you.": "%s vous jalouse.",
+  "%s is listening!": "%s écoute !",
+  "%s is lost in thought.": "%s est dans ses pensées.",
+  "%s is low on mana.": "%s n'a plus guère de mana.",
+  "%s is overcome with boredom.  Oh the drudgery!": "%s s’ennuie à mourir. Quel calvaire !",
+  "%s is proud of %s.": "%s éprouve de la fierté envers %s.",
+  "%s is proud of herself.": "%s est fière d'elle.",
+  "%s is proud of himself.": "%s est fier de lui.",
+  "%s is proud of you.": "Vous faites la fierté |2 %s.",
+  "%s is puzzled by %s.": "%s est intrigué par %s.",
+  "%s is puzzled. What's going on here?": "%s est intrigué. Qu’est-ce qui se passe ici ?",
+  "%s is scared of %s.": "%s a peur |2 %s.",
+  "%s is scared of you.": "%s a peur de vous.",
+  "%s is scared!": "%s est apeuré !",
+  "%s is so bashful...too bashful to get %s's attention.": "%s est bien trop timide pour attirer l’attention |2 %s.",
+  "%s is so bashful...too bashful to get your attention.": "%s est bien trop timide pour attirer votre attention.",
+  "%s is so surprised!": "%s est vraiment surpris !",
+  "%s is so thirsty. Can anyone spare a drink?": "%s a tellement soif ! Est-ce que quelqu’un a à boire ?",
+  "%s is such a tease.": "%s fait dans la provocation.",
+  "%s is surprised by %s's actions.": "%s est surpris par les agissements |2 %s.",
+  "%s is surprised by your actions.": "Vos actes surprennent %s.",
+  "%s is suspicious of %s.": "%s se méfie de %s.",
+  "%s is suspicious of you.": "%s se méfie de vous.",
+  "%s is sweating.": "%s est en sueur.",
+  "%s is terribly bored with %s.": "%s trouve %s d'un ennui mortel.",
+  "%s is terribly bored with you.": "%s vous trouve d'un ennui mortel.",
+  "%s is too sexy for her tunic...so sexy it hurts.": "%s est vraiment trop sexy… sexy à mourir.",
+  "%s is too sexy for his tunic...so sexy it hurts.": "%s est vraiment trop sexy… sexy à mourir.",
+  "%s is very happy with %s!": "%s est très content |2 %s !",
+  "%s is very happy with you!": "%s est très content de vous.",
+  "%s kneels before %s.": "%s se met à genoux devant %s.",
+  "%s kneels before you.": "%s se met à genoux devant vous.",
+  "%s kneels down.": "%s se met à genoux.",
+  "%s laughs at %s.": "%s se moque |2 %s.",
+  "%s laughs at you.": "%s se moque de vous.",
+  "%s laughs.": "%s rit.",
+  "%s lavishes praise upon %s.": "%s fait l’éloge |2 %s.",
+  "%s lavishes praise upon you.": "%s fait votre éloge.",
+  "%s lets %s know he is thirsty. Spare a drink?": "%s dit à %s qu’il a soif. Quelque chose à boire ?",
+  "%s lets %s know she is thirsty. Spare a drink?": "%s dit à %s qu’elle a soif. Quelque chose à boire ?",
+  "%s lets %s know that he is cold.": "%s dit à %s qu’il a froid.",
+  "%s lets %s know that he is ready!": "%s dit à %s qu’il est prêt !",
+  "%s lets %s know that he is tired.": "%s dit à %s qu’il est fatigué.",
+  "%s lets %s know that he was just kidding!": "%s dit à %s qu’il plaisantait.",
+  "%s lets %s know that she is cold.": "%s dit à %s qu’elle a froid.",
+  "%s lets %s know that she is ready!": "%s dit à %s qu’elle est prête !",
+  "%s lets %s know that she is tired.": "%s dit à %s qu’elle est fatiguée.",
+  "%s lets %s know that she was just kidding!": "%s dit à %s qu’elle plaisantait !",
+  "%s lets everyone know that he is cold.": "%s dit à tout le monde qu’il a froid.",
+  "%s lets everyone know that he is ready!": "%s dit à tout le monde qu’il est prêt !",
+  "%s lets everyone know that he is tired.": "%s dit à tout le monde qu’il est fatigué.",
+  "%s lets everyone know that she is cold.": "%s dit à tout le monde qu’elle a froid.",
+  "%s lets everyone know that she is ready!": "%s dit à tout le monde qu’elle est prête !",
+  "%s lets everyone know that she is tired.": "%s dit à tout le monde qu’elle est fatiguée.",
+  "%s lets forth a sharp whistle.": "%s siffle bruyamment.",
+  "%s lets out a boisterous guffaw!": "%s se poile ouvertement !",
+  "%s lets out a hacking cough.": "%s laisse échapper une quinte de toux.",
+  "%s lets out a hearty chuckle.": "%s s'esclaffe bruyamment.",
+  "%s lets out a long, drawn-out sigh.": "%s laisse échapper un soupir interminable.",
+  "%s lets out a loud belch.": "%s rote bruyamment.",
+  "%s lets you know he is thirsty. Spare a drink?": "%s vous dit qu’il a soif. Vous avez à boire ?",
+  "%s lets you know she is thirsty. Spare a drink?": "%s vous dit qu’elle a soif. Vous avez à boire ?",
+  "%s lets you know that he is cold.": "%s vous dit qu’il a froid.",
+  "%s lets you know that he is ready!": "%s vous dit qu’il est prêt !",
+  "%s lets you know that he is tired.": "%s vous dit qu’il est fatigué.",
+  "%s lets you know that he was just kidding!": "%s vous dit qu’il plaisantait.",
+  "%s lets you know that she is cold.": "%s vous dit qu’elle a froid.",
+  "%s lets you know that she is ready!": "%s vous dit qu’elle est prête !",
+  "%s lets you know that she is tired.": "%s vous dit qu’elle est fatiguée.",
+  "%s lets you know that she was just kidding!": "%s vous dit qu’elle plaisantait.",
+  "%s licks %s.": "%s donne un coup de langue à %s.",
+  "%s licks her lips.": "%s se pourlèche les babines.",
+  "%s licks his lips.": "%s se pourlèche les babines.",
+  "%s licks you.": "%s vous donne un coup de langue.",
+  "%s lies down before %s.": "%s se couche devant %s.",
+  "%s lies down before you.": "%s se couche devant vous.",
+  "%s lies down.": "%s se couche.",
+  "%s listens intently to %s.": "%s écoute attentivement %s.",
+  "%s listens intently to you.": "%s vous écoute attentivement.",
+  "%s looks absent-minded.": "%s a l'air distrait.",
+  "%s looks around for someone to bite.": "%s cherche quelqu'un à mordre.",
+  "%s looks around in awe.": "%s regarde autour de lui avec admiration.",
+  "%s looks around nervously.": "%s regarde partout nerveusement.",
+  "%s looks around.": "%s observe les alentours.",
+  "%s looks at %s absently.": "%s regarde %s d'un air distrait.",
+  "%s looks at %s and begins to drool.": "%s regarde %s en bavant.",
+  "%s looks at %s and covers her face with her palm.": "%s regarde %s et se met la main sur le visage.",
+  "%s looks at %s and covers his face with his palm.": "%s regarde %s et passe sa main sur sa figure.",
+  "%s looks at %s and groans.": "%s grogne à la vue |2 %s.",
+  "%s looks at %s and raises her hand in the air.": "%s regarde %s en levant la main.",
+  "%s looks at %s and raises his hand in the air.": "%s regarde %s et lève la main.",
+  "%s looks at %s nervously.": "%s regarde %s nerveusement.",
+  "%s looks at %s with a confused look.": "%s regarde %s d'un air confus.",
+  "%s looks at %s.": "%s regarde %s.",
+  "%s looks at you absently.": "%s vous regarde d'un air distrait.",
+  "%s looks at you and begins to drool.": "%s vous regarde en bavant.",
+  "%s looks at you and covers her face with her palm.": "%s vous regarde et se passe la main sur la figure.",
+  "%s looks at you and covers his face with his palm.": "%s vous regarde et se passe la main sur la figure.",
+  "%s looks at you and groans.": "%s grogne en vous voyant.",
+  "%s looks at you and raises her hand.": "%s vous regarde en levant la main.",
+  "%s looks at you and raises his hand.": "%s vous regarde en levant la main.",
+  "%s looks at you nervously.": "%s vous regarde avec nervosité.",
+  "%s looks at you with a confused look.": "%s vous regarde d'un air confus.",
+  "%s looks at you with crossed eyes.": "%s vous regarde en louchant.",
+  "%s looks at you.": "%s vous regarde.",
+  "%s looks down upon %s with pity.": "%s regarde %s avec pitié.",
+  "%s looks down upon you with pity.": "%s vous regarde de haut avec pitié.",
+  "%s loves %s.": "%s aime %s.",
+  "%s loves you.": "%s vous aime.",
+  "%s makes %s a promise.": "%s fait une promesse à %s.",
+  "%s makes a rude gesture at %s.": "%s fait un geste grossier à %s.",
+  "%s makes a rude gesture at you.": "%s vous fait un geste grossier.",
+  "%s makes a rude gesture.": "%s fait un geste grossier.",
+  "%s makes a taunting gesture at %s. Bring it!": "%s nargue %s. Il faut être à la hauteur !",
+  "%s makes a taunting gesture at you. Bring it!": "%s vous nargue. Il faut être à la hauteur !",
+  "%s makes you a promise.": "%s vous fait une promesse.",
+  "%s massages %s's shoulders.": "%s masse les épaules |2 %s.",
+  "%s massages your shoulders.": "%s vous masse les épaules.",
+  "%s moans suggestively at %s.": "%s regarde %s en gémissant de façon suggestive.",
+  "%s moans suggestively at you.": "%s vous regarde en gémissant de façon suggestive.",
+  "%s moans suggestively.": "%s gémit de façon suggestive.",
+  "%s mocks life and all it stands for.": "%s se moque de la vie et de ce qu’elle représente.",
+  "%s mocks the foolishness of %s.": "%s se moque de la stupidité |2 %s.",
+  "%s mocks your foolishness.": "%s se moque de votre stupidité.",
+  "%s moos at %s. Mooooooooooo.": "%s mugit en direction |2 %s. Meuuuuuuuuuh.",
+  "%s moos at you. Mooooooooooo.": "%s mugit en votre direction. Meuuuuuuuuuh.",
+  "%s moos. Mooooooooooo.": "%s fait meuh. Meeuuuuuh.",
+  "%s motions for %s to follow.": "%s fait signe à %s de suivre.",
+  "%s motions for you to follow.": "%s vous fait signe de suivre.",
+  "%s must be going.": "%s doit s'en aller.",
+  "%s mutters angrily at %s. Hmmmph!": "%s marmonne avec colère à %s. Humpf !",
+  "%s mutters angrily at you. Hmmmph!": "%s marmonne avec colère contre vous. Humpf !",
+  "%s mutters angrily to herself. Hmmmph!": "%s marmonne avec colère contre elle-même. Humpf !",
+  "%s mutters angrily to himself. Hmmmph!": "%s marmonne avec colère contre lui-même. Humpf !",
+  "%s narrows her eyes in suspicion.": "%s plisse les yeux de méfiance.",
+  "%s narrows his eyes in suspicion.": "%s plisse les yeux avec méfiance.",
+  "%s needs a hug!": "%s a bien besoin d'un gros câlin !",
+  "%s needs a massage!": "%s veut un massage !",
+  "%s needs a pat.": "%s a besoin qu'on lui tape dans le dos.",
+  "%s needs comforting.": "%s a besoin d’être consolé.",
+  "%s needs cuddling.": "%s veut un câlin.",
+  "%s needs to be petted.": "%s veut des cajoleries.",
+  "%s needs to be soothed.": "%s a besoin d’être rassuré.",
+  "%s nods at %s.": "%s fait un signe de la tête affirmatif à %s.",
+  "%s nods at you.": "%s vous fait un signe de tête affirmatif.",
+  "%s nods.": "%s acquiesce.",
+  "%s objects to %s.": "%s objecte à %s.",
+  "%s objects to you.": "%s objecte contre vous.",
+  "%s offers %s a truce.": "%s propose une trêve à %s.",
+  "%s offers a truce.": "%s propose une trêve.",
+  "%s offers you a truce.": "%s vous propose une trêve.",
+  "%s orders you to open fire.": "%s vous ordonne d'ouvrir le feu.",
+  "%s passes the time with a finger deep in one nostril.": "%s a toujours un doigt fourré dans le nez.",
+  "%s peers around, searchingly.": "%s examine les alentours d’un air inquisiteur.",
+  "%s peers at %s searchingly.": "%s examine %s d’un air inquisiteur.",
+  "%s peers at you searchingly.": "%s vous examine d’un air inquisiteur.",
+  "%s pets %s.": "%s cajole %s.",
+  "%s pets you.": "%s vous cajole.",
+  "%s picks her nose and shows it to %s.": "%s se cure le nez et fait voir à %s.",
+  "%s picks her nose and shows it to you.": "%s se cure le nez et vous fait voir.",
+  "%s picks his nose and shows it to %s.": "%s se cure le nez et fait voir à %s.",
+  "%s picks his nose and shows it to you.": "%s se cure le nez et vous fait voir.",
+  "%s pinches %s.": "%s pince %s.",
+  "%s pinches herself.": "%s se pince.",
+  "%s pinches himself.": "%s se pince.",
+  "%s pinches you.": "%s vous pince.",
+  "%s pities those around her.": "%s a pitié de ceux qui l’entourent.",
+  "%s pities those around him.": "%s a pitié de ceux qui l’entourent.",
+  "%s plays the world's smallest violin for %s.": "%s s’apitoie sur %s.",
+  "%s plays the world's smallest violin for you.": "%s s’apitoie sur vous.",
+  "%s pleads for mercy.": "%s implore la clémence.",
+  "%s pleads with %s for mercy.": "%s implore la clémence |2 %s.",
+  "%s pleads with %s.": "%s implore %s.",
+  "%s pleads with you for mercy.": "%s vous demande d'avoir pitié.",
+  "%s pleads with you.": "%s vous implore.",
+  "%s points at %s.": "%s montre %s du doigt.",
+  "%s points at you.": "%s vous pointe du doigt.",
+  "%s points out the incoming enemy, %s!": "%s indique qu'un ennemi approche : %s !",
+  "%s points over yonder.": "%s désigne un endroit éloigné.",
+  "%s points you out as an incoming enemy!": "%s indique qu'un ennemi approche : vous !",
+  "%s pokes %s.  Hey!": "%s donne une tape à %s. Hé !",
+  "%s pokes her belly and giggles.": "%s se tape le ventre et rigole.",
+  "%s pokes his belly and giggles.": "%s se tape le ventre et rigole.",
+  "%s pokes you.  Hey!": "%s vous donne une tape.  Hé !",
+  "%s ponders %s's actions.": "%s réfléchit aux actes |2 %s.",
+  "%s ponders the situation.": "%s réfléchit à la situation.",
+  "%s ponders your actions.": "%s réfléchit à vos actes.",
+  "%s pounces on top of %s.": "%s saute sur %s.",
+  "%s pounces on top of you.": "%s vous saute dessus.",
+  "%s pounces out from the shadows.": "%s bondit hors de l’ombre.",
+  "%s pouts at %s.": "%s fait la moue à %s.",
+  "%s pouts at everyone around her.": "%s fait la moue à tous ceux qui l'entourent.",
+  "%s pouts at everyone around him.": "%s fait la moue à tous ceux qui l'entourent.",
+  "%s pouts at you.": "%s vous fait la moue.",
+  "%s praises the Light.": "%s glorifie la Lumière.",
+  "%s prays to the Gods.": "%s prie les dieux.",
+  "%s pulls out her map.": "%s sort sa carte.",
+  "%s pulls out his map.": "%s sort sa carte.",
+  "%s punches %s's shoulder.": "%s donne un coup sur l'épaule de %s.",
+  "%s punches herself.": "%s se donne un coup elle-même.",
+  "%s punches himself.": "%s se frappe.",
+  "%s punches your shoulder.": "%s donne un coup de poing dans votre épaule.",
+  "%s purrs at %s.": "%s s’adresse à %s en ronronnant.",
+  "%s purrs at you.": "%s s’adresse à vous en ronronnant.",
+  "%s purrs like a kitten.": "%s ronronne comme un chat.",
+  "%s puts her arm around %s's shoulder.": "%s met son bras autour de l'épaule de %s.",
+  "%s puts her arm around your shoulder.": "%s met son bras autour de votre épaule.",
+  "%s puts his arm around %s's shoulder.": "%s met son bras autour de l'épaule de %s.",
+  "%s puts his arm around your shoulder.": "%s met son bras autour de votre épaule.",
+  "%s puts on the charm.": "%s met son charme en avant.",
+  "%s puts out a challenge to everyone. Bring it on!": "%s défie tout le monde. C'est quand vous voulez !",
+  "%s puts up her hand for a high five.": "%s lève la main pour en taper cinq.",
+  "%s puts up his hand for a high five.": "%s lève la main pour en taper cinq.",
+  "%s puzzled by you. What are you doing?": "%s essaye de vous comprendre. Qu’est-ce que vous faites ?",
+  "%s questions %s.": "%s pose des questions à %s.",
+  "%s questions you.": "%s vous pose des questions.",
+  "%s quietly snickers to herself.": "%s rit sous cape.",
+  "%s quietly snickers to himself.": "%s rit sous cape.",
+  "%s raises a drink in the air before chugging it down.  Cheers!": "%s lève son verre à la cantonade avant de le vider cul-sec. Santé !",
+  "%s raises a drink in the air before chugging it down.  Cheres!": "%s lève son verre avant de le vider d'un trait. Santé !",
+  "%s raises a drink to %s.  Cheers!": "%s lève son verre en l'honneur |2 %s. Santé !",
+  "%s raises a drink to you.  Cheers!": "%s vous lève son verre. Santé !",
+  "%s raises a drink to you. Cheers!": "%s lève son verre en votre honneur. Santé !",
+  "%s raises her eyebrow inquisitively at %s.": "%s lève un sourcil interrogateur en direction |2 %s.",
+  "%s raises her eyebrow inquisitively at you.": "%s lève un sourcil interrogateur en votre direction.",
+  "%s raises her eyebrow inquisitively.": "%s lève un sourcil interrogateur.",
+  "%s raises her fist in anger at %s.": "%s lève un poing rageur en direction |2 %s, bouillante de colère.",
+  "%s raises her fist in anger at you.": "%s lève un poing rageur en direction de vous, bouillante de colère.",
+  "%s raises her fist in anger.": "%s lève un poing rageur, bouillante de colère.",
+  "%s raises her hand in the air.": "%s lève la main.",
+  "%s raises his eyebrow inquisitively at %s.": "%s lève un sourcil interrogateur en direction |2 %s.",
+  "%s raises his eyebrow inquisitively at you.": "%s lève un sourcil interrogateur en votre direction.",
+  "%s raises his eyebrow inquisitively.": "%s lève un sourcil interrogateur.",
+  "%s raises his fist in anger at %s.": "%s lève un poing rageur en direction |2 %s, bouillant de colère.",
+  "%s raises his fist in anger at you.": "%s lève un poing rageur en votre direction, bouillant de colère.",
+  "%s raises his fist in anger.": "%s lève un poing rageur, bouillant de colère.",
+  "%s raises his hand in the air.": "%s lève la main.",
+  "%s reached a new level. DING!": "%s a obtenu un niveau supplémentaire. DING !",
+  "%s remains calm.": "%s reste calme.",
+  "%s roars with bestial vigor at %s.  So fierce!": "%s rugit bestialement en direction |2 %s. Quelle férocité !",
+  "%s roars with bestial vigor at you.  So fierce!": "%s vous hurle dessus.  Quelle violence !",
+  "%s roars with bestial vigor.  So fierce!": "%s rugit bestialement. Quelle férocité !",
+  "%s rolls her eyes at %s.": "%s roule des yeux en regardant %s.",
+  "%s rolls her eyes at you.": "%s roule des yeux dans votre direction.",
+  "%s rolls her eyes.": "%s roule des yeux.",
+  "%s rolls his eyes at %s.": "%s roule des yeux en direction de %s.",
+  "%s rolls his eyes at you.": "%s roule des yeux en vous regardant.",
+  "%s rolls his eyes.": "%s roule des yeux.",
+  "%s rolls on the floor laughing at %s.": "%s se roule au sol en se moquant |2 %s.",
+  "%s rolls on the floor laughing at you.": "%s se roule au sol en se moquant de vous.",
+  "%s rolls on the floor laughing.": "%s se roule au sol en riant.",
+  "%s ruffles %s's hair.": "%s décoiffe %s.",
+  "%s ruffles her hair.": "%s se décoiffe.",
+  "%s ruffles his hair.": "%s se décoiffe.",
+  "%s ruffles your hair.": "%s vous décoiffe.",
+  "%s runs around in a frenzied state of panic.": "%s cède à la panique et court partout en agitant les bras.",
+  "%s salutes %s with respect.": "%s salue %s avec respect.",
+  "%s salutes you with respect.": "%s salue avec respect.",
+  "%s says a prayer for %s.": "%s dit une prière pour %s.",
+  "%s says a prayer for you.": "%s dit une prière pour vous.",
+  "%s scoffs at %s.": "%s ricane de%s.",
+  "%s scoffs at you.": "%s ricane de vous.",
+  "%s scoffs.": "%s ricane.",
+  "%s scolds %s.": "%s gronde %s.",
+  "%s scolds herself.": "%s se gronde.",
+  "%s scolds himself.": "%s se gronde.",
+  "%s scolds you.": "%s vous gronde.",
+  "%s scowls at %s.": "%s grimace à la vue de %s.",
+  "%s scowls at you.": "%s grimace à votre vue.",
+  "%s scowls.": "%s grimace.",
+  "%s scratches %s.  How catty!": "%s griffe %s. Comme chien et chat !",
+  "%s scratches herself.  Ah, much better!": "%s se gratte.  Ah, beaucoup mieux !",
+  "%s scratches himself.  Ah, much better!": "%s se gratte.  Ah, beaucoup mieux !",
+  "%s scratches you.  How catty!": "%s vous griffe.  Comme chien et chat !",
+  "%s searches %s for something.": "%s fouille %s pour quelque chose.",
+  "%s searches for something.": "%s cherche quelque chose.",
+  "%s searches you for something.": "%s vous fouille pour quelque chose.",
+  "%s serenades %s with a song.": "%s chante une sérénade à %s.",
+  "%s serenades you with a song.": "%s vous chante une sérénade.",
+  "%s shakes her fist at %s.": "%s secoue le poing vers %s.",
+  "%s shakes her fist at you.": "%s secoue son poing dans votre direction.",
+  "%s shakes her fist.": "%s secoue le poing.",
+  "%s shakes her rear at %s.": "%s remue son derrière devant %s.",
+  "%s shakes her rear at you.": "%s remue son derrière devant vous.",
+  "%s shakes her rear.": "%s remue son derrière.",
+  "%s shakes his fist at %s.": "%s agite le poing vers %s.",
+  "%s shakes his fist at you.": "%s secoue le poing dans votre direction.",
+  "%s shakes his fist.": "%s secoue le poing.",
+  "%s shakes his rear at %s.": "%s remue son derrière devant %s.",
+  "%s shakes his rear at you.": "%s remue son derrière devant vous.",
+  "%s shakes his rear.": "%s remue son derrière.",
+  "%s shimmies before %s.": "%s se trémousse devant %s.",
+  "%s shimmies before the masses.": "%s se trémousse devant tout le monde.",
+  "%s shimmies before you.": "%s se trémousse devant vous.",
+  "%s shivers beside %s. Chilling!": "%s tremble à côté |2 %s.  Ca fait froid dans le dos !",
+  "%s shivers beside you. Chilling!": "%s tremble à côté de vous. Ça fait froid dans le dos !",
+  "%s shivers in her boots. Chilling!": "%s tremble dans ses godasses. Froid dans le dos !",
+  "%s shivers in his boots. Chilling!": "%s tremble dans ses bottes. Ca fait froid dans le dos !",
+  "%s shoos %s away. Be gone pest!": "%s chasse %s. Du vent, sale teigne !",
+  "%s shoos the measly pests away.": "%s chasse les sales teignes.",
+  "%s shoos you away. Be gone pest!": "%s vous chasse. Du vent, sale teigne !",
+  "%s shouts at %s.": "%s crie sur %s.",
+  "%s shouts at you.": "%s vous crie dessus.",
+  "%s shouts.": "%s crie.",
+  "%s shrugs at %s.  Who knows?": "%s regarde %s en haussant les épaules. Qui sait ?",
+  "%s shrugs at you.  Who knows?": "%s vous regarde en haussant les épaules.  Qui sait ?",
+  "%s shrugs.  Who knows?": "%s hausse les épaules. Qui sait ?",
+  "%s shudders at the sight of %s.": "%s frissonne à la vue de %s.",
+  "%s shudders at the sight of you.": "%s frissonne à votre vue.",
+  "%s shudders.": "%s frissonne.",
+  "%s sighs at %s.": "%s regarde %s en soupirant.",
+  "%s sighs at you.": "%s vous regarde en soupirant.",
+  "%s slaps %s across the face. Ouch!": "%s donne une gifle à %s. Aïe !",
+  "%s slaps herself across the face. Ouch!": "%s se gifle elle-même. Aïe !",
+  "%s slaps himself across the face. Ouch!": "%s se donne une gifle. Aïe !",
+  "%s slaps you across the face. Ouch!": "%s vous donne une gifle. Aïe !",
+  "%s smacks %s upside the head.": "%s donne une claque à %s sur la tête.",
+  "%s smacks her forehead.": "%s se tape le front.",
+  "%s smacks his forehead.": "%s se tape le front.",
+  "%s smacks you upside the head.": "%s vous frappe sur la tête.",
+  "%s smells %s. Wow, someone stinks!": "%s renifle %s. Pouah ! Il y a quelqu’un qui pue !",
+  "%s smells the air around her. Wow, someone stinks!": "%s renifle autour d’elle Pouah ! Il y a quelqu’un qui pue !",
+  "%s smells the air around him. Wow, someone stinks!": "%s renifle autour de lui. Pouah ! Il y a quelqu’un qui pue !",
+  "%s smells you. Wow, someone stinks!": "%s vous renifle. Pouah ! Il y a quelqu’un qui pue !",
+  "%s smiles at %s.": "%s sourit à %s.",
+  "%s smiles at you.": "%s vous sourit.",
+  "%s smiles shyly at %s.": "%s sourit timidement à %s.",
+  "%s smiles shyly at you.": "%s vous sourit timidement.",
+  "%s smiles shyly.": "%s sourit timidement.",
+  "%s smiles.": "%s sourit.",
+  "%s smirks slyly at %s.": "%s fait un sourire narquois à %s.",
+  "%s smirks slyly at you.": "%s vous fait un sourire narquois.",
+  "%s snaps her fingers at %s.": "%s claque des doigts en direction de %s.",
+  "%s snaps her fingers at you.": "%s claque des doigts vers vous.",
+  "%s snaps her fingers.": "%s claque des doigts.",
+  "%s snaps his fingers at %s.": "%s claque des doigts en direction de %s.",
+  "%s snaps his fingers at you.": "%s claque des doigts dans votre direction.",
+  "%s snaps his fingers.": "%s claque des doigts.",
+  "%s sneezes on %s. Achoo!": "%s éternue sur %s. Atchoum !",
+  "%s sneezes on you. Achoo!": "%s éternue sur vous. Atchoum !",
+  "%s sneezes. Achoo!": "%s éternue. Atchoum !",
+  "%s snickers at %s.": "%s regarde %s en ricanant.",
+  "%s snickers at you.": "%s vous regarde en ricanant.",
+  "%s sniffs %s.": "%s renifle %s.",
+  "%s sniffs the air around her.": "%s renifle autour d’elle.",
+  "%s sniffs the air around him.": "%s renifle l’air autour de lui.",
+  "%s sniffs you.": "%s vous renifle.",
+  "%s snorts derisively at %s.": "%s renifle avec dérision vers %s.",
+  "%s snorts derisively at you.": "%s renifle avec dérision à votre vue.",
+  "%s snorts.": "%s renifle.",
+  "%s snubs %s.": "%s repousse %s.",
+  "%s snubs all of the lowly peons around her.": "%s repousse toutes les pauvres larves qui l'entourent.",
+  "%s snubs all of the lowly peons around him.": "%s repousse toutes les pauvres larves autour de lui.",
+  "%s snubs you.": "%s vous repousse.",
+  "%s soothes %s. There, there...things will be ok.": "%s rassure %s. Là, là… ça va aller.",
+  "%s soothes you. There, there...things will be ok.": "%s vous rassure. Là, là… ça va aller.",
+  "%s spits on %s.": "%s crache sur %s.",
+  "%s spits on the ground.": "%s crache par terre.",
+  "%s spits on you.": "%s vous crache dessus.",
+  "%s squeals at %s.": "%s couine en direction de %s.",
+  "%s squeals at you.": "%s couine dans votre direction.",
+  "%s squeals like a pig.": "%s couine comme un cochon.",
+  "%s stands at attention and salutes.": "%s est au garde-à-vous et salue.",
+  "%s stares %s down.": "%s fait baisser les yeux à %s.",
+  "%s stares at %s in awe.": "%s regarde %s avec admiration.",
+  "%s stares at you in awe.": "%s vous regarde avec admiration.",
+  "%s stares blankly at %s.": "%s gratifie %s d'un regard inexpressif.",
+  "%s stares blankly at her surroundings.": "%s regarde autour d'elle d'un air inexpressif.",
+  "%s stares blankly at his surroundings.": "%s regarde autour de lui d'un air inexpressif.",
+  "%s stares blankly at you.": "%s vous gratifie d'un regard inexpressif.",
+  "%s stares off into the distance.": "%s regarde fixement au loin.",
+  "%s stares you down.": "%s vous fait baisser les yeux.",
+  "%s starts to charge.": "%s commence à charger.",
+  "%s stretches her arms out.": "%s tend les bras.",
+  "%s stretches his arms out.": "%s tend les bras.",
+  "%s surrenders before %s.  Such is the agony of defeat...": "%s capitule devant %s. Telles sont les affres de la défaite...",
+  "%s surrenders before you.  Such is the agony of defeat...": "%s capitule devant vous.  Telles sont les affres de la défaite…",
+  "%s surrenders to her opponents.": "%s capitule.",
+  "%s surrenders to his opponents.": "%s se rend à ses adversaires.",
+  "%s sweats at the sight of %s.": "%s est en sueur à la vue |2 %s.",
+  "%s sweats at the sight of you.": "%s est en sueur à votre vue.",
+  "%s takes a deep breath.": "%s respire un bon coup.",
+  "%s takes a mighty quaff of her beverage.": "%s prend une grosse gorgée de sa boisson.",
+  "%s takes a mighty quaff of his beverage.": "%s prend une grosse gorgée de sa boisson.",
+  "%s takes one look at %s and lets out a guffaw!": "%s jette un coup d'œil à %s et se poile un bon coup !",
+  "%s takes one look at %s and panics.": "%s regarde %s et cède à la panique.",
+  "%s takes one look at you and lets out a guffaw!": "%s vous jette un coup d'œil et se poile un bon coup !",
+  "%s takes one look at you and panics.": "%s vous regarde et cède à la panique.",
+  "%s talks excitedly with %s.": "%s parle sur un ton animé à %s.",
+  "%s talks excitedly with everyone.": "%s parle à quelqu’un sur un ton animé.",
+  "%s talks excitedly with you.": "%s vous parle sur un ton animé.",
+  "%s talks to herself since no one else seems interested.": "%s parle toute seule puisque personne ne s’intéresse à elle.",
+  "%s talks to himself since no one else seems interested.": "%s parle tout seul puisque personne ne s’intéresse à lui.",
+  "%s taps her foot as she waits for %s.": "%s tape du pied en attendant %s.",
+  "%s taps her foot as she waits for you.": "%s tape du pied en vous attendant.",
+  "%s taps her foot.  Hurry up already!": "%s tape du pied.  Allez, plus vite !",
+  "%s taps his foot as he waits for %s.": "%s tape du pied en attendant %s.",
+  "%s taps his foot as he waits for you.": "%s tape du pied en vous attendant.",
+  "%s taps his foot.  Hurry up already!": "%s tape du pied.  Allez, plus vite !",
+  "%s taunts everyone around her. Bring it fools!": "%s nargue tout le monde autour d’elle. Montrez-vous à la hauteur, crétins !",
+  "%s taunts everyone around him. Bring it fools!": "%s défie tout le monde autour de lui. Montrez-vous à la hauteur, crétins !",
+  "%s teases %s.": "%s taquine %s.",
+  "%s teases you.": "%s vous provoque.",
+  "%s tells %s NO.  Not going to happen.": "%s dit NON à %s. Pas question.",
+  "%s tells %s that he must be going.": "%s dit à %s qu'il doit s'en aller.",
+  "%s tells %s that she must be going.": "%s dit à %s qu'elle doit s'en aller.",
+  "%s tells %s to be quiet. Shhh!": "%s dit à %s de se taire. Chut !",
+  "%s tells %s to go.": "%s dit à %s de s'en aller.",
+  "%s tells %s to hurry up.": "%s dit à %s de se dépêcher.",
+  "%s tells %s to stop attacking.": "%s dit à %s d'arrêter d'attaquer.",
+  "%s tells %s to take a deep breath.": "%s dit à %s de respirer un bon coup.",
+  "%s tells a joke to %s.": "%s dit une blague à %s.",
+  "%s tells a joke.": "%s dit une blague.",
+  "%s tells everyone to attack you.": "%s dit à tout le monde de vous attaquer.",
+  "%s tells everyone to be quiet. Shhh!": "%s dit à tout le monde de se taire. Chut !",
+  "%s tells everyone to go.": "%s dit à tout le monde de s'en aller.",
+  "%s tells everyone to stop attacking.": "%s dit à tout le monde d'arrêter d'attaquer.",
+  "%s tells you NO.  Not going to happen.": "%s vous dit NON. Pas question.",
+  "%s tells you a joke.": "%s vous dit une blague.",
+  "%s tells you that he must be going.": "%s vous dit qu'il doit s'en aller.",
+  "%s tells you that she must be going.": "%s vous dit qu'elle doit s'en aller.",
+  "%s tells you to attack %s.": "%s vous dit d'attaquer %s.",
+  "%s tells you to attack something.": "%s vous dit d'attaquer quelque chose.",
+  "%s tells you to be quiet. Shhh!": "%s vous dit de vous taire. Chut !",
+  "%s tells you to go.": "%s vous dit de vous en aller.",
+  "%s tells you to hurry up.": "%s vous dit de vous dépêcher.",
+  "%s tells you to stop attacking.": "%s vous dit d'arrêter d'attaquer.",
+  "%s tells you to take a deep breath.": "%s vous dit de respirer un bon coup.",
+  "%s thanks %s.": "%s remercie %s.",
+  "%s thanks everyone.": "%s remercie quelqu’un.",
+  "%s thanks you.": "%s vous remercie.",
+  "%s thinks %s has failed.": "%s pense que %s a échoué.",
+  "%s thinks %s is a sexy devil.": "%s trouve %s très sexy.",
+  "%s thinks %s is charming.": "%s trouve que %s a du charme.",
+  "%s thinks %s is serious.": "%s pense que %s ne plaisante pas.",
+  "%s thinks %s is the son of a motherless ogre.": "%s pense que la mère |2 %s est une ogresse qui pue. Qui pue la patate.",
+  "%s thinks about %s.": "%s pense à %s.",
+  "%s thinks about you.": "%s pense à vous.",
+  "%s thinks everyone around her is a son of a motherless ogre.": "%s pense que les mères de tous ceux qui sont autour d’elle sont des ogresses qui puent. Qui puent la patate.",
+  "%s thinks everyone around him is a son of a motherless ogre.": "%s pense que les mères de tous ceux qui sont autour de lui sont des ogresses qui puent. Qui puent la patate.",
+  "%s thinks that %s will regret it.": "%s pense que %s le regrettera.",
+  "%s thinks that you will regret it.": "%s pense que vous allez le regretter.",
+  "%s thinks this is serious business.": "%s pense que cette affaire n'est pas une plaisanterie.",
+  "%s thinks you are a sexy devil.": "%s vous trouve très sexy.",
+  "%s thinks you are serious.": "%s pense que vous ne plaisantez pas.",
+  "%s thinks you are the son of a motherless ogre.": "%s pense que votre mère est une ogresse qui pue. Qui pue la patate.",
+  "%s thinks you have failed.": "%s pense que vous avez échoué.",
+  "%s thinks you're charming.": "%s trouve que vous avez du charme.",
+  "%s threatens %s with the wrath of doom.": "%s menace %s d'un sort cruel.",
+  "%s threatens everyone with the wrath of doom.": "%s menace tout le monde d'un sort cruel.",
+  "%s threatens you with the wrath of doom.": "%s vous menace d'un sort cruel.",
+  "%s tickles %s.  Hee hee!": "%s chatouille %s. Hi hi hi !",
+  "%s tickles you.  Hee hee!": "%s vous chatouille.  Hi hi hi !",
+  "%s tries to calm %s down.": "%s essaie de calmer %s.",
+  "%s tries to calm you down.": "%s essaie de vous calmer.",
+  "%s tries to pick up the pace.": "%s essaie de suivre le rythme.",
+  "%s tries to sneak away from %s.": "%s essaie de s'éloigner discrètement de %s.",
+  "%s tries to sneak away from you.": "%s essaie de vous fuir discrètement.",
+  "%s tries to sneak away.": "%s essaie de s'éloigner discrètement.",
+  "%s twiddles her thumbs.": "%s se tourne les pouces.",
+  "%s twiddles his thumbs.": "%s se tourne les pouces.",
+  "%s vetoes %s's motion.": "%s s’oppose à la proposition |2 %s.",
+  "%s vetoes the motion on the floor.": "%s s’oppose à la proposition en cours.",
+  "%s vetoes your motion.": "%s s’oppose à votre proposition.",
+  "%s vows he will have his revenge.": "%s jure qu'il se vengera.",
+  "%s vows revenge on %s.": "%s jure de se venger de %s.",
+  "%s vows revenge on you.": "%s jure de se venger de vous.",
+  "%s vows she will have her revenge.": "%s jure qu'elle se vengera.",
+  "%s wants %s to know that he is hopelessly lost.": "%s veut que %s sache qu’il est perdu.",
+  "%s wants %s to know that she is hopelessly lost.": "%s veut que %s sache qu’elle est perdue.",
+  "%s wants to be tickled.  Hee hee!": "%s veut des chatouilles.  Hi hi hi !",
+  "%s wants to know the meaning of life.": "%s veut connaître le sens de la vie.",
+  "%s wants to make an offer.": "%s veut faire une offre.",
+  "%s wants to talk things over with %s.": "%s veut discuter avec %s.",
+  "%s wants to talk things over with you.": "%s veut discuter avec vous.",
+  "%s wants you to know that he is hopelessly lost.": "%s veut que vous sachiez qu’il est perdu.",
+  "%s wants you to know that she is hopelessly lost.": "%s veut que vous sachiez qu’elle est perdue.",
+  "%s warns %s that an enemy is near.": "%s prévient %s qu'un ennemi se trouve non loin.",
+  "%s warns %s.": "%s avertit %s.",
+  "%s warns everyone of incoming enemies!": "%s avertit tout le monde que des ennemis approchent !",
+  "%s warns everyone that an enemy is near.": "%s prévient tout le monde qu'un ennemi se trouve non loin.",
+  "%s warns everyone.": "%s avertit tout le monde.",
+  "%s warns you that an enemy is near.": "%s vous prévient qu'un ennemi se trouve non loin.",
+  "%s warns you.": "%s vous avertit.",
+  "%s was happy to help %s.": "%s s'est fait un plaisir d'aider %s.",
+  "%s was happy to help you.": "%s s'est fait un plaisir de vous aider.",
+  "%s was happy to help.": "%s s'est fait un plaisir d'aider.",
+  "%s was just kidding!": "%s plaisantait !",
+  "%s waves at %s.": "%s fait signe à %s.",
+  "%s waves at you.": "%s vous fait signe.",
+  "%s waves goodbye to %s.  Farewell!": "%s dit au revoir à %s. Adieu !",
+  "%s waves goodbye to everyone.  Farewell!": "%s dit au revoir à tout le monde. Adieu !",
+  "%s waves goodbye to you.  Farewell!": "%s vous dit au revoir. Adieu !",
+  "%s waves.": "%s fait un signe de la main.",
+  "%s welcomes %s.": "%s souhaite la bienvenue à %s.",
+  "%s welcomes everyone.": "%s souhaite la bienvenue à tout le monde.",
+  "%s welcomes you.": "%s vous souhaite la bienvenue.",
+  "%s whines pathetically at %s.": "%s pleurniche auprès |2 %s.",
+  "%s whines pathetically at you.": "%s pleurniche auprès de vous.",
+  "%s whines pathetically.": "%s pleurniche.",
+  "%s whistles at %s.": "%s siffle en direction |2 %s.",
+  "%s whistles at you.": "%s siffle dans votre direction.",
+  "%s will be right back.": "%s revient dans une seconde.",
+  "%s will be right back.  Sit tight, %s.": "%s revient dans une seconde. Ne bougez pas, %s !",
+  "%s will be right back.  Sit tight.": "%s revient dans une seconde. Ne bougez pas.",
+  "%s winks slyly at %s.": "%s fait un clin d'œil à %s.",
+  "%s winks slyly at you.": "%s vous fait un clin d'œil.",
+  "%s winks slyly.": "%s fait un clin d'œil.",
+  "%s wishes %s good luck.": "%s souhaite bonne chance à %s.",
+  "%s wishes %s the best of luck.": "%s souhaite bonne chance à %s.",
+  "%s wishes everyone good luck.": "%s souhaite bonne chance à tout le monde.",
+  "%s wishes for some good luck.": "%s souhaite avoir de la chance.",
+  "%s wishes someone would hold her hand.": "%s aimerait que quelqu'un lui tienne la main.",
+  "%s wishes someone would hold his hand.": "%s aimerait que quelqu'un lui tienne la main.",
+  "%s wishes you good luck.": "%s vous souhaite bonne chance.",
+  "%s wishes you the best of luck.": "%s vous souhaite bonne chance.",
+  "%s works with %s.": "%s travaille avec %s.",
+  "%s works with you.": "%s travaille avec vous.",
+  "%s yawns sleepily at %s.": "%s bâille au nez |2 %s.",
+  "%s yawns sleepily at you.": "%s vous bâille au nez.",
+  "%s yawns sleepily.": "%s bâille.",
+  "%s yells for %s to flee!": "%s hurle à %s qu'il faut fuir !",
+  "%s yells for everyone to flee!": "%s hurle à tout le monde qu'il faut fuir !",
+  "%s yells for you to flee!": "%s vous hurle qu'il faut fuir !",
+  "%s's eyes shift back and forth suspiciously.": "Les yeux de %s tournent de tous les côtés avec méfiance.",
+  "A sly smirk spreads across %s's face.": "%s a un sourire narquois.",
+  "A sly smirk spreads across your face.": "Vous avez un sourire narquois.",
+  "A tendril of drool runs down %s's lip.": "Un filet de bave coule des lèvres |2 %s.",
+  "A tendril of drool runs down your lip.": "Un filet de bave coule de vos lèvres.",
+  "Blood oozes from %s's wounds.": "Le sang s'écoule des blessures |2 %s.",
+  "Blood oozes from your wounds.": "Le sang s'écoule de vos blessures.",
+  "In quiet contemplation, %s mourns the death of %s.": "Grave et calme, %s pleure la mort |2 %s.",
+  "In quiet contemplation, %s mourns the loss of the dead.": "Plongé dans ses pensées, %s pleure les morts.",
+  "In quiet contemplation, %s mourns your death.": "Grave et calme, %s pleure votre mort.",
+  "In quiet contemplation, you mourn the death of %s.": "Grave et calme, vous pleurez la mort |2 %s.",
+  "In quiet contemplation, you mourn the loss of the dead.": "Grave et calme, vous pleurez les morts.",
+  "Mooooooooooo.": "Meuuuuuuuuuh.",
+  "With a finger deep in one nostril, you pass the time.": "Vous passez le temps avec un doigt fourré dans le nez.",
+  "With arms flapping, %s struts around %s.  Cluck, Cluck, Chicken!": "%s se pavane autour |2 %s en battant des bras. Cot, cot, cot, codec !",
+  "With arms flapping, %s struts around you.  Cluck, Cluck, Chicken!": "%s se pavane autour de vous en battant des bras. Cot, cot, cot, codec !",
+  "With arms flapping, %s struts around.  Cluck, Cluck, Chicken!": "%s se pavane en battant des bras. Cot, cot, cot, codec !",
+  "With arms flapping, you strut around %s.  Cluck, Cluck, Chicken!": "Vous vous pavanez autour |2 %s en battant des bras. Cot, cot, cot, codec !",
+  "With arms flapping, you strut around.  Cluck, Cluck, Chicken!": "Vous vous pavanez en battant des bras. Cot, cot, cot, codec !",
+  "You OBJECT!": "Vous OBJECTEZ !",
+  "You agree with %s.": "Vous êtes bien d’accord avec %s.",
+  "You agree.": "Vous êtes bien d’accord.",
+  "You announce that you have low mana!": "Vous annoncez que vous n'avez plus guère de mana.",
+  "You apologize to %s.  Sorry!": "Vous présentez vos excuses à %s. Toutes mes confuses !",
+  "You apologize to everyone.  Sorry!": "Vous présentez vos excuses à tout le monde. Toutes mes confuses !",
+  "You applaud at %s.  Bravo!": "Vous applaudissez %s. Bravo !",
+  "You applaud.  Bravo!": "Vous applaudissez. Bravo !",
+  "You are amazed by %s!": "Vous êtes stupéfait par %s !",
+  "You are amazed!": "Vous trouvez ça stupéfiant !",
+  "You are bashful.": "Vous êtes vraiment timide.",
+  "You are curious what %s is up to.": "Vous exprimez votre curiosité sur les intentions de %s.",
+  "You are embarrassed by %s.": "Vous avez honte de %s.",
+  "You are filled with happiness!": "Vous êtes enchanté !",
+  "You are filled with regret.": "Vous ressentez du regret.",
+  "You are getting a headache from %s's antics.": "Les singeries |2 %s vous donnent mal à la tête.",
+  "You are getting a headache.": "Vous commencez à avoir mal à la tête.",
+  "You are hopelessly confused.": "Vous nagez en pleine confusion.",
+  "You are hopelessly lost.": "Vous êtes vraiment perdu.",
+  "You are hungry!": "Vous avez grand-faim !",
+  "You are hungry.  Maybe %s has some food...": "Vous avez faim. %s a peut-être quelque chose à manger…",
+  "You are jealous of %s.": "Vous jalousez %s.",
+  "You are jealous of everyone around you.": "Vous jalousez tous ceux qui vous entourent.",
+  "You are listening!": "Vous écoutez !",
+  "You are lost in thought.": "Vous êtes dans vos pensées.",
+  "You are overcome with boredom.  Oh the drudgery!": "Vous vous ennuyez à mourir. Quel calvaire !",
+  "You are proud of %s.": "%s fait votre fierté.",
+  "You are proud of yourself.": "Vous éprouvez de la fierté envers vous-même.",
+  "You are puzzled by %s.": "Vous essayez de comprendre %s.",
+  "You are puzzled. What's going on here?": "Vous essayez de comprendre. Qu’est-ce qui se passe ici ?",
+  "You are scared of %s.": "Vous avez peur |2 %s.",
+  "You are scared!": "Vous êtes apeuré !",
+  "You are so bashful...too bashful to get %s's attention.": "Vous êtes bien trop timide pour attirer l’attention |2 %s.",
+  "You are so surprised!": "Vous êtes tellement surpris !",
+  "You are so thirsty. Can anyone spare a drink?": "Vous avez tellement soif. Est-ce que quelqu’un a à boire ?",
+  "You are such a tease.": "Vous faites dans la provocation.",
+  "You are surprised by %s's actions.": "Vous êtes surpris par les agissements |2 %s.",
+  "You are suspicious of %s.": "Vous vous méfiez de %s.",
+  "You are sweating.": "Vous êtes en sueur.",
+  "You are terribly bored with %s.": "Vous trouvez %s d'un ennui mortel.",
+  "You are very happy with %s!": "Vous êtes très content |2 %s.",
+  "You ask %s to wait.": "Vous demandez à %s d'attendre.",
+  "You ask everyone to wait.": "Vous demandez à tout le monde d'attendre.",
+  "You attempt to make %s an offer they can't refuse.": "Vous essayez de faire à %s une offre impossible à refuser.",
+  "You bare your teeth and snarl at %s.": "Vous montrez les dents et regardez %s en grognant.",
+  "You bare your teeth and snarl.": "Vous montrez les dents et grognez.",
+  "You bark at %s.": "Vous aboyez après %s.",
+  "You bark. Woof woof!": "Vous aboyez. Ouah ! Ouah !",
+  "You bask in the glory of victory with %s.": "Vous savourez cette glorieuse victoire avec %s.",
+  "You bask in the glory of victory.": "Vous savourez cette glorieuse victoire.",
+  "You beckon %s over.": "Vous faites signe d’approcher à %s.",
+  "You beckon everyone over to you.": "Vous faites signe à tout le monde d’approcher.",
+  "You beg %s.  How pathetic.": "Vous suppliez %s. C'est pitoyable.",
+  "You beg everyone around you. How pathetic.": "Vous suppliez tous les gens qui vous entourent. C'est pitoyable.",
+  "You begin to eat in front of %s.": "Vous commencez à manger devant %s.",
+  "You begin to eat.": "Vous commencez à manger.",
+  "You begin to groan.": "Vous émettez des grognements.",
+  "You begin to play the world's smallest violin.": "Vous commencez à vous apitoyer.",
+  "You begin to work.": "Vous commencez à travailler.",
+  "You bite %s.  Ouch!": "Vous mordez %s. Aïeuh !",
+  "You blame %s for everything.": "Vous dites que c'est tout de la faute |2 %s.",
+  "You blame yourself for what happened.": "Vous dites que tout est de votre faute.",
+  "You blink at %s.": "Vous faites un clin d’œil à %s.",
+  "You blink your eyes.": "Vous clignez des yeux.",
+  "You blow a kiss into the wind.": "Vous envoyez un baiser dans le vent.",
+  "You blow a kiss to %s.": "Vous envoyez un baiser à %s.",
+  "You blush at %s.": "Vous regardez %s en rougissant.",
+  "You blush.": "Vous rougissez.",
+  "You boggle at %s.": "Vous reculez devant %s.",
+  "You boggle at the situation.": "Vous êtes stupéfié par la situation.",
+  "You bonk %s on the noggin.  Doh!": "Vous frappez %s sur le museau. Ouille !",
+  "You bonk yourself on the noggin.  Doh!": "Vous vous donnez un coup sur le museau. Ouille !",
+  "You bounce up and down in front of %s.": "Vous vous mettez à sautiller devant %s.",
+  "You bounce up and down.": "Vous sautillez sans arrêt.",
+  "You bow before %s.": "Vous vous inclinez devant %s.",
+  "You bow down graciously.": "Vous vous inclinez avec grâce.",
+  "You brandish your weapon fiercely at %s.": "Vous brandissez votre arme en regardant %s d'un air féroce.",
+  "You brandish your weapon fiercely.": "Vous brandissez votre arme d'un air féroce.",
+  "You brush up against %s and fart loudly.": "Vous vous frottez contre %s et laissez échapper un pet sonore.",
+  "You burp rudely in %s's face.": "Vous rotez grossièrement au nez |2 %s.",
+  "You burst into dance.": "Vous vous mettez à danser.",
+  "You burst into song.": "Vous vous mettez à chanter.",
+  "You cackle maniacally at %s.": "Vous gloussez hystériquement en regardant %s.",
+  "You cackle maniacally at the situation.": "La situation vous inspire un gloussement hystérique.",
+  "You call out for healing!": "Vous demandez des soins.",
+  "You challenge %s to a duel.": "Vous défiez %s en duel.",
+  "You check %s for a pulse. Oh no!": "Vous cherchez le pouls |2 %s. Oh non !",
+  "You check your own pulse.": "Vous cherchez votre propre pouls.",
+  "You cheer at %s.": "Vous acclamez %s.",
+  "You cheer!": "Vous lancez des acclamations !",
+  "You chuckle at %s.": "Vous vous esclaffez en regardant %s.",
+  "You clap excitedly for %s.": "Vous applaudissez chaleureusement %s.",
+  "You clap excitedly.": "Vous applaudissez chaleureusement.",
+  "You clap for %s, clearly unimpressed.": "Vous applaudissez %s, sans paraître enthousiaste.",
+  "You clap half-heartedly, clearly unimpressed.": "Vous applaudissez poliment, sans paraître enthousiaste.",
+  "You clearly state, NO.": "Vous l'affirmez clairement : NON.",
+  "You comfort %s.": "Vous consolez %s.",
+  "You commend %s on a job well done.": "Vous félicitez %s pour un travail bien fait.",
+  "You commend everyone on a job well done.": "Vous félicitez tout le monde pour un travail bien fait.",
+  "You congratulate %s on a new level. DING!": "Vous félicitez %s pour son niveau supplémentaire. DING !",
+  "You congratulate %s.": "Vous congratulez %s.",
+  "You congratulate everyone around you.": "Vous congratulez tous ceux qui vous entourent.",
+  "You cough at %s.": "Vous regardez %s en toussant.",
+  "You cover %s's ears.": "Vous bouchez les oreilles |2 %s.",
+  "You cover your ears.": "Vous vous bouchez les oreilles.",
+  "You cover your face with your palm.": "Vous passez votre main sur votre figure.",
+  "You cower in fear at the sight of %s.": "Vous vous recroquevillez de peur en voyant %s.",
+  "You cower in fear.": "Vous vous recroquevillez de peur.",
+  "You crack your knuckles while staring at %s.": "Vous vous faites craquer les doigts en regardant fixement %s.",
+  "You crack your knuckles.": "Vous vous faites craquer les doigts.",
+  "You cringe away from %s.": "Vous avez un mouvement de recul devant %s.",
+  "You cringe in fear.": "Vous avez un mouvement de recul effrayé.",
+  "You cross your arms at %s. Hmph!": "Vous croisez les bras face à %s. Humpf !",
+  "You cross your arms.": "Vous croisez les bras.",
+  "You cross your eyes.": "Vous louchez.",
+  "You cry on %s's shoulder.": "Vous pleurez sur l’épaule |2 %s.",
+  "You cry out for help!": "Vous appelez à l'aide !",
+  "You cry.": "Vous pleurez.",
+  "You cuddle up against %s.": "Vous vous pelotonnez contre %s.",
+  "You curtsey before %s.": "Vous faites la révérence à %s.",
+  "You curtsey.": "Vous faites une révérence.",
+  "You dance with %s.": "Vous dansez avec %s.",
+  "You dig through your backpack.": "Vous cherchez dans votre sac à dos.",
+  "You disagree with %s.": "Vous n'êtes pas d'accord avec %s.",
+  "You disagree.": "Vous n'êtes pas d'accord.",
+  "You doubt %s.": "Vous doutez des paroles de %s.",
+  "You doubt the situation will end in your favor.": "Vous doutez sérieusement que la situation prenne un tour favorable pour vous.",
+  "You drop to your knees and plead in desperation.": "Vous vous mettez à genoux et implorez désespérément.",
+  "You drop your trousers and moon %s.": "Vous baissez votre pantalon et montrez vos fesses à %s.",
+  "You drop your trousers and moon everyone.": "Vous baissez votre pantalon et montrez vos fesses à tout le monde.",
+  "You duck behind %s.": "Vous vous cachez derrière %s.",
+  "You duck for cover.": "Vous vous cachez.",
+  "You encourage %s to chug. CHUG! CHUG! CHUG!": "Vous encouragez %s à faire teuf-teuf. TEUF-TEUF !",
+  "You encourage %s.": "Vous encouragez %s.",
+  "You encourage everyone around you.": "Vous encouragez tous ceux qui vous entourent !",
+  "You express your curiosity to those around you.": "Vous faites état de votre curiosité autour de vous.",
+  "You eye %s up and down.": "Vous regardez %s de haut en bas.",
+  "You faint at the sight of %s.": "Vous défaillez à la vue |2 %s.",
+  "You faint.": "Vous défaillez.",
+  "You fall asleep.  Zzzzzzz.": "Vous vous endormez.  Zzzzzzz.",
+  "You fart loudly.  Whew...what stinks?": "Vous laissez échapper un pet sonore.  Pouah… C’est quoi cette odeur ?",
+  "You feel the love.": "Vous ressentez de l’amour.",
+  "You fidget impatiently while waiting for %s.": "Vous remuez impatiemment en attendant %s.",
+  "You fidget.": "Vous remuez impatiemment.",
+  "You flex at %s.  Oooooh so strong!": "Vous bandez vos muscles devant %s. Ouaaah, balèze !",
+  "You flex your muscles.  Oooooh so strong!": "Vous bandez vos muscles. Ouaaah, balèze !",
+  "You flirt with %s.": "Vous flirtez avec %s.",
+  "You flirt.": "Vous flirtez.",
+  "You flop about helplessly around %s.": "Vous vous effondrez désespérément à côté |2 %s.",
+  "You flop about helplessly.": "Vous vous effondrez désespérément.",
+  "You flush with embarrassment.": "Vous rougissez de honte.",
+  "You frown with disappointment at %s.": "Vous regardez %s en fronçant les sourcils.",
+  "You frown.": "Vous froncez les sourcils.",
+  "You gasp at %s.": "Vous regardez %s en suffoquant.",
+  "You gasp.": "Vous suffoquez.",
+  "You gaze longingly at %s.": "Vous regardez %s avec avidité.",
+  "You gaze off into the distance.": "Vous regardez fixement au loin.",
+  "You gently pat %s.": "Vous donnez une tape dans le dos |2 %s.",
+  "You giggle at %s.": "Vous pouffez de rire en regardant %s.",
+  "You giggle.": "Vous pouffez de rire.",
+  "You give %s a high five!": "Vous en tapez cinq avec %s.",
+  "You give %s a shifty look.": "Vous jetez un regard louche à %s.",
+  "You give %s the signal.": "Vous donnez le signal à %s.",
+  "You give the order to open fire.": "Vous donnez l'ordre d'ouvrir le feu.",
+  "You give the signal.": "Vous donnez le signal.",
+  "You glare angrily at %s.": "Vous fusillez %s du regard.",
+  "You glare angrily.": "Vous lancez des regards furieux.",
+  "You gloat over %s's misfortune.": "Vous jubilez de la malchance |2 %s. Niark niark.",
+  "You gloat over everyone's misfortune.": "La malchance des autres vous fait jubiler. Niark niark.",
+  "You glower at %s.": "Vous lancez un regard noir à %s.",
+  "You glower at averyone around you.": "Vous lancez un regard noir à tous ceux qui vous entourent.",
+  "You greet %s warmly.": "Vous saluez %s chaleureusement.",
+  "You greet %s with a hearty hello!": "Vous lancez à %s un bonjour enthousiaste !",
+  "You greet everyone warmly.": "Vous saluez tout le monde chaleureusement.",
+  "You greet everyone with a hearty hello!": "Vous lancez un bonjour enthousiaste à la cantonade !",
+  "You grin wickedly at %s.": "Vous adressez un rictus vicieux à %s.",
+  "You grin wickedly.": "Vous arborez un rictus vicieux.",
+  "You grovel before %s like a subservient peon.": "Vous rampez devant %s comme un péon servile.",
+  "You grovel on the ground, wallowing in subservience.": "Vous rampez par terre en vous complaisant dans la servilité.",
+  "You growl menacingly at %s.": "Vous grognez d’un air menaçant en direction |2 %s.",
+  "You growl menacingly.": "Vous grognez d’un air menaçant.",
+  "You hail %s.": "Vous saluez %s.",
+  "You hail those around you.": "Vous saluez tous ceux qui vous entourent.",
+  "You hang your head dejectedly.": "Vous baissez la tête de découragement.",
+  "You have a bad feeling about %s.": "Vous avez un mauvais pressentiment concernant %s.",
+  "You have a bad feeling about this...": "Vous avez un mauvais pressentiment…",
+  "You have an idea!": "Vous avez une idée !",
+  "You have failed.": "Vous avez échoué.",
+  "You hiccup loudly.": "Vous hoquetez avec bruit.",
+  "You hiss at %s.": "Vous sifflez en direction de %s.",
+  "You hiss at everyone around you.": "Vous sifflez tout le monde autour de vous.",
+  "You hold %s's hand.": "Vous tenez la main de %s.",
+  "You hug %s.": "Vous serrez %s dans vos bras. Gros câlin !",
+  "You introduce yourself to %s.": "Vous vous présentez à %s.",
+  "You introduce yourself to everyone.": "Vous vous présentez à tout le monde.",
+  "You kneel before %s.": "Vous vous mettez à genoux devant %s.",
+  "You kneel down.": "Vous vous mettez à genoux.",
+  "You laugh at %s.": "Vous vous moquez |2 %s.",
+  "You laugh.": "Vous riez.",
+  "You lavish praise upon %s.": "Vous faites l’éloge |2 %s.",
+  "You let %s know that you are cold.": "Vous dites à %s que vous avez froid.",
+  "You let %s know that you are ready!": "Vous dites à %s que vous êtes prêt !",
+  "You let %s know that you are tired.": "Vous dites à %s que vous êtes fatigué.",
+  "You let %s know that you were just kidding!": "Vous dites à %s que vous plaisantiez !",
+  "You let %s know you are thirsty. Spare a drink?": "Vous dites à %s que vous avez soif. Vous avez à boire ?",
+  "You let %s know you'll be right back.": "Vous dites à %s que vous revenez dans une seconde.",
+  "You let everyone know that you are cold.": "Vous dites à tout le monde que vous avez froid.",
+  "You let everyone know that you are ready!": "Vous dites à tout le monde que vous êtes prêt !",
+  "You let everyone know that you are tired.": "Vous dites à tout le monde que vous êtes fatigué.",
+  "You let everyone know you'll be right back.": "Vous dites à ceux qui vous entourent que vous revenez dans une seconde.",
+  "You let forth a sharp whistle.": "Vous émettez un sifflement aigu.",
+  "You let out a boisterous guffaw!": "Vous vous poilez ouvertement !",
+  "You let out a hacking cough.": "Vous laissez échapper une quinte de toux.",
+  "You let out a hearty chuckle.": "Vous vous esclaffez bruyamment.",
+  "You let out a long, drawn-out sigh.": "Vous laissez échapper un soupir interminable.",
+  "You let out a loud belch.": "Vous rotez bruyamment.",
+  "You lick %s.": "Vous donnez un coup de langue à %s.",
+  "You lick your lips.": "Vous vous pourléchez les babines.",
+  "You lie down before %s.": "Vous vous couchez devant %s.",
+  "You lie down.": "Vous vous couchez.",
+  "You listen intently to %s.": "Vous écoutez attentivement %s.",
+  "You look absent-minded.": "Vous avez l'air distrait.",
+  "You look around for someone to bite.": "Vous cherchez quelqu'un à mordre.",
+  "You look around in awe.": "Vous regardez autour de vous avec admiration.",
+  "You look around nervously.": "Vous regardez autour de vous avec nervosité.",
+  "You look around.": "Vous regardez autour de vous.",
+  "You look at %s absently.": "Vous regardez %s d'un air distrait.",
+  "You look at %s and begin to drool.": "Vous regardez %s en bavant.",
+  "You look at %s and cover your face with your palm.": "Vous regardez %s et vous mettez votre main sur votre visage.",
+  "You look at %s and groan.": "Vous grognez à la vue |2 %s.",
+  "You look at %s and raise your hand.": "Vous regardez %s en levant la main.",
+  "You look at %s nervously.": "Vous regardez %s avec nervosité.",
+  "You look at %s with a confused look.": "Vous regardez %s d'un air confus.",
+  "You look at %s.": "Vous observez %s.",
+  "You look down upon %s with pity.": "Vous regardez %s de haut avec pitié.",
+  "You love %s.": "Vous aimez %s.",
+  "You make %s a promise.": "Vous faites une promesse à %s.",
+  "You make a rude gesture at %s.": "Vous faites un geste grossier à %s.",
+  "You make a rude gesture.": "Vous faites un geste grossier.",
+  "You make a taunting gesture at %s. Bring it!": "Vous narguez %s. Il faut être à la hauteur !",
+  "You massage %s's shoulders.": "Vous massez les épaules |2 %s.",
+  "You moan suggestively at %s.": "Vous regardez %s en gémissant de façon suggestive.",
+  "You moan suggestively.": "Vous gémissez de façon suggestive.",
+  "You mock life and all it stands for.": "Vous vous moquez de la vie et de ce qu’elle représente.",
+  "You mock the foolishness of %s.": "Vous vous moquez de la stupidité |2 %s.",
+  "You moo at %s. Mooooooooooo.": "Vous mugissez en direction |2 %s. Meuuuuuuuuuh.",
+  "You motion for %s to follow.": "Vous faites signe à %s de suivre.",
+  "You motion for everyone to follow.": "Vous faites signe à tout le monde de suivre.",
+  "You must be going.": "Vous devez vous en aller.",
+  "You mutter angrily at %s. Hmmmph!": "Vous marmonnez avec colère contre %s. Humpf !",
+  "You mutter angrily to yourself. Hmmmph!": "Vous marmonnez avec colère contre vous-même. Humpf !",
+  "You narrow your eyes in suspicion.": "Vous plissez les yeux avec méfiance.",
+  "You need a hug!": "Vous avez bien besoin d'un gros câlin !",
+  "You need a massage!": "Vous voulez un massage !",
+  "You need a pat.": "Vous avez besoin qu'on vous tape dans le dos.",
+  "You need to be comforted.": "Vous avez besoin d’être consolé.",
+  "You need to be cuddled.": "Vous avez besoin d’être cajolé.",
+  "You need to be petted.": "Vous voulez que quelqu'un vous cajole",
+  "You need to be soothed.": "Vous avez besoin d’être rassuré.",
+  "You nod at %s.": "Vous faites un signe de tête affirmatif à %s.",
+  "You nod.": "Vous acquiescez.",
+  "You object to %s.": "Vous objectez à %s.",
+  "You offer %s a truce.": "Vous proposez une trêve à %s.",
+  "You offer a truce.": "Vous proposez une trêve.",
+  "You peer around, searchingly.": "Vous examinez les alentours d’un air inquisiteur.",
+  "You peer at %s searchingly.": "Vous examinez %s d’un air inquisiteur.",
+  "You pet %s.": "Vous cajolez %s.",
+  "You pick your nose and show it to %s.": "Vous vous curez le nez et vous faites voir à %s.",
+  "You pinch %s.": "Vous pincez %s.",
+  "You pinch yourself.": "Vous vous pincez.",
+  "You pity those around you.": "Vous avez pitié de ceux qui vous entourent.",
+  "You play the world's smallest violin for %s.": "Vous vous apitoyez sur %s.",
+  "You plead for mercy.": "Vous demandez pitié.",
+  "You plead with %s for mercy.": "Vous implorez la clémence |2 %s.",
+  "You plead with %s.": "Vous implorez %s.",
+  "You point at %s.": "Vous pointez du doigt en direction |2 %s.",
+  "You point out %s as an incoming enemy!": "Vous indiquez qu'un ennemi approche : %s !",
+  "You point over yonder.": "Vous pointez du doigt l’horizon.",
+  "You poke %s.  Hey!": "Vous donnez une tape à %s. Hé !",
+  "You poke your belly and giggle.": "Vous vous tapez le ventre et rigolez.",
+  "You ponder %s's actions.": "Vous réfléchissez aux actes |2 %s.",
+  "You ponder the situation.": "Vous réfléchissez à la situation.",
+  "You pounce on top of %s.": "Vous sautez sur %s.",
+  "You pounce out from the shadows.": "Vous bondissez hors de l’ombre.",
+  "You pout at %s.": "Vous faites la moue à %s.",
+  "You pout at everyone around you.": "Vous faites la moue à tous ceux qui vous entourent.",
+  "You praise the Light.": "Vous glorifiez les Puissances.",
+  "You pray to the Gods.": "Vous priez les dieux.",
+  "You pull out your map.": "Vous sortez votre carte.",
+  "You punch %s's shoulder.": "Vous donnez un coup sur l'épaule de %s.",
+  "You punch yourself.": "Vous vous frappez.",
+  "You purr at %s.": "Vous vous adressez à %s en ronronnant.",
+  "You purr like a kitten.": "Vous ronronnez comme un chat.",
+  "You put on the charm.": "Vous mettez votre charme en avant.",
+  "You put out a challenge to everyone. Bring it on!": "Vous défiez tout le monde. C'est quand vous voulez !",
+  "You put up your hand for a high five.": "Vous levez la main pour en taper cinq.",
+  "You put your arm around %s's shoulder.": "Vous mettez votre bras autour de l'épaule de %s.",
+  "You question %s.": "Vous posez des questions à %s.",
+  "You quietly snicker to yourself.": "Vous riez sous cape.",
+  "You raise a drink in the air before chugging it down.  Cheers!": "Vous levez votre verre avant de le vider d'un trait. Santé !",
+  "You raise a drink to %s.  Cheers!": "Vous levez votre verre en l'honneur |2 %s. Santé !",
+  "You raise your eyebrow inquisitively at %s.": "Vous levez un sourcil interrogateur en direction |2 %s.",
+  "You raise your eyebrow inquisitively.": "Vous levez un sourcil interrogateur.",
+  "You raise your fist in anger at %s.": "Sous l'emprise de la colère, vous levez un poing rageur en direction |2 %s.",
+  "You raise your fist in anger.": "Vous levez un poing rageur sous l'emprise de la colère.",
+  "You raise your hand in the air.": "Vous levez la main.",
+  "You reached a new level. DING!": "Vous avez obtenu un niveau supplémentaire. DING !",
+  "You remain calm.": "Vous restez calme.",
+  "You roar with bestial vigor at %s.  So fierce!": "Vous hurlez sur %s. Quelle violence !",
+  "You roar with bestial vigor.  So fierce!": "Vous rugissez bestialement. Quelle férocité !",
+  "You roll on the floor laughing at %s.": "Vous vous roulez au sol en vous moquant |2 %s.",
+  "You roll on the floor laughing.": "Vous vous roulez au sol en riant.",
+  "You roll your eyes at %s.": "Vous roulez des yeux en direction de %s.",
+  "You roll your eyes.": "Vous roulez des yeux.",
+  "You ruffle %s's hair.": "Vous décoiffez %s.",
+  "You ruffle your hair.": "Vous vous décoiffez.",
+  "You run around in a frenzied state of panic.": "Vous cédez à la panique et courez partout en agitant les bras.",
+  "You salute %s with respect.": "Vous saluez %s respectueusement.",
+  "You say a prayer for %s.": "Vous dites une prière pour %s.",
+  "You scoff at %s.": "Vous ricanez de %s.",
+  "You scoff.": "Vous ricanez.",
+  "You scold %s.": "Vous grondez %s.",
+  "You scold yourself.": "Vous vous grondez.",
+  "You scowl at %s.": "Vous grimacez en regardant %s.",
+  "You scowl.": "Vous grimacez.",
+  "You scratch %s.  How catty!": "Vous griffez %s. Comme chien et chat !",
+  "You scratch yourself.  Ah, much better!": "Vous vous grattez.  Ah, beaucoup mieux !",
+  "You search %s for something.": "Vous fouillez %s pour quelque chose.",
+  "You search for something.": "Vous cherchez quelque chose.",
+  "You serenade %s with a song.": "Vous chantez une sérénade à %s.",
+  "You shake your fist at %s.": "Vous secouez le poing en direction de %s.",
+  "You shake your fist.": "Vous secouez le poing.",
+  "You shake your rear at %s.": "Vous remuez votre derrière devant %s.",
+  "You shake your rear.": "Vous remuez votre derrière.",
+  "You shimmy before %s.": "Vous vous trémoussez devant %s.",
+  "You shimmy before the masses.": "Vous vous trémoussez devant tout le monde.",
+  "You shiver beside %s. Chilling!": "Vous tremblez à côté |2 %s. Ca fait froid dans le dos !",
+  "You shiver in your boots. Chilling!": "Vous tremblez dans vos bottes. Ca fait froid dans le dos !",
+  "You shoo %s away. Be gone pest!": "Vous chassez %s. Du vent, sale teigne !",
+  "You shoo the measly pests away.": "Vous chassez les sales teignes.",
+  "You shout at %s.": "Vous criez sur %s.",
+  "You shout.": "Vous criez.",
+  "You shrug at %s.  Who knows?": "Vous regardez %s en haussant les épaules. Qui sait ?",
+  "You shrug.  Who knows?": "Vous haussez les épaules.  Qui sait ?",
+  "You shudder at the sight of %s.": "Vous frissonnez à la vue de %s.",
+  "You shudder.": "Vous frissonnez.",
+  "You sigh at %s.": "Vous regardez %s en soupirant.",
+  "You slap %s across the face. Ouch!": "Vous giflez %s. Aïe !",
+  "You slap yourself across the face. Ouch!": "Vous vous giflez. Aïe !",
+  "You smack %s upside the head.": "Vous frappez %s sur la tête.",
+  "You smack your forehead.": "Vous vous frappez le front.",
+  "You smell %s. Wow, someone stinks!": "Vous reniflez %s. Pouah ! Il y a quelqu’un qui pue !",
+  "You smell the air around you. Wow, someone stinks!": "Vous reniflez autour de vous. Pouah ! Il y a quelqu’un qui pue !",
+  "You smile at %s.": "Vous souriez à %s.",
+  "You smile shyly at %s.": "Vous souriez timidement à %s.",
+  "You smile shyly.": "Vous souriez timidement.",
+  "You smile.": "Vous souriez.",
+  "You smirk slyly at %s.": "Vous faites un sourire narquois à %s.",
+  "You snap your fingers at %s.": "Vous claquez des doigts en direction de %s.",
+  "You snap your fingers.": "Vous claquez des doigts.",
+  "You sneeze on %s. Achoo!": "Vous éternuez sur %s. Atchoum !",
+  "You sneeze. Achoo!": "Vous éternuez. Atchoum !",
+  "You snicker at %s.": "Vous regardez %s en ricanant.",
+  "You sniff %s.": "Vous reniflez %s.",
+  "You sniff the air around you.": "Vous reniflez autour de vous.",
+  "You snort derisively at %s.": "Vous reniflez avec dérision vers %s.",
+  "You snort.": "Vous reniflez.",
+  "You snub %s.": "Vous repoussez %s.",
+  "You snub all of the lowly peons around you.": "Vous repoussez toutes les pauvres larves autour de vous.",
+  "You soothe %s. There, there...things will be ok.": "Vous rassurez %s. Là, là… ça va aller.",
+  "You spit on %s.": "Vous crachez sur %s.",
+  "You spit on the ground.": "Vous crachez par terre.",
+  "You squeal at %s.": "Vous couinez à la vue de %s.",
+  "You squeal like a pig.": "Vous couinez comme un cochon.",
+  "You stand at attention and salute.": "Vous êtes au garde-à-vous et saluez.",
+  "You stare %s down.": "Vous faites baisser les yeux à %s.",
+  "You stare at %s in awe.": "Vous regardez %s avec admiration.",
+  "You stare blankly at %s.": "Vous gratifiez %s d'un regard inexpressif.",
+  "You stare blankly at your surroundings.": "Vous regardez autour de vous d'un air inexpressif.",
+  "You stare off into the distance.": "Vous regardez fixement au loin.",
+  "You start to charge.": "Vous commencez à charger.",
+  "You stretch your arms out.": "Vous tendez les bras.",
+  "You surrender before %s.  Such is the agony of defeat...": "Vous capitulez devant %s. Telles sont les affres de la défaite...",
+  "You surrender to your opponents.": "Vous capitulez.",
+  "You sweat at the sight of %s.": "Vous êtes en sueur à la vue |2 %s.",
+  "You take a deep breath.": "Vous respirez un bon coup.",
+  "You take a mighty quaff of your beverage.": "Vous prenez une grosse gorgée de votre boisson.",
+  "You take one look at %s and let out a guffaw!": "Vous jetez un coup d'œil à %s et vous vous poilez un bon coup !",
+  "You take one look at %s and panic.": "Vous regardez %s et vous cédez à la panique.",
+  "You talk excitedly with %s.": "Vous parlez sur un ton animé à %s.",
+  "You talk excitedly with everyone.": "Vous parlez sur un ton animé avec quelqu’un.",
+  "You talk to yourself since no one else seems interested.": "Vous parlez tout seul puisque personne ne s’intéresse à vous.",
+  "You tap your foot as you wait for %s.": "Vous tapez du pied en attendant %s.",
+  "You tap your foot.  Hurry up already!": "Vous tapez du pied.  Allez, plus vite !",
+  "You taunt everyone around you. Bring it fools!": "Vous narguez tout le monde autour de vous. Montrez-vous à la hauteur, crétins !",
+  "You tease %s.": "Vous provoquez %s.",
+  "You tell %s NO.  Not going to happen.": "Vous dites NON à %s. Pas question.",
+  "You tell %s a joke.": "Vous dites une blague à %s.",
+  "You tell %s that you must be going.": "Vous dites à %s que vous devez vous en aller.",
+  "You tell %s to be quiet. Shhh!": "Vous dites à %s de se taire. Chut !",
+  "You tell %s to go.": "Vous dites à %s de s'en aller.",
+  "You tell %s to hurry up.": "Vous dites à %s de se dépêcher.",
+  "You tell %s to stop attacking.": "Vous dites à %s d'arrêter d'attaquer.",
+  "You tell %s to take a deep breath.": "Vous dites à %s de respirer un bon coup.",
+  "You tell a joke.": "Vous dites une blague.",
+  "You tell everyone to attack %s.": "Vous dites à tout le monde d'attaquer %s.",
+  "You tell everyone to attack something.": "Vous dites à tout le monde d'attaquer quelque chose.",
+  "You tell everyone to be quiet. Shhh!": "Vous dites à tout le monde de se taire. Chut !",
+  "You tell everyone to go.": "Vous dites à tout le monde de s'en aller.",
+  "You tell everyone to stop attacking.": "Vous dites à tout le monde d'arrêter d'attaquer.",
+  "You thank %s.": "Vous remerciez %s.",
+  "You thank everyone around you.": "Vous remerciez quelqu’un proche de vous.",
+  "You think %s has failed.": "Vous pensez que %s a échoué.",
+  "You think %s is a sexy devil.": "Vous trouvez %s très sexy.",
+  "You think %s is charming.": "Vous trouvez que %s a du charme.",
+  "You think %s is serious.": "Vous pensez que %s ne plaisante pas.",
+  "You think %s is the son of a motherless ogre.": "Vous pensez que la mère |2 %s est une ogresse qui pue. Qui pue la patate.",
+  "You think about %s.": "Vous pensez à %s.",
+  "You think everyone around you is a son of a motherless ogre.": "Vous pensez que les mères de tous ceux qui sont autour de vous sont des ogresses qui puent. Qui puent la patate.",
+  "You think that %s will regret it.": "Vous pensez que %s le regrettera.",
+  "You think this is serious business.": "Vous pensez que cette affaire n'est pas une plaisanterie",
+  "You threaten %s with the wrath of doom.": "Vous menacez %s d'un sort cruel.",
+  "You threaten everyone with the wrath of doom.": "Vous menacez tout le monde d'un sort cruel.",
+  "You tickle %s.  Hee hee!": "Vous chatouillez %s. Hi hi hi !",
+  "You try to calm %s down.": "Vous essayez de calmer %s.",
+  "You try to pick up the pace.": "Vous essayez de suivre le rythme.",
+  "You try to sneak away from %s.": "Vous essayez de fuir %s discrètement.",
+  "You try to sneak away.": "Vous essayez de vous enfuir discrètement.",
+  "You twiddle your thumbs.": "Vous vous tournez les pouces.",
+  "You veto %s's motion.": "Vous vous opposez à la proposition |2 %s.",
+  "You veto the motion on the floor.": "Vous vous opposez à la proposition en cours.",
+  "You vow revenge on %s.": "Vous jurez de vous venger de %s.",
+  "You vow you will have your revenge.": "Vous jurez que vous aurez votre revanche.",
+  "You want %s to know that you are hopelessly lost.": "Vous voulez que %s sache que vous êtes perdu.",
+  "You want to be tickled.  Hee hee!": "Vous voulez des chatouilles.  Hi hi hi !",
+  "You want to know the meaning of life.": "Vous voulez connaître le sens de la vie.",
+  "You want to make an offer.": "Vous voulez faire une offre.",
+  "You want to talk things over with %s.": "Vous voulez discuter avec %s.",
+  "You warn %s that an enemy is near.": "Vous prévenez %s qu'un ennemi se trouve non loin.",
+  "You warn %s.": "Vous avertissez %s.",
+  "You warn everyone of incoming enemies!": "Vous prévenez tout le monde que des ennemis approchent !",
+  "You warn everyone that an enemy is near.": "Vous prévenez tout le monde qu'un ennemi se trouve non loin.",
+  "You warn everyone.": "Vous avertissez tout le monde.",
+  "You wave at %s.": "Vous faites signe à %s.",
+  "You wave goodbye to %s.  Farewell!": "Vous dites au revoir à %s. Adieu !",
+  "You wave goodbye to everyone.  Farewell!": "Vous dites au revoir à tout le monde. Adieu !",
+  "You wave.": "Vous faites un signe de la main.",
+  "You welcome %s.": "Vous souhaitez la bienvenue à %s.",
+  "You welcome everyone.": "Vous souhaitez la bienvenue à tout le monde.",
+  "You were happy to help %s.": "Vous vous êtes fait un plaisir d'aider %s.",
+  "You were happy to help.": "Vous vous êtes fait un plaisir d'aider.",
+  "You were just kidding!": "Vous plaisantiez !",
+  "You whine pathetically at %s.": "Vous pleurnichez auprès |2 %s.",
+  "You whine pathetically.": "Vous pleurnichez lamentablement.",
+  "You whistle at %s.": "Vous sifflez en direction |2 %s.",
+  "You wink slyly at %s.": "Vous faites un clin d'œil à %s.",
+  "You wink slyly.": "Vous faites un clin d'œil.",
+  "You wish %s good luck.": "Vous souhaitez bonne chance à %s.",
+  "You wish %s the best of luck.": "Vous souhaitez bonne chance à %s.",
+  "You wish everyone good luck.": "Vous souhaitez bonne chance à tout le monde.",
+  "You wish for some good luck.": "Vous souhaitez avoir de la chance.",
+  "You wish someone would hold your hand.": "Vous aimeriez que quelqu'un vous tienne la main.",
+  "You work with %s.": "Vous travaillez avec %s.",
+  "You yawn sleepily at %s.": "Vous bâillez au nez |2 %s.",
+  "You yawn sleepily.": "Vous bâillez.",
+  "You yell for %s to flee!": "Vous hurlez à %s qu'il faut fuir !",
+  "You yell for everyone to flee!": "Vous hurlez à tout le monde de fuir !",
+  "You're too sexy for your tunic...so sexy it hurts.": "Vous êtes vraiment trop sexy… sexy à mourir.",
+  "Your eyes shift back and forth suspiciously.": "Vos yeux tournent de tous les côtés avec méfiance."
+ }
+}
